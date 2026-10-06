@@ -1,0 +1,22 @@
+{
+  "noLocalhost": true,
+  "canonical": "<link rel=\"canonical\" href=\"https://skyi.co.za/home/\"/>",
+  "publicSister": true,
+  "singleHeading": true,
+  "currentBrandPrelanding": true,
+  "newDroneCopies": [
+    {
+      "name": "external-drone.png",
+      "bytesPreserved": true
+    },
+    {
+      "name": "window-washing.png",
+      "bytesPreserved": true
+    }
+  ],
+  "generation": {
+    "file": "web/public/images/skyi/window-washing-cinematic-20261006.webp",
+    "bytes": 268714,
+    "sourcePreserved": true
+  }
+}

@@ -1,40 +1,24 @@
 "use client";
 
 // ===== Shared motion and menu state =====
-import { createContext, useContext, useEffect, useRef, useState, useSyncExternalStore } from "react";
+import { createContext, useContext, useEffect, useRef, useState } from "react";
 import { useReducedMotion } from "@/hooks/useReducedMotion";
 import { useClientReady } from "@/hooks/useClientReady";
 import styles from "./SkyI.module.css";
 
-const MotionContext = createContext<{ paused: boolean; menuOpen: boolean; setMenuOpen: (value: boolean) => void; togglePause: () => void }>({ paused: false, menuOpen: false, setMenuOpen: () => {}, togglePause: () => {} });
+const MotionContext = createContext<{ paused: boolean; menuOpen: boolean; setMenuOpen: (value: boolean) => void }>({ paused: false, menuOpen: false, setMenuOpen: () => {} });
 export const useSkyIMotion = () => useContext(MotionContext);
-
-function subscribePause(callback: () => void) {
-  window.addEventListener("skyi-motion-change", callback);
-  window.addEventListener("storage", callback);
-  return () => { window.removeEventListener("skyi-motion-change", callback); window.removeEventListener("storage", callback); };
-}
-let temporaryPause = false;
-function readPause() { try { return localStorage.getItem("skyi-motion-paused") === "true"; } catch { return temporaryPause; } }
 
 export function SkyIProvider({ children, className }: { children: React.ReactNode; className: string }) {
   const reduced = useReducedMotion();
-  const paused = useSyncExternalStore(subscribePause, readPause, () => false);
   const ready = useClientReady();
   const [menuOpen, setMenuOpen] = useState(false);
   const root = useRef<HTMLDivElement>(null);
   const cursor = useRef<HTMLSpanElement>(null);
 
-  // ===== Persist explicit animation preference =====
-  const togglePause = () => {
-    temporaryPause = !paused;
-    try { localStorage.setItem("skyi-motion-paused", String(!paused)); } catch {}
-    window.dispatchEvent(new Event("skyi-motion-change"));
-  };
-
   // ===== GSAP / Lenis lifecycle, scoped to Sky I home =====
   useEffect(() => {
-    if (reduced || paused || menuOpen) return;
+    if (reduced || menuOpen) return;
     let disposed = false;
     let cleanup = () => {};
     void Promise.all([import("gsap"), import("gsap/ScrollTrigger"), import("lenis")]).then(([{ gsap }, { ScrollTrigger }, { default: Lenis }]) => {
@@ -66,11 +50,11 @@ export function SkyIProvider({ children, className }: { children: React.ReactNod
       };
     }).catch(() => { /* Native scrolling remains available if the optional runtime fails. */ });
     return () => { disposed = true; cleanup(); };
-  }, [reduced, paused, menuOpen]);
+  }, [reduced, menuOpen]);
 
   // ===== Fine-pointer cursor and magnetic controls =====
   useEffect(() => {
-    if (reduced || paused || menuOpen || !matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+    if (reduced || menuOpen || !matchMedia("(hover: hover) and (pointer: fine)").matches) return;
     const node = root.current;
     let frame = 0;
     let active: HTMLElement | null = null;
@@ -94,10 +78,10 @@ export function SkyIProvider({ children, className }: { children: React.ReactNod
     node?.addEventListener("pointerleave", clear);
     window.addEventListener("blur", clear);
     return () => { cancelAnimationFrame(frame); clear(); node?.removeEventListener("pointermove", move); node?.removeEventListener("pointerleave", clear); window.removeEventListener("blur", clear); };
-  }, [reduced, paused, menuOpen]);
+  }, [reduced, menuOpen]);
 
-  return <MotionContext.Provider value={{ paused: paused || reduced, menuOpen, setMenuOpen, togglePause }}>
-    <div ref={root} className={`${styles.page} ${className}`} data-enhanced={ready ? "true" : "false"} data-motion={paused || reduced ? "paused" : "running"}>
+  return <MotionContext.Provider value={{ paused: reduced, menuOpen, setMenuOpen }}>
+    <div ref={root} className={`${styles.page} ${className}`} data-enhanced={ready ? "true" : "false"} data-motion={reduced ? "paused" : "running"}>
       {children}
       <span ref={cursor} className={styles.cursor} aria-hidden="true" />
     </div>

@@ -1,7 +1,7 @@
 // ===== Sky I photography-led hero =====
 import { getSkyridersUrl, skyISite } from "@/config/site";
 import Link from "next/link";
-import { skyICopy } from "@/content/skyi";
+import { HardHat, ChartNoAxesColumnIncreasing, Leaf, UsersRound } from "lucide-react";
 import { SkyIProvider } from "./SkyIProvider";
 import { SkyINavigation } from "./SkyINavigation";
 import { SkyIPhotography } from "./SkyIPhotography";
@@ -9,6 +9,8 @@ import { SkyIControls } from "./SkyIControls";
 import { SkyIDrone } from "./SkyIDrone";
 import { SkyISections } from "./SkyISections";
 import { SkyIReveals } from "./SkyIReveals";
+import { SkyIHeroMotion } from "./SkyIHeroMotion";
+import { ScrambleText } from "../ui/scramble-text";
 import styles from "./SkyI.module.css";
 import "@/styles/skyi-tokens.css";
 
@@ -24,26 +26,21 @@ export function SkyIHome({ skyridersHref }: { skyridersHref: string }) {
     <main id="skyi-main">
       <section id="opening" className={styles.opening} aria-labelledby="skyi-title" tabIndex={-1}>
         <SkyIPhotography />
-        <SkyIDrone />
         <div className={styles.shade} aria-hidden="true" />
-        <span className={styles.vertical}>PERSPECTIVE / INSPECTION / UNDERSTANDING</span>
-        <div className={`${styles.container} ${styles.openingCopy}`}>
-          <p className={styles.label}>{skyICopy.discipline}</p>
-          <h1 id="skyi-title" tabIndex={-1}>A clearer view.<br /><em>A better next step.</em></h1>
-          <p className={styles.intro}>{skyICopy.introduction}</p>
-          <div className={styles.heroActions}><a className={styles.heroAction} href="#contact" data-magnetic>Request an inspection <span aria-hidden="true">↗</span></a><a href="#services">Our inspection approach <span aria-hidden="true">↓</span></a></div>
-          {/* ===== Inspection-to-intervention context, within the hero ===== */}
-          <details id="inspection" className={styles.perspective} tabIndex={-1}>
-            <summary>Inspection to intervention <span aria-hidden="true">+</span></summary>
-            <div><p>{skyICopy.partnerBody}</p><a href={sisterUrl}>Skyriders, our rope access sister company <span aria-hidden="true">↗</span></a></div>
-          </details>
+        <span className={styles.vertical} data-hero-motion="left" data-hero-delay="400" data-scramble-enter><ScrambleText text="PERSPECTIVE / INSPECTION / UNDERSTANDING" /></span>
+        <SkyIDrone />
+        <div className={`${styles.container} ${styles.heroPrinciples}`} aria-label="Our priorities">
+          <span data-hero-motion="bottom" data-hero-delay="950" data-scramble-enter><HardHat aria-hidden="true" data-hero-motion="icon" data-hero-delay="1150" /><ScrambleText text="Reduced risk" /></span>
+          <span data-hero-motion="top" data-hero-delay="1030" data-scramble-enter><ChartNoAxesColumnIncreasing aria-hidden="true" data-hero-motion="icon" data-hero-delay="1230" /><ScrambleText text="Data driven" /></span>
+          <span data-hero-motion="bottom" data-hero-delay="1110" data-scramble-enter><Leaf aria-hidden="true" data-hero-motion="icon" data-hero-delay="1310" /><ScrambleText text="Sustainable solutions" /></span>
+          <span data-hero-motion="top" data-hero-delay="1190" data-scramble-enter><UsersRound aria-hidden="true" data-hero-motion="icon" data-hero-delay="1390" /><ScrambleText text="Expert support" /></span>
+          <p data-hero-motion="right" data-hero-delay="1250" data-scramble-enter><ScrambleText text="Real data." /><br /><em><ScrambleText text="Real outcomes." /></em></p>
         </div>
-        {/* ===== Hero baseline ===== */}
-        <div className={`${styles.container} ${styles.baseline}`}><span>Sky I inspects. Skyriders does the work.</span><Link href="/">Company selection <span aria-hidden="true">↗</span></Link></div>
       </section>
       <SkyISections sisterUrl={sisterUrl} />
     </main>
     <SkyIReveals />
+    <SkyIHeroMotion />
     {/* ===== Footer Section ===== */}
     <footer id="skyi-footer" className={styles.fullFooter}><div className={styles.container}><span className={styles.footerMark}>Sky I</span><div><a href="#contact">Contact the inspection team ↗</a><a href={sisterUrl}>Skyriders — access specialists ↗</a><Link href="/">Company selection ↗</Link><SkyIControls /></div><p>Industrial drone inspection · South Africa</p></div></footer>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />

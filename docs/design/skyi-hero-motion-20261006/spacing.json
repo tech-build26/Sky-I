@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "lift": 24,
+      "gap": 24,
+      "translate": "0px -24px",
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lift": 24,
+      "gap": 24,
+      "translate": "0px -24px",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lift": 24,
+      "gap": 24,
+      "translate": "0px -24px",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "lift": 24,
+      "gap": 24,
+      "translate": "0px -24px",
+      "overflow": false
+    }
+  ]
+}

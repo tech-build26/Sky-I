@@ -1,0 +1,158 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "width": 390,
+      "scroll": 390,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fwindow-washing-cinematic-20261006.webp&w=1920&q=75",
+      "buttons": [
+        {
+          "x": 35.28125,
+          "y": 723,
+          "width": 75.6875,
+          "height": 44,
+          "top": 723,
+          "right": 110.96875,
+          "bottom": 767,
+          "left": 35.28125
+        },
+        {
+          "x": 157.140625,
+          "y": 723,
+          "width": 75.6875,
+          "height": 44,
+          "top": 723,
+          "right": 232.828125,
+          "bottom": 767,
+          "left": 157.140625
+        },
+        {
+          "x": 279.015625,
+          "y": 723,
+          "width": 75.6875,
+          "height": 44,
+          "top": 723,
+          "right": 354.703125,
+          "bottom": 767,
+          "left": 279.015625
+        }
+      ],
+      "captions": [
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        },
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        },
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fwindow-washing-cinematic-20261006.webp&w=1920&q=75",
+      "buttons": [
+        {
+          "x": 24.546875,
+          "y": 723,
+          "width": 75.6875,
+          "height": 44,
+          "top": 723,
+          "right": 100.234375,
+          "bottom": 767,
+          "left": 24.546875
+        },
+        {
+          "x": 122.140625,
+          "y": 723,
+          "width": 75.6875,
+          "height": 44,
+          "top": 723,
+          "right": 197.828125,
+          "bottom": 767,
+          "left": 122.140625
+        },
+        {
+          "x": 219.75,
+          "y": 723,
+          "width": 75.6875,
+          "height": 44,
+          "top": 723,
+          "right": 295.4375,
+          "bottom": 767,
+          "left": 219.75
+        }
+      ],
+      "captions": [
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        },
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        },
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        }
+      ]
+    },
+    {
+      "width": 600,
+      "scroll": 600,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fwindow-washing-cinematic-20261006.webp&w=1920&q=75",
+      "buttons": [
+        {
+          "x": 74.15625,
+          "y": 756,
+          "width": 75.6875,
+          "height": 44,
+          "top": 756,
+          "right": 149.84375,
+          "bottom": 800,
+          "left": 74.15625
+        },
+        {
+          "x": 262.15625,
+          "y": 756,
+          "width": 75.6875,
+          "height": 44,
+          "top": 756,
+          "right": 337.84375,
+          "bottom": 800,
+          "left": 262.15625
+        },
+        {
+          "x": 450.15625,
+          "y": 756,
+          "width": 75.6875,
+          "height": 44,
+          "top": 756,
+          "right": 525.84375,
+          "bottom": 800,
+          "left": 450.15625
+        }
+      ],
+      "captions": [
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        },
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        },
+        {
+          "font": "11.68px",
+          "opacity": "1"
+        }
+      ]
+    }
+  ]
+}

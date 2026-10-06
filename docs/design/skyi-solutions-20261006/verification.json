@@ -1,0 +1,2007 @@
+{
+  "date": "2026-10-06",
+  "browser": "Chrome via Playwright, local emulation",
+  "errors": [],
+  "results": [
+    {
+      "test": "scene-1",
+      "viewport": [
+        1440,
+        900
+      ],
+      "scrollWidth": 1440,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "top": 0,
+        "right": 1440,
+        "bottom": 900,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 201.375,
+          "y": 751.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 751.9375,
+          "right": 336.203125,
+          "bottom": 797.9375,
+          "left": 201.375
+        },
+        {
+          "x": 652.578125,
+          "y": 751.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 751.9375,
+          "right": 787.40625,
+          "bottom": 797.9375,
+          "left": 652.578125
+        },
+        {
+          "x": 1103.765625,
+          "y": 751.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 751.9375,
+          "right": 1238.59375,
+          "bottom": 797.9375,
+          "left": 1103.765625
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -20.220426559448242,
+            "y": 479.0447692871094,
+            "width": 585.2679443359375,
+            "height": 208.51034545898438,
+            "top": 479.0447692871094,
+            "right": 565.0475177764893,
+            "bottom": 687.5551147460938,
+            "left": -20.220426559448242
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 499.39752197265625,
+            "y": 472.3521423339844,
+            "width": 442.098876953125,
+            "height": 253.59469604492188,
+            "top": 472.3521423339844,
+            "right": 941.4963989257812,
+            "bottom": 725.9468383789062,
+            "left": 499.39752197265625
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 946.9191284179688,
+            "y": 474.4117736816406,
+            "width": 442.57183837890625,
+            "height": 254.45755004882812,
+            "top": 474.4117736816406,
+            "right": 1389.490966796875,
+            "bottom": 728.8693237304688,
+            "left": 946.9191284179688
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "scene-2",
+      "viewport": [
+        1440,
+        900
+      ],
+      "scrollWidth": 1440,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "top": 0,
+        "right": 1440,
+        "bottom": 900,
+        "left": 0
+      },
+      "heading": "A clearer view.\nA better next step.",
+      "placement": "right",
+      "buttons": [
+        {
+          "x": 201.375,
+          "y": 751.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 751.9375,
+          "right": 336.203125,
+          "bottom": 797.9375,
+          "left": 201.375
+        },
+        {
+          "x": 652.578125,
+          "y": 751.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 751.9375,
+          "right": 787.40625,
+          "bottom": 797.9375,
+          "left": 652.578125
+        },
+        {
+          "x": 1103.765625,
+          "y": 751.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 751.9375,
+          "right": 1238.59375,
+          "bottom": 797.9375,
+          "left": 1103.765625
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -20.608095169067383,
+            "y": 486.75714111328125,
+            "width": 582.6444702148438,
+            "height": 200.7330322265625,
+            "top": 486.75714111328125,
+            "right": 562.0363750457764,
+            "bottom": 687.4901733398438,
+            "left": -20.608095169067383
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 501.42999267578125,
+            "y": 467.86236572265625,
+            "width": 444.76214599609375,
+            "height": 258.32464599609375,
+            "top": 467.86236572265625,
+            "right": 946.192138671875,
+            "bottom": 726.18701171875,
+            "left": 501.42999267578125
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 952.5003051757812,
+            "y": 467.4211730957031,
+            "width": 444.95281982421875,
+            "height": 258.6932067871094,
+            "top": 467.4211730957031,
+            "right": 1397.453125,
+            "bottom": 726.1143798828125,
+            "left": 952.5003051757812
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "scene-3",
+      "viewport": [
+        1440,
+        900
+      ],
+      "scrollWidth": 1440,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900.4375,
+        "top": 0,
+        "right": 1440,
+        "bottom": 900.4375,
+        "left": 0
+      },
+      "heading": "See further.\nThink ahead.",
+      "placement": "left",
+      "buttons": [
+        {
+          "x": 201.375,
+          "y": 752.375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 752.375,
+          "right": 336.203125,
+          "bottom": 798.375,
+          "left": 201.375
+        },
+        {
+          "x": 652.578125,
+          "y": 752.375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 752.375,
+          "right": 787.40625,
+          "bottom": 798.375,
+          "left": 652.578125
+        },
+        {
+          "x": 1103.765625,
+          "y": 752.375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 752.375,
+          "right": 1238.59375,
+          "bottom": 798.375,
+          "left": 1103.765625
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -20.303638458251953,
+            "y": 482.0325622558594,
+            "width": 584.3676147460938,
+            "height": 205.81008911132812,
+            "top": 482.0325622558594,
+            "right": 564.0639762878418,
+            "bottom": 687.8426513671875,
+            "left": -20.303638458251953
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 501.5137023925781,
+            "y": 472.91680908203125,
+            "width": 442.3757019042969,
+            "height": 254.08349609375,
+            "top": 472.91680908203125,
+            "right": 943.889404296875,
+            "bottom": 727.0003051757812,
+            "left": 501.5137023925781
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 952.743896484375,
+            "y": 474.2076416015625,
+            "width": 441.6865234375,
+            "height": 252.8953857421875,
+            "top": 474.2076416015625,
+            "right": 1394.430419921875,
+            "bottom": 727.10302734375,
+            "left": 952.743896484375
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "hover-focus-pause-service-handoff",
+      "passed": true
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        1920,
+        1080
+      ],
+      "scrollWidth": 1920,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 390.90625,
+          "y": 931.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 931.9375,
+          "right": 525.734375,
+          "bottom": 977.9375,
+          "left": 390.90625
+        },
+        {
+          "x": 892.578125,
+          "y": 931.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 931.9375,
+          "right": 1027.40625,
+          "bottom": 977.9375,
+          "left": 892.578125
+        },
+        {
+          "x": 1394.234375,
+          "y": 931.9375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 931.9375,
+          "right": 1529.0625,
+          "bottom": 977.9375,
+          "left": 1394.234375
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": 133.15464782714844,
+            "y": 626.7227172851562,
+            "width": 650.346923828125,
+            "height": 251.63262939453125,
+            "top": 626.7227172851562,
+            "right": 783.5015716552734,
+            "bottom": 878.3553466796875,
+            "left": 133.15464782714844
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 716.9400024414062,
+            "y": 606.51611328125,
+            "width": 493.63372802734375,
+            "height": 309.12030029296875,
+            "top": 606.51611328125,
+            "right": 1210.57373046875,
+            "bottom": 915.6364135742188,
+            "left": 716.9400024414062
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 1217.110107421875,
+            "y": 610.12060546875,
+            "width": 491.160400390625,
+            "height": 305.089599609375,
+            "top": 610.12060546875,
+            "right": 1708.2705078125,
+            "bottom": 915.210205078125,
+            "left": 1217.110107421875
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        1366,
+        768
+      ],
+      "scrollWidth": 1366,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 774.0625,
+        "top": 0,
+        "right": 1366,
+        "bottom": 774.0625,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 187.5625,
+          "y": 640,
+          "width": 134.828125,
+          "height": 46,
+          "top": 640,
+          "right": 322.390625,
+          "bottom": 686,
+          "left": 187.5625
+        },
+        {
+          "x": 615.5625,
+          "y": 640,
+          "width": 134.828125,
+          "height": 46,
+          "top": 640,
+          "right": 750.390625,
+          "bottom": 686,
+          "left": 615.5625
+        },
+        {
+          "x": 1043.578125,
+          "y": 640,
+          "width": 134.828125,
+          "height": 46,
+          "top": 640,
+          "right": 1178.40625,
+          "bottom": 686,
+          "left": 1043.578125
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -22.842771530151367,
+            "y": 406.0979309082031,
+            "width": 555.654296875,
+            "height": 189.80416870117188,
+            "top": 406.0979309082031,
+            "right": 532.8115253448486,
+            "bottom": 595.902099609375,
+            "left": -22.842771530151367
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 475.95489501953125,
+            "y": 389.0262451171875,
+            "width": 421.58837890625,
+            "height": 232.50628662109375,
+            "top": 389.0262451171875,
+            "right": 897.5432739257812,
+            "bottom": 621.5325317382812,
+            "left": 475.95489501953125
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 902.1429443359375,
+            "y": 392.3399658203125,
+            "width": 419.7666015625,
+            "height": 229.05712890625,
+            "top": 392.3399658203125,
+            "right": 1321.9095458984375,
+            "bottom": 621.3970947265625,
+            "left": 902.1429443359375
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        1280,
+        720
+      ],
+      "scrollWidth": 1280,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 774.0625,
+        "top": 0,
+        "right": 1280,
+        "bottom": 774.0625,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 171.515625,
+          "y": 640,
+          "width": 134.828125,
+          "height": 46,
+          "top": 640,
+          "right": 306.34375,
+          "bottom": 686,
+          "left": 171.515625
+        },
+        {
+          "x": 572.578125,
+          "y": 640,
+          "width": 134.828125,
+          "height": 46,
+          "top": 640,
+          "right": 707.40625,
+          "bottom": 686,
+          "left": 572.578125
+        },
+        {
+          "x": 973.640625,
+          "y": 640,
+          "width": 134.828125,
+          "height": 46,
+          "top": 640,
+          "right": 1108.46875,
+          "bottom": 686,
+          "left": 973.640625
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -21.501670837402344,
+            "y": 406.40142822265625,
+            "width": 520.8782958984375,
+            "height": 189.1971435546875,
+            "top": 406.40142822265625,
+            "right": 499.37662506103516,
+            "bottom": 595.5985717773438,
+            "left": -21.501670837402344
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 446.1252136230469,
+            "y": 389.22882080078125,
+            "width": 395.2789611816406,
+            "height": 232.10113525390625,
+            "top": 389.22882080078125,
+            "right": 841.4041748046875,
+            "bottom": 621.3299560546875,
+            "left": 446.1252136230469
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 845.376953125,
+            "y": 392.43341064453125,
+            "width": 393.439208984375,
+            "height": 228.87017822265625,
+            "top": 392.43341064453125,
+            "right": 1238.816162109375,
+            "bottom": 621.3035888671875,
+            "left": 845.376953125
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        1024,
+        768
+      ],
+      "scrollWidth": 1024,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 849.328125,
+        "top": 0,
+        "right": 1024,
+        "bottom": 849.328125,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 123.734375,
+          "y": 701.265625,
+          "width": 134.828125,
+          "height": 46,
+          "top": 701.265625,
+          "right": 258.5625,
+          "bottom": 747.265625,
+          "left": 123.734375
+        },
+        {
+          "x": 444.578125,
+          "y": 701.265625,
+          "width": 134.828125,
+          "height": 46,
+          "top": 701.265625,
+          "right": 579.40625,
+          "bottom": 747.265625,
+          "left": 444.578125
+        },
+        {
+          "x": 765.421875,
+          "y": 701.265625,
+          "width": 134.828125,
+          "height": 46,
+          "top": 701.265625,
+          "right": 900.25,
+          "bottom": 747.265625,
+          "left": 765.421875
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -17.42870330810547,
+            "y": 465.5701904296875,
+            "width": 417.154296875,
+            "height": 178.125244140625,
+            "top": 465.5701904296875,
+            "right": 399.72559356689453,
+            "bottom": 643.6954345703125,
+            "left": -17.42870330810547
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 357.3975830078125,
+            "y": 448.62860107421875,
+            "width": 316.7186279296875,
+            "height": 219.27032470703125,
+            "top": 448.62860107421875,
+            "right": 674.1162109375,
+            "bottom": 667.89892578125,
+            "left": 357.3975830078125
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 676.385986328125,
+            "y": 451.5083923339844,
+            "width": 314.983642578125,
+            "height": 216.68899536132812,
+            "top": 451.5083923339844,
+            "right": 991.36962890625,
+            "bottom": 668.1973876953125,
+            "left": 676.385986328125
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        768,
+        1024
+      ],
+      "scrollWidth": 768,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1036.09375,
+        "top": 0,
+        "right": 768,
+        "bottom": 1036.09375,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 75.9375,
+          "y": 847.03125,
+          "width": 134.828125,
+          "height": 46,
+          "top": 847.03125,
+          "right": 210.765625,
+          "bottom": 893.03125,
+          "left": 75.9375
+        },
+        {
+          "x": 316.578125,
+          "y": 847.03125,
+          "width": 134.828125,
+          "height": 46,
+          "top": 847.03125,
+          "right": 451.40625,
+          "bottom": 893.03125,
+          "left": 316.578125
+        },
+        {
+          "x": 557.21875,
+          "y": 847.03125,
+          "width": 134.828125,
+          "height": 46,
+          "top": 847.03125,
+          "right": 692.046875,
+          "bottom": 893.03125,
+          "left": 557.21875
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -13.933849334716797,
+            "y": 556.8690185546875,
+            "width": 314.58642578125,
+            "height": 233.293212890625,
+            "top": 556.8690185546875,
+            "right": 300.6525764465332,
+            "bottom": 790.1622314453125,
+            "left": -13.933849334716797
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 268.0142822265625,
+            "y": 536.392333984375,
+            "width": 239.4852294921875,
+            "height": 289.555419921875,
+            "top": 536.392333984375,
+            "right": 507.49951171875,
+            "bottom": 825.94775390625,
+            "left": 268.0142822265625
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 507.0999450683594,
+            "y": 538.9437255859375,
+            "width": 237.13388061523438,
+            "height": 287.630859375,
+            "top": 538.9437255859375,
+            "right": 744.2338256835938,
+            "bottom": 826.5745849609375,
+            "left": 507.0999450683594
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        600,
+        800
+      ],
+      "scrollWidth": 600,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 600,
+        "height": 943.71875,
+        "top": 0,
+        "right": 600,
+        "bottom": 943.71875,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 77.953125,
+          "y": 737,
+          "width": 68.078125,
+          "height": 44,
+          "top": 737,
+          "right": 146.03125,
+          "bottom": 781,
+          "left": 77.953125
+        },
+        {
+          "x": 265.953125,
+          "y": 737,
+          "width": 68.078125,
+          "height": 44,
+          "top": 737,
+          "right": 334.03125,
+          "bottom": 781,
+          "left": 265.953125
+        },
+        {
+          "x": 453.953125,
+          "y": 737,
+          "width": 68.078125,
+          "height": 44,
+          "top": 737,
+          "right": 522.03125,
+          "bottom": 781,
+          "left": 453.953125
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -10.89470100402832,
+            "y": 488.8642883300781,
+            "width": 245.78939819335938,
+            "height": 182.27139282226562,
+            "top": 488.8642883300781,
+            "right": 234.89469718933105,
+            "bottom": 671.1356811523438,
+            "left": -10.89470100402832
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 210.22718811035156,
+            "y": 471.0191650390625,
+            "width": 187.07505798339844,
+            "height": 226.22357177734375,
+            "top": 471.0191650390625,
+            "right": 397.30224609375,
+            "bottom": 697.2427368164062,
+            "left": 210.22718811035156
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 396.41510009765625,
+            "y": 473.3599548339844,
+            "width": 185.23797607421875,
+            "height": 224.72024536132812,
+            "top": 473.3599548339844,
+            "right": 581.653076171875,
+            "bottom": 698.0802001953125,
+            "left": 396.41510009765625
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        390,
+        844
+      ],
+      "scrollWidth": 390,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 910.71875,
+        "top": 0,
+        "right": 390,
+        "bottom": 910.71875,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 39.09375,
+          "y": 704,
+          "width": 68.078125,
+          "height": 44,
+          "top": 704,
+          "right": 107.171875,
+          "bottom": 748,
+          "left": 39.09375
+        },
+        {
+          "x": 160.953125,
+          "y": 704,
+          "width": 68.078125,
+          "height": 44,
+          "top": 704,
+          "right": 229.03125,
+          "bottom": 748,
+          "left": 160.953125
+        },
+        {
+          "x": 282.8125,
+          "y": 704,
+          "width": 68.078125,
+          "height": 44,
+          "top": 704,
+          "right": 350.890625,
+          "bottom": 748,
+          "left": 282.8125
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -6.73668909072876,
+            "y": 490.5917053222656,
+            "width": 159.739013671875,
+            "height": 145.81661987304688,
+            "top": 490.5917053222656,
+            "right": 153.00232458114624,
+            "bottom": 636.4083251953125,
+            "left": -6.73668909072876
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 137.87380981445312,
+            "y": 474.4830322265625,
+            "width": 121.76620483398438,
+            "height": 181.34271240234375,
+            "top": 474.4830322265625,
+            "right": 259.6400146484375,
+            "bottom": 655.8257446289062,
+            "left": 137.87380981445312
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 257.7419738769531,
+            "y": 476.5575866699219,
+            "width": 120.30294799804688,
+            "height": 180.37185668945312,
+            "top": 476.5575866699219,
+            "right": 378.044921875,
+            "bottom": 656.929443359375,
+            "left": 257.7419738769531
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        320,
+        700
+      ],
+      "scrollWidth": 320,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 919.34375,
+        "top": 0,
+        "right": 320,
+        "bottom": 919.34375,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 28.359375,
+          "y": 704,
+          "width": 68.078125,
+          "height": 44,
+          "top": 704,
+          "right": 96.4375,
+          "bottom": 748,
+          "left": 28.359375
+        },
+        {
+          "x": 125.953125,
+          "y": 704,
+          "width": 68.078125,
+          "height": 44,
+          "top": 704,
+          "right": 194.03125,
+          "bottom": 748,
+          "left": 125.953125
+        },
+        {
+          "x": 223.546875,
+          "y": 704,
+          "width": 68.078125,
+          "height": 44,
+          "top": 704,
+          "right": 291.625,
+          "bottom": 748,
+          "left": 223.546875
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -1.5828591585159302,
+            "y": 490.8690185546875,
+            "width": 127.96260070800781,
+            "height": 145.261962890625,
+            "top": 490.8690185546875,
+            "right": 126.37974154949188,
+            "bottom": 636.1309814453125,
+            "left": -1.5828591585159302
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 114.90363311767578,
+            "y": 474.6683044433594,
+            "width": 97.70653533935547,
+            "height": 180.97219848632812,
+            "top": 474.6683044433594,
+            "right": 212.61016845703125,
+            "bottom": 655.6405029296875,
+            "left": 114.90363311767578
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 210.50729370117188,
+            "y": 476.64300537109375,
+            "width": 96.24105834960938,
+            "height": 180.20098876953125,
+            "top": 476.64300537109375,
+            "right": 306.74835205078125,
+            "bottom": 656.843994140625,
+            "left": 210.50729370117188
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        844,
+        390
+      ],
+      "scrollWidth": 844,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 844,
+        "height": 805.0625,
+        "top": 0,
+        "right": 844,
+        "bottom": 805.0625,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 90.125,
+          "y": 657,
+          "width": 134.828125,
+          "height": 46,
+          "top": 657,
+          "right": 224.953125,
+          "bottom": 703,
+          "left": 90.125
+        },
+        {
+          "x": 354.578125,
+          "y": 657,
+          "width": 134.828125,
+          "height": 46,
+          "top": 657,
+          "right": 489.40625,
+          "bottom": 703,
+          "left": 354.578125
+        },
+        {
+          "x": 619.03125,
+          "y": 657,
+          "width": 134.828125,
+          "height": 46,
+          "top": 657,
+          "right": 753.859375,
+          "bottom": 703,
+          "left": 619.03125
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -14.610160827636719,
+            "y": 423.2368469238281,
+            "width": 344.3140869140625,
+            "height": 175.52627563476562,
+            "top": 423.2368469238281,
+            "right": 329.7039260864258,
+            "bottom": 598.7631225585938,
+            "left": -14.610160827636719
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 294.95416259765625,
+            "y": 406.1620788574219,
+            "width": 261.60546875,
+            "height": 216.73464965820312,
+            "top": 406.1620788574219,
+            "right": 556.5596313476562,
+            "bottom": 622.896728515625,
+            "left": 294.95416259765625
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 557.5475463867188,
+            "y": 408.8133850097656,
+            "width": 259.8636474609375,
+            "height": 214.61026000976562,
+            "top": 408.8133850097656,
+            "right": 817.4111938476562,
+            "bottom": 623.4236450195312,
+            "left": 557.5475463867188
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "layout",
+      "viewport": [
+        720,
+        450
+      ],
+      "scrollWidth": 720,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 720,
+        "height": 913.90625,
+        "top": 0,
+        "right": 720,
+        "bottom": 913.90625,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 66.984375,
+          "y": 705.1875,
+          "width": 134.828125,
+          "height": 46,
+          "top": 705.1875,
+          "right": 201.8125,
+          "bottom": 751.1875,
+          "left": 66.984375
+        },
+        {
+          "x": 292.578125,
+          "y": 705.1875,
+          "width": 134.828125,
+          "height": 46,
+          "top": 705.1875,
+          "right": 427.40625,
+          "bottom": 751.1875,
+          "left": 292.578125
+        },
+        {
+          "x": 518.171875,
+          "y": 705.1875,
+          "width": 134.828125,
+          "height": 46,
+          "top": 705.1875,
+          "right": 653,
+          "bottom": 751.1875,
+          "left": 518.171875
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -12.953810691833496,
+            "y": 433.9739685058594,
+            "width": 294.7044677734375,
+            "height": 206.42703247070312,
+            "top": 433.9739685058594,
+            "right": 281.750657081604,
+            "bottom": 640.4010009765625,
+            "left": -12.953810691833496
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 251.6290283203125,
+            "y": 414.941162109375,
+            "width": 224.2557373046875,
+            "height": 256.05145263671875,
+            "top": 414.941162109375,
+            "right": 475.884765625,
+            "bottom": 670.9926147460938,
+            "left": 251.6290283203125
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 475.5303955078125,
+            "y": 417.43304443359375,
+            "width": 222.17919921875,
+            "height": 254.24591064453125,
+            "top": 417.43304443359375,
+            "right": 697.7095947265625,
+            "bottom": 671.678955078125,
+            "left": 475.5303955078125
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "test": "touch-menu-safety",
+      "passed": true
+    },
+    {
+      "test": "reduced-motion",
+      "passed": true
+    },
+    {
+      "test": "no-javascript",
+      "viewport": [
+        1440,
+        844
+      ],
+      "scrollWidth": 1440,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 850.296875,
+        "top": 0,
+        "right": 1440,
+        "bottom": 850.296875,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 201.375,
+          "y": 702.234375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 702.234375,
+          "right": 336.203125,
+          "bottom": 748.234375,
+          "left": 201.375
+        },
+        {
+          "x": 652.578125,
+          "y": 702.234375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 702.234375,
+          "right": 787.40625,
+          "bottom": 748.234375,
+          "left": 652.578125
+        },
+        {
+          "x": 1103.765625,
+          "y": 702.234375,
+          "width": 134.828125,
+          "height": 46,
+          "top": 702.234375,
+          "right": 1238.59375,
+          "bottom": 748.234375,
+          "left": 1103.765625
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -24.048065185546875,
+            "y": 448.6188049316406,
+            "width": 585.68994140625,
+            "height": 197.99679565429688,
+            "top": 448.6188049316406,
+            "right": 561.6418762207031,
+            "bottom": 646.6156005859375,
+            "left": -24.048065185546875
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 501.5541076660156,
+            "y": 431.21160888671875,
+            "width": 444.4056091308594,
+            "height": 242.46368408203125,
+            "top": 431.21160888671875,
+            "right": 945.959716796875,
+            "bottom": 673.67529296875,
+            "left": 501.5541076660156
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 950.9840698242188,
+            "y": 434.61907958984375,
+            "width": 442.47491455078125,
+            "height": 238.8270263671875,
+            "top": 434.61907958984375,
+            "right": 1393.458984375,
+            "bottom": 673.4461059570312,
+            "left": 950.9840698242188
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "test": "no-javascript",
+      "viewport": [
+        390,
+        844
+      ],
+      "scrollWidth": 390,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 1025.71875,
+        "top": 0,
+        "right": 390,
+        "bottom": 1025.71875,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 39.09375,
+          "y": 819,
+          "width": 68.078125,
+          "height": 44,
+          "top": 819,
+          "right": 107.171875,
+          "bottom": 863,
+          "left": 39.09375
+        },
+        {
+          "x": 160.953125,
+          "y": 819,
+          "width": 68.078125,
+          "height": 44,
+          "top": 819,
+          "right": 229.03125,
+          "bottom": 863,
+          "left": 160.953125
+        },
+        {
+          "x": 282.8125,
+          "y": 819,
+          "width": 68.078125,
+          "height": 44,
+          "top": 819,
+          "right": 350.890625,
+          "bottom": 863,
+          "left": 282.8125
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -6.73668909072876,
+            "y": 605.5916748046875,
+            "width": 159.739013671875,
+            "height": 145.816650390625,
+            "top": 605.5916748046875,
+            "right": 153.00232458114624,
+            "bottom": 751.4083251953125,
+            "left": -6.73668909072876
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 137.87380981445312,
+            "y": 589.4830322265625,
+            "width": 121.76620483398438,
+            "height": 181.34271240234375,
+            "top": 589.4830322265625,
+            "right": 259.6400146484375,
+            "bottom": 770.8257446289062,
+            "left": 137.87380981445312
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 257.7419738769531,
+            "y": 591.5576171875,
+            "width": 120.30294799804688,
+            "height": 180.371826171875,
+            "top": 591.5576171875,
+            "right": 378.044921875,
+            "bottom": 771.929443359375,
+            "left": 257.7419738769531
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "test": "no-javascript",
+      "viewport": [
+        320,
+        844
+      ],
+      "scrollWidth": 320,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 1034.34375,
+        "top": 0,
+        "right": 320,
+        "bottom": 1034.34375,
+        "left": 0
+      },
+      "heading": "Choose your\nsolution.",
+      "placement": "centre",
+      "buttons": [
+        {
+          "x": 28.359375,
+          "y": 819,
+          "width": 68.078125,
+          "height": 44,
+          "top": 819,
+          "right": 96.4375,
+          "bottom": 863,
+          "left": 28.359375
+        },
+        {
+          "x": 125.953125,
+          "y": 819,
+          "width": 68.078125,
+          "height": 44,
+          "top": 819,
+          "right": 194.03125,
+          "bottom": 863,
+          "left": 125.953125
+        },
+        {
+          "x": 223.546875,
+          "y": 819,
+          "width": 68.078125,
+          "height": 44,
+          "top": 819,
+          "right": 291.625,
+          "bottom": 863,
+          "left": 223.546875
+        }
+      ],
+      "droneImages": [
+        {
+          "loaded": true,
+          "rect": {
+            "x": -1.5828591585159302,
+            "y": 605.8690185546875,
+            "width": 127.96260070800781,
+            "height": 145.261962890625,
+            "top": 605.8690185546875,
+            "right": 126.37974154949188,
+            "bottom": 751.1309814453125,
+            "left": -1.5828591585159302
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 114.90363311767578,
+            "y": 589.6682739257812,
+            "width": 97.70653533935547,
+            "height": 180.97222900390625,
+            "top": 589.6682739257812,
+            "right": 212.61016845703125,
+            "bottom": 770.6405029296875,
+            "left": 114.90363311767578
+          }
+        },
+        {
+          "loaded": true,
+          "rect": {
+            "x": 210.50729370117188,
+            "y": 591.6430053710938,
+            "width": 96.24105834960938,
+            "height": 180.20098876953125,
+            "top": 591.6430053710938,
+            "right": 306.74835205078125,
+            "bottom": 771.843994140625,
+            "left": 210.50729370117188
+          }
+        }
+      ],
+      "links": [
+        {
+          "label": "About",
+          "valid": true
+        },
+        {
+          "label": "Services",
+          "valid": true
+        },
+        {
+          "label": "Sectors",
+          "valid": true
+        },
+        {
+          "label": "Safety",
+          "valid": true
+        },
+        {
+          "label": "Projects",
+          "valid": true
+        },
+        {
+          "label": "Contact",
+          "valid": true
+        }
+      ],
+      "captionStyles": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "test": "image-failure",
+      "passed": true
+    }
+  ]
+}

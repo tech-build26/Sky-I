@@ -1,0 +1,6 @@
+// Dedicated service routes are deferred. Use actual on-page destinations for now.
+export const skyISolutions = [
+  { id: "internal-inspections", title: "Internal inspections", back: "Internal", front: "inspections", image: "/images/elios_3.png", width: 1600, height: 1000, caption: "Confined spaces. Critical insights. Greater safety.", body: "Start with the spaces that are difficult to access. Tell us the asset, conditions and inspection question so the team can scope a remote view of the interior." },
+  { id: "external-inspections", title: "External inspections", back: "External", front: "inspections", image: "/images/external-drone.png", width: 1254, height: 1254, caption: "Larger assets. Wider coverage. Smarter data.", body: "Bring exterior structures and areas of concern into focus. Agree the visual coverage and documentation needed for your next inspection or maintenance decision." },
+  { id: "window-washing", title: "Window washing", back: "Window", front: "washing", image: "/images/window-washing.png", width: 1254, height: 1254, caption: "Cleaner assets. Higher standards. Lasting impact.", body: "Discuss the glazing, building access and cleaning requirement with the team. The approach starts with the façade and the conditions at the site." },
+] as const;

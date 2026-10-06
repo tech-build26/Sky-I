@@ -22,6 +22,7 @@ export function BrandEntry() {
       delete document.documentElement.dataset.brandEntry;
       pendingRef.current = null;
       window.clearTimeout(timeoutRef.current);
+      window.dispatchEvent(new Event("brand-entry-ready"));
     };
     const click = async (event: MouseEvent) => {
       if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
@@ -83,6 +84,7 @@ export function BrandEntry() {
       overlay.dataset.phase = "idle";
       delete document.documentElement.dataset.brandEntry;
       pendingRef.current = null;
+      window.dispatchEvent(new Event("brand-entry-ready"));
     };
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { finish(); return; }
     const compact = window.matchMedia("(max-width: 800px)").matches;

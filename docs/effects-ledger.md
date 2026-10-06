@@ -1,6 +1,12 @@
 # Sky I effect ledger
 
-Authority: `design.md` §7.2. Updated 1 October 2026. Current implementation scope: hero only.
+Current authority: 6 October owner pre-landing entry correction and restricted word-effect policy, including explicit removal of manual pause controls. S03-H8 below supersedes earlier hover/pause allocations; 24px drone lift remains.
+
+## S03-H8 current policy — entry and restricted word effects
+
+Hero introduction defers past the Strict Mode preliminary effect pass and the BrandEntry cover; readiness event/DOM check plus bounded fallback handle entry races. Saved manual pause is retired and all manual pause UI removed by explicit owner instruction. Reduced-motion/static and hidden/offscreen/menu/keyboard suspension stay automatic.
+
+Hover/focus word shuffle belongs only to navigation controls/links and drone selection labels. Eyebrow/title/description words run on scene introduction; intro/vertical and bottom benefit/outcome words run once on home introduction. Bottom words do not repeat for hover, menu or slide changes. Buttons retain fill/roll/magnetic treatment with stable letters. Native slide/aircraft choreography and 24px lift remain. Evidence: docs/design/skyi-entry-policy-20261006/review.md. Older allocations below are superseded where they differ.
 
 | Effect | Sole allocation | Status |
 | --- | --- | --- |
@@ -44,3 +50,15 @@ Owner removed the equipment focus. Hero tilt/drag/hotspots/scan and Syne entranc
 | Existing UI | Floating nav indicator/mobile overlay and scroll-shrinking wordmark retained |
 
 No new motion dependency. Section entries use native WAAPI/IntersectionObserver; useful content is visible without script. Reduced motion presents static sections and manual instantaneous slide selection. Full global pause removes active WAAPI work, desktop smooth scrolling and decorative drone movement. Pre-landing and protected Skyriders motion are unchanged.
+
+## S03-H6 active allocation — 6 October
+
+Hero photographs keep lateral/aperture/vertical reveal families; synchronized message and centre/right/offset-left placements now accompany them. Scene 1 is the requested generated SC35 illustration. Previous/next/numbered UI retired. Automatic rotation and its bounded reveal cancel on pause, menu, hidden/offscreen or visible keyboard focus. Reduced motion/no JS use scene one. Failed photography falls back through surviving scenes, then solid charcoal with readable copy.
+
+## S03-H7 active allocation — hero choreography and spacing
+
+Native WAAPI entry waves cover logo image/top, nav shell/right, alternating nav links/top-bottom, masked headline/rise-fall or lateral, eyebrow/top, description/opposing side, three aircraft/left-up-right, layered service words, button wrappers, benefit icons/text, vertical label and sister rail. Each photograph's mounted message gets new choreography. Camera scale/translation and irregular drone drift remain transform-only CSS; existing nav UI and scroll-logo logic retain their owners. Hover gives bounded drone pointer depth, layered label movement, caption slide, button fill/text roll/arrow/magnetism and icon response.
+
+Whole-word scramble/resolve is hero/header-scoped. Fixed measured word boxes and separate original accessible text prevent changing layout or assistive names. Only visual ink shuffles; no typing. Punctuation/case slots and full character count remain. One throttled frame loop, no React per-frame state. Hover/focus equivalence, pause/reduced/static paths, menu/hidden/offscreen cleanup and a discrete nav motion icon apply. No new dependency or alteration of supplied artwork. The 24px upward translation of the whole service group creates a gap above benefits without moving the benefit row down. Technical evidence and owner-review gate: docs/design/skyi-hero-motion-20261006/review.md.
+
+Three transparent service drones: CSS transform-only drift/roll, independent phases; stop hidden/offscreen/menu/paused/reduced-motion and for focused service controls. Hover grows the image slightly, raises the foreground service word and reveals the caption; keyboard focus is equivalent. Touch/no JS always show captions. Label layering is actual z-order around preserved cutouts, not a 3D model. MotionButton owns one bronze fill/vertical text roll/arrow-turn interaction; no additional dependency. Labels and buttons navigate to native service disclosures pending dedicated routes. Clean benefit icons are static. Larger fixed logo retains the independent scroll contraction without increasing navigation height. Existing lower-section motion/pre-landing remains intact.

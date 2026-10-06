@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-06",
+  "browser": "Chrome emulation",
+  "results": [
+    {
+      "test": "prelanding-entry",
+      "selector": ".choices a[data-brand-choice=\"skyi\"]",
+      "entries": 36,
+      "afterCover": true,
+      "loadEffects": {
+        "title": 32,
+        "description": 44,
+        "benefits": 129,
+        "nav": 0,
+        "drone": 0,
+        "other": 125
+      }
+    },
+    {
+      "test": "prelanding-entry",
+      "selector": ".brandbar a[data-brand-choice=\"skyi\"]",
+      "entries": 36,
+      "afterCover": true,
+      "loadEffects": {
+        "title": 66,
+        "description": 92,
+        "benefits": 264,
+        "nav": 10,
+        "drone": 0,
+        "other": 255
+      }
+    },
+    {
+      "test": "no-hover-scramble",
+      "selector": "h1",
+      "passed": true
+    },
+    {
+      "test": "no-hover-scramble",
+      "selector": "[data-placement] p:last-child",
+      "passed": true
+    },
+    {
+      "test": "no-hover-scramble",
+      "selector": "#opening [aria-label=\"Our priorities\"]",
+      "passed": true
+    },
+    {
+      "test": "no-hover-scramble",
+      "selector": "[data-running] > div:first-child p",
+      "passed": true
+    },
+    {
+      "test": "no-hover-scramble",
+      "selector": "a[aria-label=\"Explore internal inspections\"]",
+      "passed": true
+    },
+    {
+      "test": "permitted-hover",
+      "region": "nav",
+      "passed": true
+    },
+    {
+      "test": "permitted-hover",
+      "region": "drone",
+      "passed": true
+    },
+    {
+      "test": "scene-copy-load-only-benefits-once",
+      "passed": true
+    },
+    {
+      "test": "mobile-prelanding-menu",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "test": "mobile-prelanding-menu",
+      "width": 320,
+      "passed": true
+    },
+    {
+      "test": "reduced-entry",
+      "passed": true
+    },
+    {
+      "test": "no-js-entry",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
