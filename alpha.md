@@ -13,7 +13,7 @@ Exact next creative task: Ishe reviews S03-H/S03-N hero and linked sections; ser
 
 - [x] F01 — Preserve the approved complete root pre-landing, both brand choices, supplied background/subjects/logos, social rail and industry strip. Original acceptance history: docs/history/combined-alpha.md and docs/STATUS.md.
 - [x] F02 — Reuse the implemented /home/ and its approved refinements, fonts, motion, mobile and static fallbacks; keep final visual acceptance open where recorded below.
-- [ ] X01 — Independent application and GitHub import: own source, lockfile, installed dependencies and fixed brand; Next.js 16.3.8 approved by Ishe; verify both roots, home navigation, cross-brand root handoffs, no-JS/reduced-motion/keyboard/touch, canonicals and production builds; commit to the site's own repository. Evidence: docs/site-split-verification.json and remote main tree check.
+- [x] X01 — Independent application and GitHub import: own source, lockfile, installed dependencies and fixed brand; Next.js 16.3.8 approved by Ishe; verify both roots, home navigation, cross-brand root handoffs, no-JS/reduced-motion/keyboard/touch, canonicals and production builds; commit to the site's own repository. Evidence: docs/site-split-verification.json and remote main tree check.
 - [ ] P06 — Complete release pre-landing QA across supported browsers, keyboard, touch, reduced motion, no JavaScript, loading and image failure. The split check is focused routing evidence, not this full release acceptance.
 - [ ] P07 — Ishe reviews representative physical desktop/mobile devices; record final accepted layouts and any fixes.
 

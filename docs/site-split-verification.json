@@ -102,5 +102,23 @@
     }
   ],
   "errors": [],
-  "result": "pass"
+  "result": "pass",
+  "installation": {
+    "node": "24.13.1",
+    "npm": "11.8.0",
+    "next": "16.3.8",
+    "cleanLockfileInstall": "npm --prefix web ci: pass",
+    "lint": "pass",
+    "typecheck": "pass",
+    "productionBuild": "pass"
+  },
+  "github": {
+    "repository": "tech-build26/Sky-I",
+    "sourceCommit": "b36c0296b447f31add1609fde900dc0def2cf482",
+    "sourceTree": "1e98f5617c364b054bd27f01f73330fd2746389e",
+    "remoteMainVerified": true,
+    "remoteTreeMatchesLocalIndex": true,
+    "url": "https://github.com/tech-build26/Sky-I/commit/b36c0296b447f31add1609fde900dc0def2cf482"
+  },
+  "scope": "Focused independent-site split verification. Physical devices, full release QA, remaining visual approvals and deployment remain open."
 }
