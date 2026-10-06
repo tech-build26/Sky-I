@@ -1,0 +1,44 @@
+{
+  "crops": [
+    {
+      "index": 1,
+      "position": "62% 43%",
+      "loaded": true
+    },
+    {
+      "index": 2,
+      "position": "68% 40%",
+      "loaded": true
+    },
+    {
+      "index": 3,
+      "position": "100% 65%",
+      "loaded": true
+    },
+    {
+      "index": 4,
+      "position": "47% 39%",
+      "loaded": true
+    }
+  ],
+  "touch": [
+    {
+      "menu": "tap opens; Services tap closes",
+      "sectionTop": 88.234375,
+      "menuBottom": 437.11289978027344
+    },
+    {
+      "menu": "Touch close resumes hero; no sticky mouse hover pause"
+    },
+    {
+      "choice": "Skyriders touch selection opens /home/"
+    }
+  ],
+  "interruptions": [
+    "Actual Tab from touch-focused menu reaches visible hero focus and pauses motion",
+    "Reduced motion during reveal settles full image, holds, then resumes when preference restored",
+    "Page lifecycle freeze/resume leaves hero usable",
+    "No-JS menu replaced by real anchors; photo and copy remain available"
+  ],
+  "errors": []
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "type": "original",
+    "name": "rope-cutout.png",
+    "path": "web/public/images/rope-cutout.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2364803,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-1024.webp",
+    "path": "web/public/images/variants\\rope-cutout-1024.webp",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 309530,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-1024.png",
+    "path": "web/public/images/variants\\rope-cutout-1024.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2202450,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-768.webp",
+    "path": "web/public/images/variants\\rope-cutout-768.webp",
+    "width": 768,
+    "height": 1152,
+    "bytes": 210586,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-768.png",
+    "path": "web/public/images/variants\\rope-cutout-768.png",
+    "width": 768,
+    "height": 1152,
+    "bytes": 964993,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-480.webp",
+    "path": "web/public/images/variants\\rope-cutout-480.webp",
+    "width": 480,
+    "height": 720,
+    "bytes": 94378,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-480.png",
+    "path": "web/public/images/variants\\rope-cutout-480.png",
+    "width": 480,
+    "height": 720,
+    "bytes": 394463,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-320.webp",
+    "path": "web/public/images/variants\\rope-cutout-320.webp",
+    "width": 320,
+    "height": 480,
+    "bytes": 50438,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "rope-cutout-320.png",
+    "path": "web/public/images/variants\\rope-cutout-320.png",
+    "width": 320,
+    "height": 480,
+    "bytes": 188546,
+    "format": "PNG"
+  },
+  {
+    "type": "original",
+    "name": "elios_3.png",
+    "path": "web/public/images/elios_3.png",
+    "width": 1600,
+    "height": 1000,
+    "bytes": 192348,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-1600.webp",
+    "path": "web/public/images/variants\\elios_3-1600.webp",
+    "width": 1600,
+    "height": 1000,
+    "bytes": 157140,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-1600.png",
+    "path": "web/public/images/variants\\elios_3-1600.png",
+    "width": 1600,
+    "height": 1000,
+    "bytes": 189256,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-1024.webp",
+    "path": "web/public/images/variants\\elios_3-1024.webp",
+    "width": 1024,
+    "height": 640,
+    "bytes": 82132,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-1024.png",
+    "path": "web/public/images/variants\\elios_3-1024.png",
+    "width": 1024,
+    "height": 640,
+    "bytes": 89940,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-640.webp",
+    "path": "web/public/images/variants\\elios_3-640.webp",
+    "width": 640,
+    "height": 400,
+    "bytes": 38282,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-640.png",
+    "path": "web/public/images/variants\\elios_3-640.png",
+    "width": 640,
+    "height": 400,
+    "bytes": 39678,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-400.webp",
+    "path": "web/public/images/variants\\elios_3-400.webp",
+    "width": 400,
+    "height": 250,
+    "bytes": 17722,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "elios_3-400.png",
+    "path": "web/public/images/variants\\elios_3-400.png",
+    "width": 400,
+    "height": 250,
+    "bytes": 17558,
+    "format": "PNG"
+  },
+  {
+    "type": "original",
+    "name": "hero-bg.jpg",
+    "path": "web/public/images/hero-bg.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 597674,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-1672.webp",
+    "path": "web/public/images/variants\\hero-bg-1672.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 244586,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-1672.jpg",
+    "path": "web/public/images/variants\\hero-bg-1672.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 309975,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-1280.webp",
+    "path": "web/public/images/variants\\hero-bg-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "bytes": 164648,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-1280.jpg",
+    "path": "web/public/images/variants\\hero-bg-1280.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 206181,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-768.webp",
+    "path": "web/public/images/variants\\hero-bg-768.webp",
+    "width": 768,
+    "height": 432,
+    "bytes": 71948,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-768.jpg",
+    "path": "web/public/images/variants\\hero-bg-768.jpg",
+    "width": 768,
+    "height": 432,
+    "bytes": 85049,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-480.webp",
+    "path": "web/public/images/variants\\hero-bg-480.webp",
+    "width": 480,
+    "height": 270,
+    "bytes": 32218,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "hero-bg-480.jpg",
+    "path": "web/public/images/variants\\hero-bg-480.jpg",
+    "width": 480,
+    "height": 270,
+    "bytes": 36073,
+    "format": "JPEG"
+  },
+  {
+    "type": "original",
+    "name": "sky-bg.jpg",
+    "path": "web/public/images/sky-bg.jpg",
+    "width": 1916,
+    "height": 821,
+    "bytes": 503784,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-1916.webp",
+    "path": "web/public/images/variants\\sky-bg-1916.webp",
+    "width": 1916,
+    "height": 821,
+    "bytes": 192662,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-1916.jpg",
+    "path": "web/public/images/variants\\sky-bg-1916.jpg",
+    "width": 1916,
+    "height": 821,
+    "bytes": 259628,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-1280.webp",
+    "path": "web/public/images/variants\\sky-bg-1280.webp",
+    "width": 1280,
+    "height": 548,
+    "bytes": 109932,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-1280.jpg",
+    "path": "web/public/images/variants\\sky-bg-1280.jpg",
+    "width": 1280,
+    "height": 548,
+    "bytes": 139418,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-768.webp",
+    "path": "web/public/images/variants\\sky-bg-768.webp",
+    "width": 768,
+    "height": 329,
+    "bytes": 49084,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-768.jpg",
+    "path": "web/public/images/variants\\sky-bg-768.jpg",
+    "width": 768,
+    "height": 329,
+    "bytes": 59391,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-480.webp",
+    "path": "web/public/images/variants\\sky-bg-480.webp",
+    "width": 480,
+    "height": 206,
+    "bytes": 22884,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-bg-480.jpg",
+    "path": "web/public/images/variants\\sky-bg-480.jpg",
+    "width": 480,
+    "height": 206,
+    "bytes": 26412,
+    "format": "JPEG"
+  },
+  {
+    "type": "original",
+    "name": "sky-logo.png",
+    "path": "web/public/images/sky-logo.png",
+    "width": 1500,
+    "height": 1250,
+    "bytes": 549789,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-logo-328.webp",
+    "path": "web/public/images/variants\\sky-logo-328.webp",
+    "width": 328,
+    "height": 273,
+    "bytes": 19046,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-logo-328.png",
+    "path": "web/public/images/variants\\sky-logo-328.png",
+    "width": 328,
+    "height": 273,
+    "bytes": 49560,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-logo-164.webp",
+    "path": "web/public/images/variants\\sky-logo-164.webp",
+    "width": 164,
+    "height": 137,
+    "bytes": 8224,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-logo-164.png",
+    "path": "web/public/images/variants\\sky-logo-164.png",
+    "width": 164,
+    "height": 137,
+    "bytes": 18704,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-logo-105.webp",
+    "path": "web/public/images/variants\\sky-logo-105.webp",
+    "width": 105,
+    "height": 88,
+    "bytes": 4678,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-logo-105.png",
+    "path": "web/public/images/variants\\sky-logo-105.png",
+    "width": 105,
+    "height": 88,
+    "bytes": 9781,
+    "format": "PNG"
+  },
+  {
+    "type": "original",
+    "name": "sky-i-logo.png",
+    "path": "web/public/images/sky-i-logo.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 754728,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-i-logo-274.webp",
+    "path": "web/public/images/variants\\sky-i-logo-274.webp",
+    "width": 274,
+    "height": 274,
+    "bytes": 24740,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-i-logo-274.png",
+    "path": "web/public/images/variants\\sky-i-logo-274.png",
+    "width": 274,
+    "height": 274,
+    "bytes": 53517,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-i-logo-137.webp",
+    "path": "web/public/images/variants\\sky-i-logo-137.webp",
+    "width": 137,
+    "height": 137,
+    "bytes": 9038,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-i-logo-137.png",
+    "path": "web/public/images/variants\\sky-i-logo-137.png",
+    "width": 137,
+    "height": 137,
+    "bytes": 17950,
+    "format": "PNG"
+  },
+  {
+    "type": "variant",
+    "name": "sky-i-logo-88.webp",
+    "path": "web/public/images/variants\\sky-i-logo-88.webp",
+    "width": 88,
+    "height": 88,
+    "bytes": 4752,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "sky-i-logo-88.png",
+    "path": "web/public/images/variants\\sky-i-logo-88.png",
+    "width": 88,
+    "height": 88,
+    "bytes": 9072,
+    "format": "PNG"
+  },
+  {
+    "type": "original",
+    "name": "skyriders-bg-1.jpg",
+    "path": "web/public/images/skyriders/skyriders-bg-1.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 405709,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-1-1672.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-1-1672.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 127160,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-1-1672.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-1-1672.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 202160,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-1-1280.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-1-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "bytes": 90506,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-1-1280.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-1-1280.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 135026,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-1-768.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-1-768.webp",
+    "width": 768,
+    "height": 432,
+    "bytes": 45326,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-1-768.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-1-768.jpg",
+    "width": 768,
+    "height": 432,
+    "bytes": 61839,
+    "format": "JPEG"
+  },
+  {
+    "type": "original",
+    "name": "skyriders-bg-2.jpg",
+    "path": "web/public/images/skyriders/skyriders-bg-2.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 431157,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-2-1672.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-2-1672.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 145030,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-2-1672.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-2-1672.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 223689,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-2-1280.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-2-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "bytes": 100694,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-2-1280.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-2-1280.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 147436,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-2-768.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-2-768.webp",
+    "width": 768,
+    "height": 432,
+    "bytes": 47162,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-2-768.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-2-768.jpg",
+    "width": 768,
+    "height": 432,
+    "bytes": 63298,
+    "format": "JPEG"
+  },
+  {
+    "type": "original",
+    "name": "skyriders-bg-3.jpg",
+    "path": "web/public/images/skyriders/skyriders-bg-3.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 428157,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-3-1672.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-3-1672.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 169426,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-3-1672.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-3-1672.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 240726,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-3-1280.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-3-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "bytes": 118698,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-3-1280.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-3-1280.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 161296,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-3-768.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-3-768.webp",
+    "width": 768,
+    "height": 432,
+    "bytes": 54314,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-3-768.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-3-768.jpg",
+    "width": 768,
+    "height": 432,
+    "bytes": 70133,
+    "format": "JPEG"
+  },
+  {
+    "type": "original",
+    "name": "skyriders-bg-4.jpg",
+    "path": "web/public/images/skyriders/skyriders-bg-4.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 363682,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-4-1672.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-4-1672.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 115734,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-4-1672.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-4-1672.jpg",
+    "width": 1672,
+    "height": 941,
+    "bytes": 184200,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-4-1280.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-4-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "bytes": 78102,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-4-1280.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-4-1280.jpg",
+    "width": 1280,
+    "height": 720,
+    "bytes": 120489,
+    "format": "JPEG"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-4-768.webp",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-4-768.webp",
+    "width": 768,
+    "height": 432,
+    "bytes": 37612,
+    "format": "WEBP"
+  },
+  {
+    "type": "variant",
+    "name": "skyriders-bg-4-768.jpg",
+    "path": "web/public/images/variants\\skyriders/skyriders-bg-4-768.jpg",
+    "width": 768,
+    "height": 432,
+    "bytes": 52883,
+    "format": "JPEG"
+  }
+]

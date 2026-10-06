@@ -1,0 +1,146 @@
+[
+  {
+    "y": 0,
+    "height": 16891,
+    "canvas": [
+      {
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "w": 24,
+        "h": 24
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 1392,
+        "h": 824
+      }
+    ],
+    "headings": [
+      {
+        "text": "Gear\nGear",
+        "top": 2014
+      },
+      {
+        "text": "Solutions\nSolutions",
+        "top": 6629
+      },
+      {
+        "text": "Capabilities\nCapabilities",
+        "top": 7915
+      },
+      {
+        "text": "Software\nSoftware",
+        "top": 14132
+      }
+    ]
+  },
+  {
+    "y": 900,
+    "height": 16891,
+    "canvas": [
+      {
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "w": 24,
+        "h": 24
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 1392,
+        "h": 824
+      }
+    ],
+    "headings": [
+      {
+        "text": "Gear\nGear",
+        "top": 1114
+      },
+      {
+        "text": "Solutions\nSolutions",
+        "top": 5729
+      },
+      {
+        "text": "Capabilities\nCapabilities",
+        "top": 7015
+      },
+      {
+        "text": "Software\nSoftware",
+        "top": 13232
+      }
+    ]
+  },
+  {
+    "y": 2200,
+    "height": 16891,
+    "canvas": [
+      {
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "w": 24,
+        "h": 24
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 94,
+        "h": 94
+      },
+      {
+        "w": 1392,
+        "h": 824
+      }
+    ],
+    "headings": [
+      {
+        "text": "Gear\nGear",
+        "top": -186
+      },
+      {
+        "text": "Solutions\nSolutions",
+        "top": 4429
+      },
+      {
+        "text": "Capabilities\nCapabilities",
+        "top": 5715
+      },
+      {
+        "text": "Software\nSoftware",
+        "top": 11932
+      }
+    ]
+  }
+]

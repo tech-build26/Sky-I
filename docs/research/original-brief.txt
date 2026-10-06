@@ -1,0 +1,82 @@
+Ropeaccess/Sky I
+
+I need to build two websites for https://ropeaccess.co.za/ & http://skyi.co.za/. Visit https://ropeaccess.co.za/ you will get all the information you require to build the websites. 
+
+#The website must not look like a product of AI, there are tail tail signs of ai generated site, this site must be far from it. This is very critical. 
+
+#on each site for example  https://ropeaccess.co.za/, there will be a hero section will have a background image, the image will be a split screen which will show ropeaccess on the left and Sky I on the right. This split must not be deliberate, it must be artistic like it was not supposed to be there but also its at home (please remove generic designs like bold diagonal line which is splitting the two sections), find a creative way to achieve this. 
+
+#No generic/default code, the provided instructions are not blinkers but a mere guideline....build on it and produce extraordinary work.
+
+#The hero will show a unified, complementary company profile which will show drone inspections and ropeaccess compliment each other, almost a welcome tag but with more focus on individuality (one stop shop). This on page load will float down with cool animations. Fill in the blanks to make this cool. Do not overwhelm the user.
+
+#From this, the user will scroll and the above will have an animation which will quickly disappear and will have a ropeaccess cutout on the left and a drone on the right. these will float down slowly. All this is happening on the hero section, we are not scrolling to another section. A lot of animation, the site must not static. These are clickable when you click on the drone it then redirects to http://skyi.co.za/ and the same for reopeaccess. For this example when its clicked on ropeaccess it then opens the ropeaccess hero. So this is line a pre landing section.
+
+# have provided a hero-bg.jpg for the hero image, there is also a rope-cutout.jpg which will slowly slide down on the left and a drone on the right. 
+
+# Just a very very brief description for each will be great. Make sure the layout is great and looks professional. 
+
+#So the opposite is also true for when a user lands on the http://skyi.co.za/ site, they are greeted with the same setup just a different background image, the image on ropeaccess will be fully be ropeaccess and on Sky I it will be fully drone. The ropeaccess cutout will be on the right this time and the drone will be on the left. 
+
+# So I firstly want to nail down the font, design element for this pre-landing page as it will mostly flow with the design element although it will differ slightly on the different sites. This pre-landing must be strong, crowd puller, it should make the user want to tour the different site. Ropeaccess and drone inspections compliment each other. Please see the company profiles for both. These are not conflict companies, they should compliment. 
+
+#At the bottom of the pre-landing there should be an animated strip which show industries from Petroleum, mining, construction, facilities maintenance, power generation. If we can have icons to go with these will be great.  etc. This must be a continuous scroll, the last end a new is already starting than it scrolling back to start afresh. A continuous scroll effect. No footer on this stage. 
+
+#We can add a logos for both, they will be added as rope-logo.jpg and sky-logo.jpg. 
+
+#Background gradient to match the flow, not too much not too little.
+
+#No glow around the drone and ropeaccess tech on the cut out. 
+
+#No button like, learn more, explore, click here etc.....if you must create a clickable arrow, not like a button, mybe an arrow and when clicked a circle fills and opens, build on this. 
+
+#I want you to lock down fonts and design structure of the two websites from this pre-landing. The difference has to be there but like I said complimentary. Drone obviously is futuristic etc. 
+
+#Animation, slide effects etc. 
+
+#There is need to make sure this page is well optimised for all screen sizes and is responsive. This is critical given people are mostly likely to take out their phones and access the website. 
+
+#We are building the website using next.js website. On my desktop we will be using a folder which I have already create: C:\Users\ISHE-GAMING\Desktop\App Dev\Ropeaccess . Please note its currently empty. I will images and logos when you tell me where is should place them. 
+
+#Currently the most stable version of next version is 16.3.6, use that one.
+
+#before we get to development, do your research, understand the project visit https://ropeaccess.co.za/ and get all the information you require. Create a alpha.md which will have rules, tasks and all relevant to the project which an agent would require throughout the development of this pre-landing section before we get to the specific individual sites. 
+
+#The tasks must have [] so the agent can [x] on a completed task. we are going to host the section on Afrihost. 
+
+#All images will be provided for by Ishe, provide the full path on where I should place the images. 
+
+#I want this section to be sophisticated, high end through out. 
+
+#Like I said this is just a guideline not blinkers, build on this 
+
+# The codebase must be well easy to debug, easy for another developer to understand, clean and adhering to world standards. 
+
+#Not everything must be horizontal, some this with an artistic hand can be vertical, surprise me. 
+
+#Currently the droner we have ais an Ellios 3, if we can somehow animate this it will be great. Do research on Elios 3. Something like move movement etc. will be great. 
+
+# I have added other pictures you might need, go though and understand. 
+
+#Ask any question so we clear, we create great amazing work. 
+
+# It would be great ifever the pre-landing section and the full websites are interactive  
+
+#I need to look at : and create skills that are necessary for this project. Do not look at the pre-landing section which will be the fort to be bolt but look at the entering of the project until the two websites are done. So come up with these skills, create them, and make sure there is a rule only to this project which will check for the appropriate skill when developing. Also let me know ifever I n ed to call a certain skill or the agent will read thru and invoke the appropriate skill. 
+
+I have access also Gemini latest model, I want to use it to prepare the environment like make sure next.js and all required components are installed so we do not waste token on gpt models doing some mundane tasks. Also ifever there are some mundane tasks which can be handled by Gemini please on each task please just say assign to Gemini and will use Gemini. Be very specific and delete rate for Gemini so context is not lost when I switch models and the agents maintain the same design and development ethos throughout the projects. I will be using Codex to build, also tell me on each take which model I can use depending on how complex it is, I cannot be using Astra for everything. If I need to use models like Sol or even lower please do let me know so we are token efficient. I will start a new chart when we switch models, make sure the project is well structured, so context is clear for each model. 
+
+I need you to provide a draft design before you go through with development before you start so I can approve so we do not go a route that I do not approve. 
+
+Here are the links to skills that I think you can add: https://github.com/pbakaus/impeccable, https://github.com/leonxlnx/taste-skill and https://github.com/bradautomates/claude-video . So let’s make skills of these, they make for Clyde models but we can make them work for us in codex. Handle everything on the rules for this section so if possible I don’t need to trigger a skill, but if I have let me know.
+
+I love the font and font design on this site https://www.schrodersjoinery.co.za/, some letters big some small. the site also looks elegant although there is great room for improvement. Also have a look at https://drone.riotters.com/ for animations, https://www.dji.com/global for clean elegant. ETC. 
+
+I have added a Skyriders Access Specialists Brochure which has info about the business. You can at least have the fill. Also use the rope access website ifever there is no info which you might require. Do not take the design on the website or company brochure, we building a new site…only Information. I currently do not have a logo do sky I, make it work. 
+
+When Gemini model is preparing the environment they can move the current assets like images the .md file and everything else in the ropeaccess folder since next.js want a clean empty folds to be installed in if am not wrong. 
+
+Please note this is the foundation on which we will build the revamped complete Skyriders website and the new Sky I website. Be thorough on this. It has to show a team of well skilled seasoned developers worked on this.
+
+
+Lets got to work. 

@@ -1,0 +1,40 @@
+{
+  "routes": [
+    "Skyriders pre-landing choice opens the Sky I hero",
+    "Supplied Sky I logo opens Sky I hero",
+    "No-JavaScript Sky I choice opens the hero"
+  ],
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": 0,
+      "safety": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": 0,
+      "safety": true
+    },
+    {
+      "width": 820,
+      "height": 900,
+      "overflow": 0,
+      "safety": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": 0,
+      "safety": true
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "overflow": 0,
+      "safety": true
+    }
+  ],
+  "errors": []
+}

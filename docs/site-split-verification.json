@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-06",
+  "next": "16.3.8",
+  "checks": [
+    "skyriders: independent package, production canonicals and public cross-brand roots, no localhost HTML",
+    "skyriders: {} entry/home, distinct root order/background, cross-origin pre-landing/home, refresh and Back",
+    "skyriders: {\"reducedMotion\":\"reduce\"} entry/home, distinct root order/background, cross-origin pre-landing/home, refresh and Back",
+    "skyriders: {\"javaScriptEnabled\":false} entry/home, distinct root order/background, cross-origin pre-landing/home, refresh and Back",
+    "skyriders: keyboard current-brand Enter reaches hero",
+    "skyriders: touch entry reaches hero",
+    "skyi: independent package, production canonicals and public cross-brand roots, no localhost HTML",
+    "skyi: {} entry/home, distinct root order/background, cross-origin pre-landing/home, refresh and Back",
+    "skyi: {\"reducedMotion\":\"reduce\"} entry/home, distinct root order/background, cross-origin pre-landing/home, refresh and Back",
+    "skyi: {\"javaScriptEnabled\":false} entry/home, distinct root order/background, cross-origin pre-landing/home, refresh and Back",
+    "skyi: keyboard current-brand Enter reaches hero",
+    "skyi: touch entry reaches hero"
+  ],
+  "layouts": [
+    {
+      "site": "skyriders",
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "overflow": 0
+    },
+    {
+      "site": "skyriders",
+      "route": "/home/",
+      "width": 1440,
+      "height": 900,
+      "overflow": 0
+    },
+    {
+      "site": "skyriders",
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "overflow": 0
+    },
+    {
+      "site": "skyriders",
+      "route": "/home/",
+      "width": 390,
+      "height": 844,
+      "overflow": 0
+    },
+    {
+      "site": "skyriders",
+      "route": "/",
+      "width": 320,
+      "height": 700,
+      "overflow": 0
+    },
+    {
+      "site": "skyriders",
+      "route": "/home/",
+      "width": 320,
+      "height": 700,
+      "overflow": 0
+    },
+    {
+      "site": "skyi",
+      "route": "/",
+      "width": 1440,
+      "height": 900,
+      "overflow": 0
+    },
+    {
+      "site": "skyi",
+      "route": "/home/",
+      "width": 1440,
+      "height": 900,
+      "overflow": 0
+    },
+    {
+      "site": "skyi",
+      "route": "/",
+      "width": 390,
+      "height": 844,
+      "overflow": 0
+    },
+    {
+      "site": "skyi",
+      "route": "/home/",
+      "width": 390,
+      "height": 844,
+      "overflow": 0
+    },
+    {
+      "site": "skyi",
+      "route": "/",
+      "width": 320,
+      "height": 700,
+      "overflow": 0
+    },
+    {
+      "site": "skyi",
+      "route": "/home/",
+      "width": 320,
+      "height": 700,
+      "overflow": 0
+    }
+  ],
+  "errors": [],
+  "result": "pass"
+}

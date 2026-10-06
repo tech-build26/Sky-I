@@ -1,0 +1,230 @@
+{
+  "server": "Existing Sky I dev server",
+  "layouts": [
+    {
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 600,
+      "height": 960,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 744,
+      "height": 1133,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 810,
+      "height": 1080,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 834,
+      "height": 1194,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1024,
+      "height": 1366,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1112,
+      "height": 834,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1180,
+      "height": 820,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1536,
+      "height": 864,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 280,
+      "height": 653,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 884,
+      "height": 1104,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "overflow": false,
+      "headingFits": true,
+      "background": "rgb(17, 27, 32)",
+      "font": "cormorant, \"cormorant Fallback\", Georgia, serif",
+      "overlap": false
+    }
+  ],
+  "behaviour": [
+    "Mobile menu: focus trap, Escape, focus restoration",
+    "No JS: photograph, heading, native details and real links",
+    "Reduced motion: static photograph and readable content",
+    "Background change after 9 seconds; pause and live reduced-motion retain a complete frame",
+    "Unchanged Sky I-left pre-landing: touch selection and Back",
+    "Background failures retain readable hero and working context"
+  ],
+  "errors": []
+}

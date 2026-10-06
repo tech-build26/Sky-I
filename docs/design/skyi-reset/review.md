@@ -1,0 +1,13 @@
+# Sky I — fresh direction, 1 October 2026
+
+Review candidate: http://localhost:3010/home/. Ishe rejected the entire earlier Sky I plan and explicitly withdrew Riotters as a reference. The previous hero, travelling PNG, section tracker, pale equipment apertures and four demo sections are retired. They are not a base for future work.
+
+The new hero begins from the owner-supplied industrial scene: a full-screen photograph, quiet navigation over the image, a large single typographic statement and a spare baseline. Ink shadows, an environmental crop and oversized Jost set the opening rhythm. Mobile has a close crop of the genuine aircraft and a deliberate two-line heading. No independent duplicate drone is layered over the photographic aircraft. The concise section beneath is an editorial introduction for review, not acceptance of a whole site.
+
+Only a small photographic camera response is interactive: bounded desktop-pointer movement, modest native-scroll depth, no wheel interception and no perpetual flight. Text and navigation enter briefly without a loading stage. The camera suspends offscreen/when hidden; keyboard focus returns it towards its resting position. Reduced motion and no JavaScript keep a stable composition. There is no 3D model, section tracker, invented scan, claim, enquiry address or borrowed reference layout.
+
+The original approved domain-specific pre-landing and the Skyriders site are preserved. Sky I's brand choice still opens its own home, with Sky I left and Skyriders right on its root. Partner links use the correct domain in normal builds and the existing local Skyriders origin for this review build.
+
+Validation: lint/typecheck and both configured brand production builds pass. `verification.json` and desktop/mobile PNGs come from `tmp/verify-skyi-reset.mjs` against port 3010 production. Six layouts cover 1440×900, 1900×800, 390×844, 320×700, 844×390 and 720×450 without horizontal overflow. The heading fits; real approach links work. Reduced motion, no JS, keyboard skip-link focus, touch selection/Back and photograph failure retain usable content. No unexpected browser exceptions. Short screens use natural scrolling; 720px is responsive zoom equivalence, not actual browser zoom. Physical-device, cross-browser and measured performance review remain outstanding.
+
+Next: review this hero direction with Ishe. No remaining Sky I page architecture, theme or motion is accepted by carrying over the rejected plan. Define the subsequent section only after the opening direction is settled. Current contact/service inventory still needs confirmation before any enquiry or detailed offer is implemented. No deployment.

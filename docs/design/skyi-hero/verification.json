@@ -1,0 +1,73 @@
+{
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "uniqueSectionPoses": 4,
+      "pointer": true,
+      "pause": true
+    },
+    {
+      "width": 1900,
+      "height": 800,
+      "overflow": false,
+      "uniqueSectionPoses": 4,
+      "pointer": true,
+      "pause": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "uniqueSectionPoses": 4,
+      "pointer": true,
+      "pause": true
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "overflow": false,
+      "uniqueSectionPoses": 4,
+      "pointer": true,
+      "pause": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "overflow": false,
+      "uniqueSectionPoses": 4,
+      "pointer": true,
+      "pause": true
+    },
+    {
+      "width": 720,
+      "height": 450,
+      "overflow": false,
+      "uniqueSectionPoses": 4,
+      "pointer": true,
+      "pause": true
+    }
+  ],
+  "errors": [],
+  "behaviour": [
+    "Sky I root: left Sky I, right Skyriders; home navigation and Back",
+    "Reduced motion: static drone and working section anchors",
+    "No JS: static drone and working section anchors",
+    "Touch-emulated section navigation",
+    "Reduced-motion preference interruption and restoration",
+    "Drone image failure: readable copy and working anchors"
+  ],
+  "imageResources": [
+    {
+      "url": "http://localhost:3009/_next/image/?url=%2Fimages%2Fsky-i-logo.png&w=96&q=75",
+      "bytes": 5066,
+      "decodedBytes": 4766
+    },
+    {
+      "url": "http://localhost:3009/_next/image/?url=%2Fimages%2Felios_3.png&w=640&q=75",
+      "bytes": 44232,
+      "decodedBytes": 43932
+    }
+  ]
+}

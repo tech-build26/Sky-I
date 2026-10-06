@@ -1,0 +1,230 @@
+{
+  "server": "Existing Sky I development server; production builds separately checked",
+  "layouts": [
+    {
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 600,
+      "height": 960,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 744,
+      "height": 1133,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 810,
+      "height": 1080,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 834,
+      "height": 1194,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1024,
+      "height": 1366,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1112,
+      "height": 834,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1180,
+      "height": 820,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1536,
+      "height": 864,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 280,
+      "height": 653,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 884,
+      "height": 1104,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "overflow": false,
+      "headingFits": true,
+      "identityMenuOverlap": false,
+      "sections": 1,
+      "hotspots": true
+    }
+  ],
+  "behaviour": [
+    "Menu: focus trap, Escape, scroll lock, anchor focus",
+    "Pointer tilt/drag/reset, persistent pause, live reduced-motion interruption",
+    "No JavaScript: readable hero and native details",
+    "Reduced-motion: readable hero and native details",
+    "Pre-landing: Sky I left / Skyriders right; touch selection and Back",
+    "Image failure retains copy, navigation and an honest aircraft fallback"
+  ],
+  "errors": []
+}

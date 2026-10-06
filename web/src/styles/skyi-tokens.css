@@ -1,0 +1,27 @@
+/* ===== Sky I: Skyriders family palette, existing self-hosted fonts ===== */
+.sky-i-foundation {
+  --void: #111b20;
+  --graphite: #111b20;
+  --steel: #1b2a31;
+  --line: #f0ece338;
+  --mist: #d8dddb;
+  --ice: #f0ece3;
+  --lidar: #d8af7b;
+  --focus: #d8af7b;
+  --danger: #ff4d5e;
+  --gutter: clamp(20px, 5vw, 80px);
+  --sky-display: var(--font-cormorant), Georgia, serif;
+  --sky-body: var(--font-jost), Arial, sans-serif;
+  --sky-mono: var(--font-jost), Arial, sans-serif;
+  --type-body: clamp(1rem, .95rem + .3vw, 1.125rem);
+  --radius-pill: 99rem;
+  --z-cursor: 35;
+  --z-navigation: 40;
+  --z-menu: 50;
+  --z-logo: 60;
+  --z-consent: 65;
+  --z-skip: 70;
+  --duration-ui: 300ms;
+  --ease-ui: cubic-bezier(.22, 1, .36, 1);
+  color-scheme: dark;
+}

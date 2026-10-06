@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "Same-origin choice uses Skyriders departure/arrival; Back restores a usable scene",
+    "Keyboard Enter navigates and clears overlay",
+    "Cross-origin Sky I fold/depth entrance; arrival marker removed; actual Sky I page; Back usable",
+    "Reduced motion navigates directly without staged cover",
+    "Touch selection and shorter mobile handoff: no overflow",
+    "No-JS links navigate normally; overlay never hides content",
+    "Direct /home arrival skips entry; no intro loop",
+    "Modified click is left unprevented by the handoff and Next link; native browser behaviour is preserved",
+    "Delayed navigation restores the visible choice after the timeout; eventual navigation remains usable",
+    "Blocked client scripts: prepaint cover times out in CSS, keeping hero readable"
+  ],
+  "errors": []
+}

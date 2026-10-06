@@ -1,0 +1,568 @@
+{
+  "viewports": [
+    {
+      "width": 2533,
+      "height": 1249,
+      "initialRise": 0,
+      "middleRise": 1,
+      "edgeTop": 370,
+      "sectionTop": 649,
+      "anchorTop": 111,
+      "headerBottom": 95,
+      "overflow": 0,
+      "stableDocumentHeight": true,
+      "reverse": true,
+      "idleStable": true,
+      "endScrollMorphing": true,
+      "joins": [
+        {
+          "sectionTop": 233,
+          "edgeBottom": 234
+        },
+        {
+          "sectionTop": 225,
+          "edgeBottom": 226
+        },
+        {
+          "sectionTop": 145,
+          "edgeBottom": 146
+        },
+        {
+          "sectionTop": 120,
+          "edgeBottom": 121
+        },
+        {
+          "sectionTop": 95,
+          "edgeBottom": 96
+        },
+        {
+          "sectionTop": 70,
+          "edgeBottom": 71
+        },
+        {
+          "sectionTop": -5,
+          "edgeBottom": -4
+        },
+        {
+          "sectionTop": -5,
+          "edgeBottom": -4
+        },
+        {
+          "sectionTop": 70,
+          "edgeBottom": 71
+        },
+        {
+          "sectionTop": 95,
+          "edgeBottom": 96
+        },
+        {
+          "sectionTop": 120,
+          "edgeBottom": 121
+        },
+        {
+          "sectionTop": 145,
+          "edgeBottom": 146
+        },
+        {
+          "sectionTop": 225,
+          "edgeBottom": 226
+        },
+        {
+          "sectionTop": 233,
+          "edgeBottom": 234
+        }
+      ],
+      "positions": [
+        {
+          "fraction": 0.4,
+          "edgeBottom": 148
+        },
+        {
+          "fraction": 0.65,
+          "edgeBottom": -541
+        },
+        {
+          "fraction": 0.9,
+          "edgeBottom": -1230
+        },
+        {
+          "fraction": 1,
+          "edgeBottom": -1506
+        }
+      ],
+      "coveredLinksInert": true,
+      "coveredPhotographyPaused": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "initialRise": 0,
+      "middleRise": 0.949542912,
+      "edgeTop": 236.5548553466797,
+      "sectionTop": 468,
+      "anchorTop": 111,
+      "headerBottom": 95,
+      "overflow": 0,
+      "stableDocumentHeight": true,
+      "reverse": true,
+      "idleStable": true,
+      "endScrollMorphing": true,
+      "joins": [
+        {
+          "sectionTop": 217,
+          "edgeBottom": 218
+        },
+        {
+          "sectionTop": 209,
+          "edgeBottom": 210
+        },
+        {
+          "sectionTop": 145,
+          "edgeBottom": 146
+        },
+        {
+          "sectionTop": 120,
+          "edgeBottom": 121
+        },
+        {
+          "sectionTop": 95,
+          "edgeBottom": 96
+        },
+        {
+          "sectionTop": 70,
+          "edgeBottom": 71
+        },
+        {
+          "sectionTop": -5,
+          "edgeBottom": -4
+        },
+        {
+          "sectionTop": -5,
+          "edgeBottom": -4
+        },
+        {
+          "sectionTop": 70,
+          "edgeBottom": 71
+        },
+        {
+          "sectionTop": 95,
+          "edgeBottom": 96
+        },
+        {
+          "sectionTop": 120,
+          "edgeBottom": 121
+        },
+        {
+          "sectionTop": 145,
+          "edgeBottom": 146
+        },
+        {
+          "sectionTop": 209,
+          "edgeBottom": 210
+        },
+        {
+          "sectionTop": 217,
+          "edgeBottom": 218
+        }
+      ],
+      "positions": [
+        {
+          "fraction": 0.4,
+          "edgeBottom": -143
+        },
+        {
+          "fraction": 0.65,
+          "edgeBottom": -796
+        },
+        {
+          "fraction": 0.9,
+          "edgeBottom": -1449
+        },
+        {
+          "fraction": 1,
+          "edgeBottom": -1710
+        }
+      ],
+      "coveredLinksInert": true,
+      "coveredPhotographyPaused": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "initialRise": 0.07191753387451172,
+      "middleRise": 0.9054757052338868,
+      "edgeTop": 295.0926513671875,
+      "sectionTop": 438.96875,
+      "anchorTop": 87.96875,
+      "headerBottom": 72,
+      "overflow": 0,
+      "stableDocumentHeight": true,
+      "reverse": true,
+      "idleStable": true,
+      "endScrollMorphing": true,
+      "joins": [
+        {
+          "sectionTop": 152.96875,
+          "edgeBottom": 153.96875
+        },
+        {
+          "sectionTop": 144.96875,
+          "edgeBottom": 145.96875
+        },
+        {
+          "sectionTop": 121.96875,
+          "edgeBottom": 122.96875
+        },
+        {
+          "sectionTop": 96.96875,
+          "edgeBottom": 97.96875
+        },
+        {
+          "sectionTop": 71.96875,
+          "edgeBottom": 72.96875
+        },
+        {
+          "sectionTop": 46.96875,
+          "edgeBottom": 47.96875
+        },
+        {
+          "sectionTop": -5.03125,
+          "edgeBottom": -4.03125
+        },
+        {
+          "sectionTop": -5.03125,
+          "edgeBottom": -4.03125
+        },
+        {
+          "sectionTop": 46.96875,
+          "edgeBottom": 47.96875
+        },
+        {
+          "sectionTop": 71.96875,
+          "edgeBottom": 72.96875
+        },
+        {
+          "sectionTop": 96.96875,
+          "edgeBottom": 97.96875
+        },
+        {
+          "sectionTop": 121.96875,
+          "edgeBottom": 122.96875
+        },
+        {
+          "sectionTop": 144.96875,
+          "edgeBottom": 145.96875
+        },
+        {
+          "sectionTop": 152.96875,
+          "edgeBottom": 153.96875
+        }
+      ],
+      "positions": [
+        {
+          "fraction": 0.4,
+          "edgeBottom": -393.03125
+        },
+        {
+          "fraction": 0.65,
+          "edgeBottom": -1115.03125
+        },
+        {
+          "fraction": 0.9,
+          "edgeBottom": -1837.03125
+        },
+        {
+          "fraction": 1,
+          "edgeBottom": -2126.03125
+        }
+      ],
+      "coveredLinksInert": true,
+      "coveredPhotographyPaused": true
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "initialRise": 0,
+      "middleRise": 0.8305725989986346,
+      "edgeTop": 232.10838317871094,
+      "sectionTop": 364,
+      "anchorTop": 88,
+      "headerBottom": 72,
+      "overflow": 0,
+      "stableDocumentHeight": true,
+      "reverse": true,
+      "idleStable": true,
+      "endScrollMorphing": true,
+      "joins": [
+        {
+          "sectionTop": 153,
+          "edgeBottom": 154
+        },
+        {
+          "sectionTop": 145,
+          "edgeBottom": 146
+        },
+        {
+          "sectionTop": 122,
+          "edgeBottom": 123
+        },
+        {
+          "sectionTop": 97,
+          "edgeBottom": 98
+        },
+        {
+          "sectionTop": 72,
+          "edgeBottom": 73
+        },
+        {
+          "sectionTop": 47,
+          "edgeBottom": 48
+        },
+        {
+          "sectionTop": -5,
+          "edgeBottom": -4
+        },
+        {
+          "sectionTop": -5,
+          "edgeBottom": -4
+        },
+        {
+          "sectionTop": 47,
+          "edgeBottom": 48
+        },
+        {
+          "sectionTop": 72,
+          "edgeBottom": 73
+        },
+        {
+          "sectionTop": 97,
+          "edgeBottom": 98
+        },
+        {
+          "sectionTop": 122,
+          "edgeBottom": 123
+        },
+        {
+          "sectionTop": 145,
+          "edgeBottom": 146
+        },
+        {
+          "sectionTop": 153,
+          "edgeBottom": 154
+        }
+      ],
+      "positions": [
+        {
+          "fraction": 0.4,
+          "edgeBottom": -489
+        },
+        {
+          "fraction": 0.65,
+          "edgeBottom": -1290
+        },
+        {
+          "fraction": 0.9,
+          "edgeBottom": -2090
+        },
+        {
+          "fraction": 1,
+          "edgeBottom": -2410
+        }
+      ],
+      "coveredLinksInert": true,
+      "coveredPhotographyPaused": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "initialRise": 0,
+      "middleRise": 0.8300866505206393,
+      "edgeTop": 84.81475830078125,
+      "sectionTop": 202.90625,
+      "anchorTop": 110.90625,
+      "headerBottom": 95,
+      "overflow": 0,
+      "stableDocumentHeight": true,
+      "reverse": true,
+      "idleStable": true,
+      "endScrollMorphing": true,
+      "joins": [
+        {
+          "sectionTop": 167.90625,
+          "edgeBottom": 168.90625
+        },
+        {
+          "sectionTop": 159.90625,
+          "edgeBottom": 160.90625
+        },
+        {
+          "sectionTop": 144.90625,
+          "edgeBottom": 145.90625
+        },
+        {
+          "sectionTop": 119.90625,
+          "edgeBottom": 120.90625
+        },
+        {
+          "sectionTop": 94.90625,
+          "edgeBottom": 95.90625
+        },
+        {
+          "sectionTop": 69.90625,
+          "edgeBottom": 70.90625
+        },
+        {
+          "sectionTop": -5.09375,
+          "edgeBottom": -4.09375
+        },
+        {
+          "sectionTop": -5.09375,
+          "edgeBottom": -4.09375
+        },
+        {
+          "sectionTop": 69.90625,
+          "edgeBottom": 70.90625
+        },
+        {
+          "sectionTop": 94.90625,
+          "edgeBottom": 95.90625
+        },
+        {
+          "sectionTop": 119.90625,
+          "edgeBottom": 120.90625
+        },
+        {
+          "sectionTop": 144.90625,
+          "edgeBottom": 145.90625
+        },
+        {
+          "sectionTop": 159.90625,
+          "edgeBottom": 160.90625
+        },
+        {
+          "sectionTop": 167.90625,
+          "edgeBottom": 168.90625
+        }
+      ],
+      "positions": [
+        {
+          "fraction": 0.4,
+          "edgeBottom": -600.09375
+        },
+        {
+          "fraction": 0.65,
+          "edgeBottom": -1326.09375
+        },
+        {
+          "fraction": 0.9,
+          "edgeBottom": -2053.09375
+        },
+        {
+          "fraction": 1,
+          "edgeBottom": -2343.09375
+        }
+      ],
+      "coveredLinksInert": true,
+      "coveredPhotographyPaused": true
+    },
+    {
+      "width": 720,
+      "height": 450,
+      "initialRise": 0,
+      "middleRise": 0.8304487774809871,
+      "edgeTop": 102.15943908691406,
+      "sectionTop": 234.03125,
+      "anchorTop": 88.03125,
+      "headerBottom": 72,
+      "overflow": 0,
+      "stableDocumentHeight": true,
+      "reverse": true,
+      "idleStable": true,
+      "endScrollMorphing": true,
+      "joins": [
+        {
+          "sectionTop": 153.03125,
+          "edgeBottom": 154.03125
+        },
+        {
+          "sectionTop": 145.03125,
+          "edgeBottom": 146.03125
+        },
+        {
+          "sectionTop": 122.03125,
+          "edgeBottom": 123.03125
+        },
+        {
+          "sectionTop": 97.03125,
+          "edgeBottom": 98.03125
+        },
+        {
+          "sectionTop": 72.03125,
+          "edgeBottom": 73.03125
+        },
+        {
+          "sectionTop": 47.03125,
+          "edgeBottom": 48.03125
+        },
+        {
+          "sectionTop": -4.96875,
+          "edgeBottom": -3.96875
+        },
+        {
+          "sectionTop": -4.96875,
+          "edgeBottom": -3.96875
+        },
+        {
+          "sectionTop": 47.03125,
+          "edgeBottom": 48.03125
+        },
+        {
+          "sectionTop": 72.03125,
+          "edgeBottom": 73.03125
+        },
+        {
+          "sectionTop": 97.03125,
+          "edgeBottom": 98.03125
+        },
+        {
+          "sectionTop": 122.03125,
+          "edgeBottom": 123.03125
+        },
+        {
+          "sectionTop": 145.03125,
+          "edgeBottom": 146.03125
+        },
+        {
+          "sectionTop": 153.03125,
+          "edgeBottom": 154.03125
+        }
+      ],
+      "positions": [
+        {
+          "fraction": 0.4,
+          "edgeBottom": -697.96875
+        },
+        {
+          "fraction": 0.65,
+          "edgeBottom": -1423.96875
+        },
+        {
+          "fraction": 0.9,
+          "edgeBottom": -2149.96875
+        },
+        {
+          "fraction": 1,
+          "edgeBottom": -2439.96875
+        }
+      ],
+      "coveredLinksInert": true,
+      "coveredPhotographyPaused": true
+    }
+  ],
+  "fallbacks": [
+    "Preference change midway removes textured edge; restoring motion reinstates current scroll geometry",
+    "Reduced-motion mobile starts with a plain section edge; menu and Services anchor work",
+    "No JS: plain edge, readable hero and working About anchor"
+  ],
+  "errors": []
+}

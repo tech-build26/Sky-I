@@ -1,0 +1,16 @@
+{
+  "duration": 10.366633,
+  "width": 2560,
+  "height": 1392,
+  "times": [
+    0,
+    1.296,
+    2.592,
+    3.887,
+    5.183,
+    6.479,
+    7.775,
+    9.071
+  ],
+  "decoder": "Bundled Chrome HTMLVideoElement; local loopback only; FFmpeg unavailable"
+}

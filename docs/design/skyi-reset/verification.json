@@ -1,0 +1,54 @@
+{
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 900,
+      "noOverflow": true,
+      "headingFits": true,
+      "approachAnchor": true
+    },
+    {
+      "width": 1900,
+      "height": 800,
+      "noOverflow": true,
+      "headingFits": true,
+      "approachAnchor": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "noOverflow": true,
+      "headingFits": true,
+      "approachAnchor": true
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "noOverflow": true,
+      "headingFits": true,
+      "approachAnchor": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "noOverflow": true,
+      "headingFits": true,
+      "approachAnchor": true
+    },
+    {
+      "width": 720,
+      "height": 450,
+      "noOverflow": true,
+      "headingFits": true,
+      "approachAnchor": true
+    }
+  ],
+  "behaviour": [
+    "No JS: readable photographic hero and real anchor",
+    "Reduced motion: static camera and usable anchor",
+    "Keyboard skip link focuses heading",
+    "Reversed pre-landing, touch selection and Back",
+    "Photograph failure leaves copy and navigation usable"
+  ],
+  "errors": []
+}

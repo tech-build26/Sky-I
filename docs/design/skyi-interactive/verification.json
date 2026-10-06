@@ -1,0 +1,295 @@
+{
+  "server": "Existing development servers: Sky I 3006 / Skyriders 3000",
+  "layouts": [
+    {
+      "width": 320,
+      "height": 568,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 600,
+      "height": 960,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 744,
+      "height": 1133,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 810,
+      "height": 1080,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 834,
+      "height": 1194,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 1024,
+      "height": 1366,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 1112,
+      "height": 834,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 1180,
+      "height": 820,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": true
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": true
+    },
+    {
+      "width": 1536,
+      "height": 864,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": true
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": true
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": true
+    },
+    {
+      "width": 280,
+      "height": 653,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 884,
+      "height": 1104,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "overflow": false,
+      "headingFits": true,
+      "fieldsAndTitlesFit": true,
+      "logoOverlap": false,
+      "desktopDrone": false
+    }
+  ],
+  "behaviour": [
+    "Full mobile menu: six destinations, focus trap, Escape, focus restoration and destination focus",
+    "Sector selection with pointer and keyboard",
+    "Validated inspection brief: live summary, real file download, email draft status; no simulated send",
+    "Three distinct native animation signatures; automatic progression; hero pause freezes gallery/drone; live reduced-motion interruption",
+    "No JavaScript: all navigation, native service details, all industry contexts and direct contact; form hidden",
+    "All hero photographs/drone fail: readable dark fallback and usable contact",
+    "Both local brand journeys reach compulsory destination pre-landing; Sky I left order, same-brand entry and Back"
+  ],
+  "transitionSignatures": [
+    [
+      {
+        "offset": null,
+        "easing": "linear",
+        "composite": "auto",
+        "clipPath": "circle(0% at 72% 42%)",
+        "transform": "scale(1.08)",
+        "computedOffset": 0
+      },
+      {
+        "offset": null,
+        "easing": "linear",
+        "composite": "auto",
+        "clipPath": "circle(150% at 72% 42%)",
+        "transform": "scale(1)",
+        "computedOffset": 1
+      }
+    ],
+    [
+      {
+        "offset": null,
+        "easing": "linear",
+        "composite": "auto",
+        "clipPath": "inset(0px 0px 100%)",
+        "transform": "translateY(-2%) scale(1.04)",
+        "computedOffset": 0
+      },
+      {
+        "offset": null,
+        "easing": "linear",
+        "composite": "auto",
+        "clipPath": "inset(0px 0px 0%)",
+        "transform": "translateY(0px) scale(1)",
+        "computedOffset": 1
+      }
+    ],
+    [
+      {
+        "offset": null,
+        "easing": "linear",
+        "composite": "auto",
+        "opacity": "0",
+        "transform": "translate3d(6%, 0px, 0px) scale(1.04)",
+        "computedOffset": 0
+      },
+      {
+        "offset": null,
+        "easing": "linear",
+        "composite": "auto",
+        "opacity": "1",
+        "transform": "translate3d(0px, 0px, 0px) scale(1)",
+        "computedOffset": 1
+      }
+    ]
+  ],
+  "errors": [],
+  "buildChecks": [
+    "ESLint clean",
+    "TypeScript clean",
+    "Sky I production build passed",
+    "Skyriders production build passed",
+    "Both production roots/home: no localhost href or restricted identities",
+    "First supplied hero SHA256 identical"
+  ]
+}
