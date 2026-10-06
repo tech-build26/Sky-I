@@ -1,13 +1,11 @@
-.button { position:relative; isolation:isolate; display:inline-flex; justify-content:center; align-items:center; gap:20px; min-height:46px; padding:10px 23px; overflow:hidden; border:1px solid #d8af7b8c; border-radius:99px; background:#111b2059; color:#f0ece3; font:400 .78rem/1.3 var(--font-jost),sans-serif; text-decoration:none; cursor:pointer; transition:border-color .3s,color .3s; }
-.button::before { content:""; position:absolute; inset:-1px; z-index:-1; background:#d8af7b; border-radius:inherit; transform:translateY(105%); transition:transform .4s cubic-bezier(.22,1,.36,1); }
+.button { position:relative; display:inline-flex; justify-content:center; align-items:center; gap:10px; min-height:44px; padding:6px 0; border:none; background:transparent; color:#f0ece3; font:400 .78rem/1.3 var(--font-jost),sans-serif; text-decoration:none; cursor:pointer; transition:color .3s; }
 .text { position:relative; display:block; overflow:hidden; }
 .text>span { display:block; transition:transform .4s cubic-bezier(.22,1,.36,1); }
 .text>span+span { position:absolute; top:100%; left:0; white-space:nowrap; }
-.arrow { transition:transform .4s; }
-.button:is(:hover,:focus-visible) { color:#111b20; border-color:#d8af7b; }
-.button:is(:hover,:focus-visible)::before { transform:none; }
+.arrow { display:inline-flex; align-items:center; justify-content:center; flex-shrink:0; transition:transform .4s cubic-bezier(.22,1,.36,1); }
+.button:is(:hover,:focus-visible) { color:#d8af7b; }
 .button:is(:hover,:focus-visible) .text>span { transform:translateY(-100%); }
-.button:is(:hover,:focus-visible) .arrow { transform:rotate(45deg); }
-.button:focus-visible { outline:2px solid #d8af7b; outline-offset:5px; }
-@media(max-width:600px) { .button { gap:6px; padding:10px 9px; font-size:.73rem; min-height:44px; } .arrow { display:none; } }
-@media(prefers-reduced-motion:reduce) { .button,.button::before,.text>span,.arrow { transition:none; } }
+.button:is(:hover,:focus-visible) .arrow { transform:translateX(3px); }
+.button:focus-visible { outline:2px solid #d8af7b; outline-offset:4px; }
+@media(max-width:600px) { .button { gap:8px; font-size:.73rem; } }
+@media(prefers-reduced-motion:reduce) { .button,.text>span,.arrow { transition:none; } }

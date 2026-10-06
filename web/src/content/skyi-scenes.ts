@@ -2,7 +2,7 @@
 export const skyIScenes = [
   {
     src: "/images/skyi/window-washing-cinematic-20261006.webp",
-    label: "Window washing", desktop: "64% 38%", mobile: "68% 34%", placement: "centre",
+    label: "Window washing", desktop: "64% 38%", mobile: "68% 34%", placement: "left",
     eyebrow: "Specialised drone solutions", title: "Choose your", emphasis: "solution.",
     description: "Same challenges. A higher perspective.",
   },
