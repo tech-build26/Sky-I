@@ -48,8 +48,8 @@ export function Prelanding({ site }: { site: BrandId }) {
                   className="destination-subject"
                   src={choice.image}
                   alt={choice.imageAlt}
-                  width={brand === "skyriders" ? 1024 : 1600}
-                  height={brand === "skyriders" ? 1536 : 1000}
+                  width={brand === "skyriders" ? 1122 : 1600}
+                  height={brand === "skyriders" ? 1402 : 1000}
                   sizes={brand === "skyriders" ? "(max-width: 800px) 300px, 35vw" : "(max-width: 800px) 420px, 45vw"}
                   priority
                 />

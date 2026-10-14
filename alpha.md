@@ -7,7 +7,7 @@ Repository: tech-build26/Sky-I
 
 Build only Sky I in this independent Next.js 16.3.8 application. Keep the approved root pre-landing and enter this site's hero at /home/. Cross-brand links open the other site's root. Sky I's pre-landing is Sky I left / Skyriders right, with its own sky-bg.jpg. No runtime/code dependency on the sibling workspace.
 
-Exact next task: Ishe reviews http://localhost:3006/home/#safety and Contact for the selected audit corrections, then explicitly approves committing if satisfied. S03-L integrated acceptance remains open. Continue remaining pages separately; SMTP configuration and actual two-inbox/Reply-To verification are owner-deferred until that page work. Other audit suggestions, conversion tracking, real proof, dedicated routes, privacy/legal identity, host/proxy/runtime and release gates remain open.
+Exact next task: Owner reviews pre-landing at http://localhost:3006/ for updated technician asset and continues remaining landing acceptance. SMTP configuration and actual two-inbox/Reply-To verification are owner-deferred until remaining pages are built. Other audit suggestions, conversion tracking, real proof, dedicated routes, privacy/legal identity, host/proxy/runtime and release gates remain open.
 
 ## Foundation and separation
 
