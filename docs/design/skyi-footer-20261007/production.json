@@ -1,0 +1,8 @@
+{
+  "baseline": "Next.js 16.3.8",
+  "build": true,
+  "canonical": "https://skyi.co.za/home/",
+  "sisterRoot": "https://ropeaccess.co.za/",
+  "noLocalOrigins": true,
+  "contactLinks": true
+}

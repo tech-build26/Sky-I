@@ -1,0 +1,849 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 900,
+      "top": 0,
+      "right": 1440,
+      "bottom": 900,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 86.390625,
+          "y": 339.3125,
+          "width": 393.609375,
+          "height": 501.578125,
+          "top": 339.3125,
+          "right": 480,
+          "bottom": 840.890625,
+          "left": 86.390625
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 523.1875,
+          "y": 339.3125,
+          "width": 393.609375,
+          "height": 501.578125,
+          "top": 339.3125,
+          "right": 916.796875,
+          "bottom": 840.890625,
+          "left": 523.1875
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 959.984375,
+          "y": 339.3125,
+          "width": 393.625,
+          "height": 501.578125,
+          "top": 339.3125,
+          "right": 1353.609375,
+          "bottom": 840.890625,
+          "left": 959.984375
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 86.390625,
+        "y": 13.5,
+        "width": 76,
+        "height": 76,
+        "top": 13.5,
+        "right": 162.390625,
+        "bottom": 89.5,
+        "left": 86.390625
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 1378,
+      "y": 360,
+      "width": 44,
+      "height": 180,
+      "top": 360,
+      "right": 1422,
+      "bottom": 540,
+      "left": 1378
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -35.625,
+          "y": 297.203125,
+          "width": 637.640625,
+          "height": 435.21875,
+          "top": 297.203125,
+          "right": 602.015625,
+          "bottom": 732.421875,
+          "left": -35.625
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 503.515625,
+          "y": 290.1875,
+          "width": 432.953125,
+          "height": 449.25,
+          "top": 290.1875,
+          "right": 936.46875,
+          "bottom": 739.4375,
+          "left": 503.515625
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 940.3125,
+          "y": 290.1875,
+          "width": 432.96875,
+          "height": 449.25,
+          "top": 290.1875,
+          "right": 1373.28125,
+          "bottom": 739.4375,
+          "left": 940.3125
+        }
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080,
+      "top": 0,
+      "right": 1920,
+      "bottom": 1080,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 130,
+          "y": 404.90625,
+          "width": 514.9375,
+          "height": 606.46875,
+          "top": 404.90625,
+          "right": 644.9375,
+          "bottom": 1011.375,
+          "left": 130
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 702.53125,
+          "y": 404.90625,
+          "width": 514.9375,
+          "height": 606.46875,
+          "top": 404.90625,
+          "right": 1217.46875,
+          "bottom": 1011.375,
+          "left": 702.53125
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 1275.0625,
+          "y": 404.90625,
+          "width": 514.9375,
+          "height": 606.46875,
+          "top": 404.90625,
+          "right": 1790,
+          "bottom": 1011.375,
+          "left": 1275.0625
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 115.1875,
+        "y": 13.5,
+        "width": 76,
+        "height": 76,
+        "top": 13.5,
+        "right": 191.1875,
+        "bottom": 89.5,
+        "left": 115.1875
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 1858,
+      "y": 450,
+      "width": 44,
+      "height": 180,
+      "top": 450,
+      "right": 1902,
+      "bottom": 630,
+      "left": 1858
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -29.625,
+          "y": 354.375,
+          "width": 834.1875,
+          "height": 522.25,
+          "top": 354.375,
+          "right": 804.5625,
+          "bottom": 876.625,
+          "left": -29.625
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 676.796875,
+          "y": 345.953125,
+          "width": 566.40625,
+          "height": 539.09375,
+          "top": 345.953125,
+          "right": 1243.203125,
+          "bottom": 885.046875,
+          "left": 676.796875
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 1249.328125,
+          "y": 345.953125,
+          "width": 566.40625,
+          "height": 539.09375,
+          "top": 345.953125,
+          "right": 1815.734375,
+          "bottom": 885.046875,
+          "left": 1249.328125
+        }
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 768.8125,
+      "top": 0,
+      "right": 1024,
+      "bottom": 768.8125,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 48,
+          "y": 305.65625,
+          "width": 296,
+          "height": 417.078125,
+          "top": 305.65625,
+          "right": 344,
+          "bottom": 722.734375,
+          "left": 48
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 364,
+          "y": 305.65625,
+          "width": 296,
+          "height": 417.078125,
+          "top": 305.65625,
+          "right": 660,
+          "bottom": 722.734375,
+          "left": 364
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 680,
+          "y": 305.65625,
+          "width": 296,
+          "height": 417.078125,
+          "top": 305.65625,
+          "right": 976,
+          "bottom": 722.734375,
+          "left": 680
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 48,
+        "y": 13.5,
+        "width": 76,
+        "height": 76,
+        "top": 13.5,
+        "right": 124,
+        "bottom": 89.5,
+        "left": 48
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 978,
+      "y": 294,
+      "width": 44,
+      "height": 180,
+      "top": 294,
+      "right": 1022,
+      "bottom": 474,
+      "left": 978
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -43.75,
+          "y": 270.03125,
+          "width": 479.5,
+          "height": 368.203125,
+          "top": 270.03125,
+          "right": 435.75,
+          "bottom": 638.234375,
+          "left": -43.75
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 349.203125,
+          "y": 264.09375,
+          "width": 325.59375,
+          "height": 380.078125,
+          "top": 264.09375,
+          "right": 674.796875,
+          "bottom": 644.171875,
+          "left": 349.203125
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 665.203125,
+          "y": 264.09375,
+          "width": 325.59375,
+          "height": 380.078125,
+          "top": 264.09375,
+          "right": 990.796875,
+          "bottom": 644.171875,
+          "left": 665.203125
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 1024,
+      "top": 0,
+      "right": 768,
+      "bottom": 1024,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 48,
+          "y": 472.671875,
+          "width": 210.65625,
+          "height": 332.90625,
+          "top": 472.671875,
+          "right": 258.65625,
+          "bottom": 805.578125,
+          "left": 48
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 278.65625,
+          "y": 472.671875,
+          "width": 210.671875,
+          "height": 332.90625,
+          "top": 472.671875,
+          "right": 489.328125,
+          "bottom": 805.578125,
+          "left": 278.65625
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 509.328125,
+          "y": 472.671875,
+          "width": 210.671875,
+          "height": 332.90625,
+          "top": 472.671875,
+          "right": 720,
+          "bottom": 805.578125,
+          "left": 509.328125
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 24,
+        "y": 10.5,
+        "width": 64,
+        "height": 64,
+        "top": 10.5,
+        "right": 88,
+        "bottom": 74.5,
+        "left": 24
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -17.296875,
+          "y": 445.078125,
+          "width": 341.25,
+          "height": 285.1875,
+          "top": 445.078125,
+          "right": 323.953125,
+          "bottom": 730.265625,
+          "left": -17.296875
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 268.125,
+          "y": 440.484375,
+          "width": 231.734375,
+          "height": 294.375,
+          "top": 440.484375,
+          "right": 499.859375,
+          "bottom": 734.859375,
+          "left": 268.125
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 498.796875,
+          "y": 440.484375,
+          "width": 231.734375,
+          "height": 294.375,
+          "top": 440.484375,
+          "right": 730.53125,
+          "bottom": 734.859375,
+          "left": 498.796875
+        }
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 844,
+      "top": 0,
+      "right": 390,
+      "bottom": 844,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 24,
+          "y": 268.53125,
+          "width": 342,
+          "height": 184.15625,
+          "top": 268.53125,
+          "right": 366,
+          "bottom": 452.6875,
+          "left": 24
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 24,
+          "y": 452.6875,
+          "width": 342,
+          "height": 184.15625,
+          "top": 452.6875,
+          "right": 366,
+          "bottom": 636.84375,
+          "left": 24
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 24,
+          "y": 636.84375,
+          "width": 342,
+          "height": 183.15625,
+          "top": 636.84375,
+          "right": 366,
+          "bottom": 820,
+          "left": 24
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 24,
+        "y": 10.5,
+        "width": 64,
+        "height": 64,
+        "top": 10.5,
+        "right": 88,
+        "bottom": 74.5,
+        "left": 24
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -21.578125,
+          "y": 289.71875,
+          "width": 238.203125,
+          "height": 140.78125,
+          "top": 289.71875,
+          "right": 216.625,
+          "bottom": 430.5,
+          "left": -21.578125
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 16.65625,
+          "y": 464.90625,
+          "width": 161.734375,
+          "height": 158.71875,
+          "top": 464.90625,
+          "right": 178.390625,
+          "bottom": 623.625,
+          "left": 16.65625
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 16.65625,
+          "y": 649.0625,
+          "width": 161.734375,
+          "height": 158.71875,
+          "top": 649.0625,
+          "right": 178.390625,
+          "bottom": 807.78125,
+          "left": 16.65625
+        }
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "height": 700,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 700,
+      "top": 0,
+      "right": 320,
+      "bottom": 700,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 18,
+          "y": 247.40625,
+          "width": 284,
+          "height": 145.1875,
+          "top": 247.40625,
+          "right": 302,
+          "bottom": 392.59375,
+          "left": 18
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 18,
+          "y": 392.59375,
+          "width": 284,
+          "height": 145.203125,
+          "top": 392.59375,
+          "right": 302,
+          "bottom": 537.796875,
+          "left": 18
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 18,
+          "y": 537.796875,
+          "width": 284,
+          "height": 144.203125,
+          "top": 537.796875,
+          "right": 302,
+          "bottom": 682,
+          "left": 18
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 18,
+        "y": 10.5,
+        "width": 56,
+        "height": 56,
+        "top": 10.5,
+        "right": 74,
+        "bottom": 66.5,
+        "left": 18
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -19.84375,
+          "y": 257.90625,
+          "width": 197.796875,
+          "height": 123.1875,
+          "top": 257.90625,
+          "right": 177.953125,
+          "bottom": 381.09375,
+          "left": -19.84375
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 11.90625,
+          "y": 395.25,
+          "width": 134.296875,
+          "height": 138.875,
+          "top": 395.25,
+          "right": 146.203125,
+          "bottom": 534.125,
+          "left": 11.90625
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 11.90625,
+          "y": 540.453125,
+          "width": 134.296875,
+          "height": 138.875,
+          "top": 540.453125,
+          "right": 146.203125,
+          "bottom": 679.328125,
+          "left": 11.90625
+        }
+      }
+    ]
+  },
+  {
+    "width": 740,
+    "height": 390,
+    "errors": [],
+    "overflow": false,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 740,
+      "height": 761.53125,
+      "top": 0,
+      "right": 740,
+      "bottom": 761.53125,
+      "left": 0
+    },
+    "choices": [
+      {
+        "text": "Internal\ninspections\nTanks, boilers & enclosed spaces",
+        "rect": {
+          "x": 24,
+          "y": 283.53125,
+          "width": 692,
+          "height": 149,
+          "top": 283.53125,
+          "right": 716,
+          "bottom": 432.53125,
+          "left": 24
+        }
+      },
+      {
+        "text": "External\ninspections\nRoofs, facades & structures",
+        "rect": {
+          "x": 24,
+          "y": 432.53125,
+          "width": 692,
+          "height": 149,
+          "top": 432.53125,
+          "right": 716,
+          "bottom": 581.53125,
+          "left": 24
+        }
+      },
+      {
+        "text": "Window\nwashing\nGlazing & building exteriors",
+        "rect": {
+          "x": 24,
+          "y": 581.53125,
+          "width": 692,
+          "height": 148,
+          "top": 581.53125,
+          "right": 716,
+          "bottom": 729.53125,
+          "left": 24
+        }
+      }
+    ],
+    "logo": {
+      "rect": {
+        "x": 24,
+        "y": 10.5,
+        "width": 64,
+        "height": 64,
+        "top": 10.5,
+        "right": 88,
+        "bottom": 74.5,
+        "left": 24
+      },
+      "bg": "rgb(255, 255, 255)"
+    },
+    "rail": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "images": [
+      {
+        "loaded": true,
+        "rect": {
+          "x": -68.234375,
+          "y": 287.140625,
+          "width": 482.015625,
+          "height": 140.78125,
+          "top": 287.140625,
+          "right": 413.78125,
+          "bottom": 427.921875,
+          "left": -68.234375
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 9.125,
+          "y": 427.171875,
+          "width": 327.296875,
+          "height": 158.71875,
+          "top": 427.171875,
+          "right": 336.421875,
+          "bottom": 585.890625,
+          "left": 9.125
+        }
+      },
+      {
+        "loaded": true,
+        "rect": {
+          "x": 9.125,
+          "y": 576.171875,
+          "width": 327.296875,
+          "height": 158.71875,
+          "top": 576.171875,
+          "right": 336.421875,
+          "bottom": 734.890625,
+          "left": 9.125
+        }
+      }
+    ]
+  }
+]

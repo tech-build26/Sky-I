@@ -1,0 +1,67 @@
+{
+  "header": {
+    "rail": {
+      "x": 1378,
+      "y": 360,
+      "width": 44,
+      "height": 180
+    },
+    "logo": {
+      "bg": "rgb(255, 255, 255)",
+      "radius": "50%"
+    },
+    "sisterAfterContact": true
+  },
+  "services": [
+    {
+      "id": "internal-inspections",
+      "open": true,
+      "active": "true",
+      "top": 120.15625,
+      "focus": true,
+      "hash": "#internal-inspections"
+    },
+    {
+      "id": "external-inspections",
+      "open": true,
+      "active": "true",
+      "top": 120.15625,
+      "focus": true,
+      "hash": "#external-inspections"
+    },
+    {
+      "id": "window-washing",
+      "open": true,
+      "active": "true",
+      "top": 120.15625,
+      "focus": true,
+      "hash": "#window-washing"
+    }
+  ],
+  "keyboardHoverReturn": true,
+  "rootLinks": [
+    {
+      "href": "/home/",
+      "text": ""
+    },
+    {
+      "href": "https://ropeaccess.co.za/",
+      "text": ""
+    },
+    {
+      "href": "/home/",
+      "text": "02 / DRONE INSPECTION\nEnter Sky I\nA clearer view of hard-to-reach places."
+    },
+    {
+      "href": "https://ropeaccess.co.za/",
+      "text": "01 / ACCESS SPECIALISTS\nEnter Skyriders\nSkilled access. Practical solutions."
+    }
+  ],
+  "prelandingEntry": true,
+  "back": true,
+  "mobile": true,
+  "reduced": true,
+  "nojs": true,
+  "failed-art": true,
+  "errors": []
+}

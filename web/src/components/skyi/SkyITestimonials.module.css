@@ -1,0 +1,38 @@
+.section { position:relative; isolation:isolate; overflow:clip; background:linear-gradient(130deg,#14252e 0%,#164158 48%,#10222c 100%); color:#f0ece3; --focus:#01b0fc; }
+.layout { position:relative; z-index:1; width:min(calc(100% - 2 * var(--gutter)),1440px); margin:auto; }
+.architecture { position:absolute; z-index:0; inset:0; overflow:hidden; pointer-events:none; }
+.architecture>span:not(.quotation) { position:absolute; border:1px solid #96d8f32e; width:1100px; height:1100px; left:-530px; top:-250px; border-radius:50%; }
+.architecture>span:nth-child(2) { width:1400px; height:1400px; left:-680px; top:-400px; }
+.architecture>span:nth-child(3) { width:1800px; height:1800px; left:-880px; top:-600px; }
+.quotation { position:absolute; right:5%; top:-65px; font:400 32rem/1 var(--sky-display); color:#9cdaf30a; }
+.eyebrow { display:flex; justify-content:space-between; align-items:center; gap:20px; font-size:.7rem; letter-spacing:.16em; text-transform:uppercase; margin-bottom:26px!important; color:#b5d6e6; }
+.eyebrow>span { border:1px solid #9bd8f356; padding:6px 12px; color:#c3e7f8; font-size:.61rem; letter-spacing:.1em; }
+.section h2 { font-size:clamp(3.3rem,5.6vw,6.2rem); line-height:1; }
+.section h2 em { color:#01b0fc; }
+.caption { display:flex; justify-content:space-between; align-items:end; gap:24px; margin-top:25px; margin-bottom:36px; }
+.caption p { max-width:570px; font-size:.8rem; line-height:1.7; color:#b5d1de; }
+.caption button { display:inline-flex; align-items:center; gap:18px; flex:none; min-height:48px; padding:6px 0; background:none; border:0; border-bottom:1px solid #01b0fc; color:#e4f4fc; font-size:.85rem; }
+.caption button svg { color:#01b0fc; }
+.window { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; height:485px; overflow:hidden; mask-image:linear-gradient(transparent,#000 5%,#000 92%,transparent); }
+.column { min-width:0; }
+.column:focus-visible { outline-offset:-3px!important; }
+.track { animation:voices-rise var(--testimonial-duration,40s) linear infinite; animation-play-state:paused; }
+.section[data-running=true] .track { animation-play-state:running; }
+.column:is(:hover,:focus-within) .track { animation-play-state:paused!important; }
+.batch { display:flex; flex-direction:column; gap:18px; list-style:none; padding:0 0 18px; margin:0; }
+.tile { min-width:0; padding:24px 26px; border:1px solid #9cdaf333; border-top:2px solid #6ccaf277; background:linear-gradient(135deg,#1a3845f2,#102731f5); box-shadow:0 12px 32px #08131918; }
+.service { display:flex; justify-content:space-between; align-items:center; gap:16px; color:#94d9fa; font-size:.64rem; letter-spacing:.1em; text-transform:uppercase; }
+.service>span { font:400 3rem/.6 var(--sky-display); }
+.tile blockquote { margin:17px 0 22px; }
+.tile blockquote p { font:400 clamp(1.15rem,1.55vw,1.5rem)/1.4 var(--sky-display); letter-spacing:-.005em; color:#e8f0f3; }
+.attribution { display:flex; flex-direction:column; gap:5px; padding-top:14px; border-top:1px solid #a1d4eb2e; }
+.attribution>span:first-child { font-size:.73rem; font-weight:500; color:#d1e5ef; }
+.attribution>span:last-child { font-size:.68rem; color:#a9c6d6; }
+.section[data-static=true] .window { height:auto; overflow:visible; mask-image:none; }
+.section[data-static=true] .track { animation:none; transform:none; }
+.section[data-static=true] [data-copy="1"] { display:none; }
+@keyframes voices-rise { to { transform:translateY(-50%); } }
+@media(max-width:1100px) { .window { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:1023px) { .window { gap:14px; } .tile { padding:22px; } }
+@media(max-width:767px) { .window { grid-template-columns:1fr; height:460px; } .caption { flex-direction:column; align-items:start; gap:16px; } .tile { padding:24px; } .tile blockquote p { font-size:1.4rem; } .section[data-static=true] .window { gap:0; } .eyebrow { font-size:.64rem; gap:10px; } .eyebrow>span { font-size:.57rem; padding:5px 8px; } .section h2 { font-size:clamp(2.8rem,10.5vw,4.5rem); } }
+@media(prefers-reduced-motion:reduce), (scripting:none) { .window { height:auto; mask-image:none; overflow:visible; } .track { animation:none!important; transform:none!important; } .section [data-copy="1"] { display:none; } }

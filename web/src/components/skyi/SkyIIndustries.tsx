@@ -1,24 +1,43 @@
-"use client";
+import { ArrowUpRight } from "lucide-react";
+import { skyISectors, skyISectorVisuals } from "@/content/skyi-sectors";
+import styles from "./SkyIIndustries.module.css";
+import { SkyISectorArtwork } from "./SkyISectorArtwork";
+import { SkyISectorInteractions } from "./SkyISectorInteractions";
+import { SkyIDisclosureFit } from "./SkyIDisclosureFit";
 
-// ===== Sector selection: context rather than client names =====
-import { useState } from "react";
-import styles from "./SkyI.module.css";
-
-const sectors = [
-  { title: "Power generation", detail: "Boilers, stacks and plant structures. Begin with the operating environment and the condition the inspection needs to establish." },
-  { title: "Mining", detail: "Large structures and difficult internal spaces. Define the inspection area, access constraints and the findings needed for the next decision." },
-  { title: "Petroleum & petrochemical", detail: "Tanks and industrial infrastructure. Scope the work around the asset, its operating status and the site's requirements." },
-  { title: "Construction", detail: "Buildings, roofing and structural elements. A remote visual perspective can inform where closer examination is needed." },
-  { title: "Facilities maintenance", detail: "Make the inspection question specific: an area of concern, a changing condition or a maintenance decision that needs a clearer view." },
-  { title: "Municipal infrastructure", detail: "Structures serving public systems. Start with the asset and the inspection objective, then agree the appropriate approach." },
-];
 export function SkyIIndustries() {
-  const [selected, setSelected] = useState(0);
-  return <div className={styles.sectorLayout}>
-    <div className={styles.sectorChoices} aria-label="Industry context">
-      {sectors.map((sector,index)=><button key={sector.title} aria-pressed={selected===index} aria-controls="skyi-sector-detail" onClick={()=>setSelected(index)}><span>{String(index+1).padStart(2,"0")}</span>{sector.title}<span aria-hidden="true">↗</span></button>)}
+  return <section id="industries" className={styles.section} tabIndex={-1} aria-labelledby="skyi-industries-title">
+    <div className={styles.container}>
+      <div className={styles.surface} aria-hidden="true"><svg viewBox="0 0 1280 800" preserveAspectRatio="none"><g fill="none" stroke="currentColor"><path d="M0 100H1280M0 700H1280M160 0v800M1120 0v800M400 0 0 700M580 0 120 800M1280 200 900 800M1280 400 1040 800" /><path d="M20 60h40m-20-20v40M1200 730h40m-20-20v40M540 710h100m-50-10v20" /></g></svg></div>
+      <div className={styles.intro} data-skyi-reveal="left">
+        <p className={styles.eyebrow}>Sectors / The context matters</p>
+        <h2 id="skyi-industries-title">Industrial sites.<br /><em>Specific questions.</em></h2>
+        <p className={styles.lead}>The asset, the access and what you need to see.<br />Choose your setting.</p>
+      </div>
+      <div className={styles.selector} data-disclosure-layout>
+        <div className={styles.index} aria-label="Choose an industry">
+          {skyISectors.map((sector, index) => {
+            const visual = skyISectorVisuals[index];
+            return <details key={sector.title} name="skyi-sector" className={styles.item} open={index === 0} data-sector-id={visual.id}>
+              <summary data-skyi-reveal="left" data-scroll-delay={index * 65}>{sector.title}<span className={styles.arrow} aria-hidden="true"><ArrowUpRight size={21} /></span></summary>
+              <div className={styles.panel} data-disclosure-panel data-disclosure-offset data-sector-panel>
+                <SkyISectorArtwork visual={visual} />
+                <div className={styles.context} data-skyi-reveal="sector-detail" data-scroll-delay="120">
+                  <p className={styles.assets}>{sector.assets}</p>
+                  <p className={styles.word} aria-hidden="true">{sector.word}</p>
+                  <h3>{sector.question}</h3>
+                  <p className={styles.body}>{sector.context}</p>
+                  <div className={styles.brief}><span>Bring to the conversation</span><p>{sector.brief}</p></div>
+                  <a className={styles.action} href="#contact">Discuss your inspection <ArrowUpRight size={21} aria-hidden="true" /></a>
+                </div>
+              </div>
+            </details>;
+          })}
+        </div>
+      </div>
+      <div className={styles.baseline} data-skyi-reveal="up"><span>A site-specific conversation.</span><i aria-hidden="true" /><span>An inspection with a purpose.</span></div>
+      <SkyISectorInteractions />
+      <SkyIDisclosureFit sectionId="industries" breakpoint={1024} />
     </div>
-    <div id="skyi-sector-detail" className={styles.sectorDetail} aria-live="polite"><span className={styles.label}>The inspection context</span><h3>{sectors[selected].title}</h3><p>{sectors[selected].detail}</p><a href="#contact">Define your inspection <span aria-hidden="true">↗</span></a></div>
-    <noscript><ul className={styles.staticSectors}>{sectors.map(sector=><li key={sector.title}><h3>{sector.title}</h3><p>{sector.detail}</p></li>)}</ul></noscript>
-  </div>;
+  </section>;
 }

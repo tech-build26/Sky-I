@@ -1,0 +1,23 @@
+// Application contexts: supplied 2026 profile, physical page 8, and research/findings.md.
+// Enquiry contexts, not named clients or completed projects.
+export const skyISectors = [
+  { title: "Power generation", word: "Plant.", assets: "Boilers · ducting · stacks", question: "Which areas need attention before maintenance?", context: "Visual documentation of furnace walls, ducting and elevated structures can support discussions about where closer investigation is needed.", brief: "Area of concern, plant operating status and maintenance window." },
+  { title: "Mining", word: "Scale.", assets: "Structures · silos · enclosed spaces", question: "Which structure or enclosed area needs investigation?", context: "Document the visible condition of elevated surfaces or asset interiors so the site team can discuss further access and investigation.", brief: "Asset location, surface of concern and access constraints." },
+  { title: "Petroleum & petrochemical", word: "Storage.", assets: "Tanks · industrial infrastructure", question: "What do the tank’s visible surfaces reveal?", context: "Agree the internal or external surfaces to document. Contents, operating conditions and the site’s permissions determine whether and how an inspection can proceed.", brief: "Asset contents, operating status and inspection objective." },
+  { title: "Construction", word: "Structure.", assets: "Buildings · roofs · structural elements", question: "Which building details need a closer examination?", context: "Bring roof surfaces, facades and elevated elements into the project conversation. Agree the views needed to review visible condition or an area of concern.", brief: "Building element, construction activity and views required." },
+  { title: "Facilities maintenance", word: "Upkeep.", assets: "Exteriors · roofing · windows", question: "Is the next task inspection or cleaning?", context: "A roof or exterior survey documents visible condition. Window washing addresses a separate cleaning requirement, with access and surrounding activity assessed for each.", brief: "Building location, inspection or cleaning requirement and site activity." },
+  { title: "Municipal infrastructure", word: "Systems.", assets: "Reservoirs · towers · public structures", question: "Which asset views will support your maintenance review?", context: "Discuss surfaces of reservoirs, towers or other structures that are difficult to see from the ground. Agree the coverage needed for your engineering or maintenance team.", brief: "Asset, area of concern and responsible site contact." },
+] as const;
+
+// Owner-authorised fictional settings; supplied aircraft remain separate assets.
+// Drawings describe asset context, never inspection findings.
+export const skyISectorVisuals = [
+  { id: "power", image: "/images/skyi/sectors/power-20261014.png", alt: "Illustrative boiler hall with furnace walls, boiler tubes and elevated ductwork", setting: "Boiler hall", detail: "Furnace walls / ducting", drone: "/images/elios_3.png", kind: "boiler", position: "58% 48%" },
+  { id: "mining", image: "/images/skyi/sectors/mining-20261014.png", alt: "Illustrative mine processing silo, conveyor tower and steel access structure", setting: "Processing structures", detail: "Silos / elevated access", drone: "/images/external-drone.png", kind: "silo", position: "60% 45%" },
+  { id: "petroleum", image: "/images/skyi/sectors/petroleum-20261014.png", alt: "Illustrative storage tank with welded steel surfaces and external access stairs", setting: "Storage tank", detail: "Tank shell / access systems", drone: "/images/external-drone.png", kind: "tank", position: "62% 48%" },
+  { id: "construction", image: "/images/skyi/sectors/construction-20261014.png", alt: "Illustrative building frame with concrete, steel connections and unfinished roof edges", setting: "Building structure", detail: "Connections / roof edges", drone: "/images/external-drone.png", kind: "frame", position: "58% 45%" },
+  { id: "facilities", image: "/images/skyi/sectors/facilities-20261014.png", alt: "Illustrative building exterior with glazing, roof equipment and a maintenance walkway", setting: "Building exterior", detail: "Glazing / roof surfaces", drone: "/images/window-washing.png", kind: "building", position: "60% 45%" },
+  { id: "municipal", image: "/images/skyi/sectors/municipal-20261014.png", alt: "Illustrative water reservoir, elevated water tower and exterior access stairs", setting: "Water infrastructure", detail: "Reservoirs / towers", drone: "/images/external-drone.png", kind: "tower", position: "62% 48%" },
+] as const;
+
+export type SkyISectorVisual = (typeof skyISectorVisuals)[number];

@@ -1,0 +1,35 @@
+.section { position:relative; isolation:isolate; overflow:clip; background:#111b20; color:#f0ece3; }
+.section.section.section { padding-block:0; }
+.media { position:absolute; inset:0; z-index:0; background:#111b20; }
+.video { display:block; width:100%; height:100%; object-fit:cover; object-position:50% 50%; }
+/* Dense shading stays under the copy. No blur or colour filter on the work face. */
+.media::after { content:""; position:absolute; inset:0; pointer-events:none; background:linear-gradient(90deg,#111b20f5 0%,#111b20ed 25%,#111b2080 39%,#111b2014 53%,transparent 67%),linear-gradient(0deg,#111b20,transparent 90px); }
+.layout { position:relative; z-index:1; width:min(calc(100% - 2 * var(--gutter)),1440px); margin-inline:auto; min-height:clamp(640px,50vw,820px); display:flex; align-items:center; padding-block:64px; }
+.copy { width:30%; max-width:390px; }
+.eyebrow { max-width:300px; margin-bottom:24px!important; font-size:.875rem; line-height:1.6; letter-spacing:.06em; text-transform:uppercase; color:#f0ece3; }
+.copy h2 { font:400 clamp(3.4rem,4.25vw,5.1rem)/1 var(--sky-display); letter-spacing:-.035em; }
+.copy h2 em { color:#01b0fc; font-weight:400; }
+.mask { display:block; overflow:clip; padding-block:.12em; margin-block:-.12em; }
+.mask>span { display:block; }
+.body { margin-top:24px!important; font-size:1rem; line-height:1.7; color:#f0ece3; }
+.action { display:inline-flex; align-items:center; gap:18px; min-height:64px; margin-top:24px; color:#f0ece3; text-decoration:none; border-bottom:1px solid #01b0fc; padding-block:8px; font-size:1rem; }
+.arrow { display:grid; place-items:center; flex:none; width:48px; height:48px; border:1px solid #01b0fc; border-radius:50%; transition:background .3s,color .3s,transform .3s; }
+.arrow svg { width:24px; height:24px; }
+.action:is(:hover,:focus-visible) .arrow { background:#01b0fc; color:#111b20; transform:rotate(45deg); }
+.note { margin-top:18px!important; font-size:.875rem; line-height:1.6; color:#e0e5e4; }
+@media(max-width:1100px) {
+  .media { position:relative; width:100%; aspect-ratio:16/9; }
+  .video { object-fit:contain; }
+  .media::after { background:linear-gradient(0deg,#111b20,transparent 26%); }
+  .layout { min-height:0; padding-block:30px 48px; }
+  .copy { width:100%; max-width:640px; }
+  .eyebrow { max-width:none; margin-bottom:18px!important; }
+  .copy h2 { font-size:clamp(3.2rem,7vw,4.8rem); }
+  .mask { display:inline; }
+  .mask>span { display:inline; }
+  .copy h2 em::before { content:" "; }
+  .body { max-width:550px; margin-top:18px!important; }
+  .action { margin-top:18px; }
+}
+@media(max-width:479px) { .copy h2 { font-size:clamp(2.8rem,11vw,3.5rem); } .layout { padding-block:24px 40px; } }
+@media(prefers-reduced-motion:reduce) { .arrow { transition:none; } }

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1916 821" preserveAspectRatio="none">
+  <defs>
+    <filter id="soft" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
+    <mask id="copy" maskUnits="userSpaceOnUse" x="0" y="0" width="1916" height="821">
+      <path fill="white" d="M0 0h1916v821H0z"/>
+      <g fill="black" filter="url(#soft)">
+        <path d="M123 76h365v30H123zM121 124h614v139H121zM121 264h587v61H121zM121 338h283v70H121zM121 416h500v28H121z"/>
+        <path d="M53 550h332v146H53zM683 550h328v148H683zM1329 550h278v161h-278z"/>
+        <path d="M52 750h195v46H52zM1738 750h159v46h-159z"/>
+      </g>
+    </mask>
+  </defs>
+  <path fill="white" mask="url(#copy)" d="M0 0h1916v821H0z"/>
+</svg>

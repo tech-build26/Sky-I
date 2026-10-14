@@ -1,0 +1,9 @@
+{
+  "sourceFilesChecked": 91,
+  "buildOnlyFilesRestored": [
+    "web/tsconfig.json",
+    "web/next-env.d.ts"
+  ],
+  "changedSourceFiles": [],
+  "checked": "14 October 2026"
+}

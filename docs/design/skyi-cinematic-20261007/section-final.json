@@ -1,0 +1,56 @@
+{
+  "about": {
+    "client": 1425,
+    "complete": 7,
+    "id": "about",
+    "logo": "0",
+    "photo": "1",
+    "width": 1425,
+    "settled": true
+  },
+  "services": {
+    "client": 1425,
+    "complete": 14,
+    "id": "services",
+    "logo": "0",
+    "width": 1425,
+    "settled": true
+  },
+  "industries": {
+    "client": 1425,
+    "complete": 11,
+    "id": "industries",
+    "logo": "0",
+    "width": 1425,
+    "settled": true
+  },
+  "impact": {
+    "client": 1425,
+    "complete": 8,
+    "id": "impact",
+    "logo": "0",
+    "width": 1425,
+    "settled": true
+  },
+  "contact": {
+    "client": 1425,
+    "complete": 13,
+    "id": "contact",
+    "logo": "0",
+    "width": 1425,
+    "settled": true
+  },
+  "skyi-footer": {
+    "client": 1425,
+    "complete": 22,
+    "id": "skyi-footer",
+    "logo": "0",
+    "width": 1425,
+    "settled": true
+  },
+  "logoReturn": {
+    "opacity": "1",
+    "section": "opening",
+    "visible": "true"
+  }
+}

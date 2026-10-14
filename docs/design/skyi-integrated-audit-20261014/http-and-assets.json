@@ -1,0 +1,431 @@
+{
+  "home": {
+    "status": 200,
+    "htmlWireBytes": 29267,
+    "htmlDecodedBytes": 183607,
+    "ttfbMs": 26.5,
+    "compression": "gzip",
+    "title": "Sky I | Industrial Drone Inspections in South Africa",
+    "canonical": "https://skyi.co.za/home/",
+    "hasOgImage": false
+  },
+  "initialResources": [
+    {
+      "kind": "font",
+      "path": "/_next/static/media/cormorant-s.p.3581a8wv0ccko.woff2",
+      "status": 200,
+      "wireBytes": 95148,
+      "decodedBytes": 95148,
+      "contentType": "font/woff2",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "font",
+      "path": "/_next/static/media/jost-s.p.2yqf_nwj5979j.woff2",
+      "status": 200,
+      "wireBytes": 36104,
+      "decodedBytes": 36104,
+      "contentType": "font/woff2",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fsky-i-logo-20261005.png&w=64&q=75",
+      "status": 200,
+      "wireBytes": 4084,
+      "decodedBytes": 4084,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fsky-logo.png&w=96&q=75",
+      "status": 200,
+      "wireBytes": 3712,
+      "decodedBytes": 3712,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Felios_3.png&w=750&q=75",
+      "status": 200,
+      "wireBytes": 55332,
+      "decodedBytes": 55332,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 40910,
+      "decodedBytes": 40910,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "stylesheet",
+      "path": "/_next/static/chunks/091bjto42pexl.css",
+      "status": 200,
+      "wireBytes": 7732,
+      "decodedBytes": 31922,
+      "contentType": "text/css; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "stylesheet",
+      "path": "/_next/static/chunks/1fto84t3rslyt.css",
+      "status": 200,
+      "wireBytes": 18985,
+      "decodedBytes": 113498,
+      "contentType": "text/css; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/3yfl9fgvivx3-.js",
+      "status": 200,
+      "wireBytes": 3614,
+      "decodedBytes": 12887,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/11jq0c2_zavac.js",
+      "status": 200,
+      "wireBytes": 8504,
+      "decodedBytes": 31917,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/3g4px251sg85e.js",
+      "status": 200,
+      "wireBytes": 71576,
+      "decodedBytes": 228922,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 44730,
+      "decodedBytes": 44730,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 53850,
+      "decodedBytes": 53850,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyline.png&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 340148,
+      "decodedBytes": 340148,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/turbopack-2y-kyno-rktol.js",
+      "status": 200,
+      "wireBytes": 3853,
+      "decodedBytes": 9721,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/124m78d5wt-4q.js",
+      "status": 200,
+      "wireBytes": 42856,
+      "decodedBytes": 155749,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/0v0ww69t9gt8o.js",
+      "status": 200,
+      "wireBytes": 10391,
+      "decodedBytes": 34856,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/083qe4fipqsuf.js",
+      "status": 200,
+      "wireBytes": 4020,
+      "decodedBytes": 9378,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/1af6cyerip_la.js",
+      "status": 200,
+      "wireBytes": 5404,
+      "decodedBytes": 12523,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "image",
+      "path": "/images/skyi/inspection-perspective-poster.jpg",
+      "status": 200,
+      "wireBytes": 217590,
+      "decodedBytes": 217590,
+      "contentType": "image/jpeg",
+      "cacheControl": "public, max-age=0"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/2z32vspuadebk.js",
+      "status": 200,
+      "wireBytes": 61215,
+      "decodedBytes": 190018,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Fservice-m1.jpg&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 28168,
+      "decodedBytes": 28168,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 118526,
+      "decodedBytes": 118526,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 147100,
+      "decodedBytes": 147100,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 93520,
+      "decodedBytes": 93520,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/images/skyi/exterior-inspection-poster.jpg",
+      "status": 200,
+      "wireBytes": 276009,
+      "decodedBytes": 276009,
+      "contentType": "image/jpeg",
+      "cacheControl": "public, max-age=0"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Finspection-infrastructure.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 68564,
+      "decodedBytes": 68564,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "image",
+      "path": "/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 50226,
+      "decodedBytes": 50226,
+      "contentType": "image/webp",
+      "cacheControl": "public, max-age=14400, must-revalidate"
+    },
+    {
+      "kind": "other",
+      "path": "/api/enquiry/",
+      "status": 200,
+      "wireBytes": 19,
+      "decodedBytes": 19,
+      "contentType": "application/json",
+      "cacheControl": "no-store"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/26z5y3xewknxi.js",
+      "status": 200,
+      "wireBytes": 27335,
+      "decodedBytes": 70637,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/2p2jd75im6m_h.js",
+      "status": 200,
+      "wireBytes": 17488,
+      "decodedBytes": 43373,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/3nrw97bwi-rf0.js",
+      "status": 200,
+      "wireBytes": 5454,
+      "decodedBytes": 18703,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "other",
+      "path": "/?_rsc=f9CEIYu9QTK0sWpu",
+      "status": 200,
+      "wireBytes": 6752,
+      "decodedBytes": 47315,
+      "contentType": "text/html; charset=utf-8",
+      "compression": "gzip",
+      "cacheControl": "s-maxage=31536000"
+    },
+    {
+      "kind": "other",
+      "path": "/?_rsc=18mBnKUPs5ZTpx45",
+      "status": 200,
+      "wireBytes": 6752,
+      "decodedBytes": 47315,
+      "contentType": "text/html; charset=utf-8",
+      "compression": "gzip",
+      "cacheControl": "s-maxage=31536000"
+    },
+    {
+      "kind": "script",
+      "path": "/_next/static/chunks/149onfco0rkmo.js",
+      "status": 200,
+      "wireBytes": 8231,
+      "decodedBytes": 20615,
+      "contentType": "application/javascript; charset=UTF-8",
+      "compression": "gzip",
+      "cacheControl": "public, max-age=31536000, immutable"
+    },
+    {
+      "kind": "image",
+      "path": "/favicon.ico?favicon.2vob68tjqpejf.ico",
+      "status": 200,
+      "wireBytes": 25931,
+      "decodedBytes": 25931,
+      "contentType": "image/x-icon",
+      "cacheControl": "public, max-age=0, must-revalidate"
+    }
+  ],
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "canonical": "https://skyi.co.za/"
+    },
+    {
+      "path": "/robots.txt",
+      "status": 404
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 404
+    },
+    {
+      "path": "/audit-route-does-not-exist/",
+      "status": 404
+    },
+    {
+      "path": "/api/enquiry/",
+      "status": 200,
+      "body": "{\"available\":false}"
+    }
+  ],
+  "media": [
+    {
+      "path": "/videos/inspection-perspective.mp4",
+      "size": 25479879,
+      "headStatus": 200,
+      "rangeStatus": 206,
+      "rangeBytes": 1024,
+      "contentRange": "bytes 0-1023/25479879",
+      "cacheControl": "public, max-age=0",
+      "acceptRanges": "bytes"
+    },
+    {
+      "path": "/videos/exterior-inspection.mp4",
+      "size": 11810401,
+      "headStatus": 200,
+      "rangeStatus": 206,
+      "rangeBytes": 1024,
+      "contentRange": "bytes 0-1023/11810401",
+      "cacheControl": "public, max-age=0",
+      "acceptRanges": "bytes"
+    }
+  ],
+  "limits": "Serial local HTTP body-size sampling with Accept-Encoding and image WebP negotiation, excluding headers/TLS and browser cache; not LCP, CLS, INP, mobile network timing or whole-page transfer.",
+  "totals": {
+    "font": {
+      "count": 2,
+      "wireBytes": 131252,
+      "decodedBytes": 131252
+    },
+    "image": {
+      "count": 16,
+      "wireBytes": 1568400,
+      "decodedBytes": 1568400
+    },
+    "stylesheet": {
+      "count": 2,
+      "wireBytes": 26717,
+      "decodedBytes": 145420
+    },
+    "script": {
+      "count": 13,
+      "wireBytes": 269941,
+      "decodedBytes": 839299
+    },
+    "other": {
+      "count": 3,
+      "wireBytes": 13523,
+      "decodedBytes": 94649
+    }
+  },
+  "initialTotalWireBytes": 2039100,
+  "hiddenServiceImageBytes": 455878
+}

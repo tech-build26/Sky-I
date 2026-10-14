@@ -1,0 +1,229 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "sections": {
+        "industries": {
+          "height": 1156,
+          "width": 1440,
+          "overflow": false
+        },
+        "safety": {
+          "height": 1017,
+          "width": 1440,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 1416,
+          "width": 1440,
+          "overflow": false
+        },
+        "contact": {
+          "height": 798,
+          "width": 1440,
+          "overflow": false
+        },
+        "skyi-footer": {
+          "height": 464,
+          "width": 1440,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "sections": {
+        "industries": {
+          "height": 1233,
+          "width": 1920,
+          "overflow": false
+        },
+        "safety": {
+          "height": 1058,
+          "width": 1920,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 1465,
+          "width": 1920,
+          "overflow": false
+        },
+        "contact": {
+          "height": 861,
+          "width": 1920,
+          "overflow": false
+        },
+        "skyi-footer": {
+          "height": 465,
+          "width": 1920,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "sections": {
+        "industries": {
+          "height": 1071,
+          "width": 1024,
+          "overflow": false
+        },
+        "safety": {
+          "height": 961,
+          "width": 1024,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 1702,
+          "width": 1024,
+          "overflow": false
+        },
+        "contact": {
+          "height": 684,
+          "width": 1024,
+          "overflow": false
+        },
+        "skyi-footer": {
+          "height": 464,
+          "width": 1024,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "sections": {
+        "industries": {
+          "height": 1428,
+          "width": 768,
+          "overflow": false
+        },
+        "safety": {
+          "height": 1359,
+          "width": 768,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 1776,
+          "width": 768,
+          "overflow": false
+        },
+        "contact": {
+          "height": 1209,
+          "width": 768,
+          "overflow": false
+        },
+        "skyi-footer": {
+          "height": 559,
+          "width": 768,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "sections": {
+        "industries": {
+          "height": 1401,
+          "width": 390,
+          "overflow": false
+        },
+        "safety": {
+          "height": 1375,
+          "width": 390,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 3293,
+          "width": 390,
+          "overflow": false
+        },
+        "contact": {
+          "height": 1136,
+          "width": 390,
+          "overflow": true
+        },
+        "skyi-footer": {
+          "height": 768,
+          "width": 390,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "sections": {
+        "industries": {
+          "height": 1584,
+          "width": 320,
+          "overflow": false
+        },
+        "safety": {
+          "height": 1592,
+          "width": 320,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 3749,
+          "width": 320,
+          "overflow": false
+        },
+        "contact": {
+          "height": 1351,
+          "width": 320,
+          "overflow": true
+        },
+        "skyi-footer": {
+          "height": 987,
+          "width": 320,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "sections": {
+        "industries": {
+          "height": 1428,
+          "width": 740,
+          "overflow": false
+        },
+        "safety": {
+          "height": 1359,
+          "width": 740,
+          "overflow": false
+        },
+        "testimonials": {
+          "height": 2761,
+          "width": 740,
+          "overflow": false
+        },
+        "contact": {
+          "height": 1205,
+          "width": 740,
+          "overflow": false
+        },
+        "skyi-footer": {
+          "height": 559,
+          "width": 740,
+          "overflow": false
+        }
+      },
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

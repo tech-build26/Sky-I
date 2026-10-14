@@ -1,0 +1,2153 @@
+{
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 1018.5,
+        "top": 0,
+        "right": 1440,
+        "bottom": 1018.5,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 86.390625,
+          "y": 344.078125,
+          "width": 393.609375,
+          "height": 501.578125,
+          "top": 344.078125,
+          "right": 480,
+          "bottom": 845.65625,
+          "left": 86.390625
+        },
+        {
+          "x": 523.1875,
+          "y": 344.078125,
+          "width": 393.609375,
+          "height": 501.578125,
+          "top": 344.078125,
+          "right": 916.796875,
+          "bottom": 845.65625,
+          "left": 523.1875
+        },
+        {
+          "x": 959.984375,
+          "y": 344.078125,
+          "width": 393.625,
+          "height": 501.578125,
+          "top": 344.078125,
+          "right": 1353.609375,
+          "bottom": 845.65625,
+          "left": 959.984375
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 86.390625,
+        "y": 895.15625,
+        "width": 1267.21875,
+        "height": 123.34375,
+        "top": 895.15625,
+        "right": 1353.609375,
+        "bottom": 1018.5,
+        "left": 86.390625
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1204.859375,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1204.859375,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 130,
+          "y": 416.046875,
+          "width": 514.9375,
+          "height": 606.46875,
+          "top": 416.046875,
+          "right": 644.9375,
+          "bottom": 1022.515625,
+          "left": 130
+        },
+        {
+          "x": 702.53125,
+          "y": 416.046875,
+          "width": 514.9375,
+          "height": 606.46875,
+          "top": 416.046875,
+          "right": 1217.46875,
+          "bottom": 1022.515625,
+          "left": 702.53125
+        },
+        {
+          "x": 1275.0625,
+          "y": 416.046875,
+          "width": 514.9375,
+          "height": 606.46875,
+          "top": 416.046875,
+          "right": 1790,
+          "bottom": 1022.515625,
+          "left": 1275.0625
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 115.1875,
+        "y": 1081.515625,
+        "width": 1689.625,
+        "height": 123.34375,
+        "top": 1081.515625,
+        "right": 1804.8125,
+        "bottom": 1204.859375,
+        "left": 115.1875
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 891.078125,
+        "top": 0,
+        "right": 1024,
+        "bottom": 891.078125,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 70,
+          "y": 308.4375,
+          "width": 281.328125,
+          "height": 417.078125,
+          "top": 308.4375,
+          "right": 351.328125,
+          "bottom": 725.515625,
+          "left": 70
+        },
+        {
+          "x": 371.328125,
+          "y": 308.4375,
+          "width": 281.328125,
+          "height": 417.078125,
+          "top": 308.4375,
+          "right": 652.65625,
+          "bottom": 725.515625,
+          "left": 371.328125
+        },
+        {
+          "x": 672.65625,
+          "y": 308.4375,
+          "width": 281.34375,
+          "height": 417.078125,
+          "top": 308.4375,
+          "right": 954,
+          "bottom": 725.515625,
+          "left": 672.65625
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 70,
+        "y": 767.734375,
+        "width": 884,
+        "height": 123.34375,
+        "top": 767.734375,
+        "right": 954,
+        "bottom": 891.078125,
+        "left": 70
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1024,
+        "top": 0,
+        "right": 768,
+        "bottom": 1024,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 48,
+          "y": 412.859375,
+          "width": 210.65625,
+          "height": 332.90625,
+          "top": 412.859375,
+          "right": 258.65625,
+          "bottom": 745.765625,
+          "left": 48
+        },
+        {
+          "x": 278.65625,
+          "y": 412.859375,
+          "width": 210.671875,
+          "height": 332.90625,
+          "top": 412.859375,
+          "right": 489.328125,
+          "bottom": 745.765625,
+          "left": 278.65625
+        },
+        {
+          "x": 509.328125,
+          "y": 412.859375,
+          "width": 210.671875,
+          "height": 332.90625,
+          "top": 412.859375,
+          "right": 720,
+          "bottom": 745.765625,
+          "left": 509.328125
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 48,
+        "y": 802.078125,
+        "width": 672,
+        "height": 123.34375,
+        "top": 802.078125,
+        "right": 720,
+        "bottom": 925.421875,
+        "left": 48
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(150px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(80px)"
+          },
+          "duration": 1350
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 968.09375,
+        "top": 0,
+        "right": 390,
+        "bottom": 968.09375,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 24,
+          "y": 279.9375,
+          "width": 342,
+          "height": 149,
+          "top": 279.9375,
+          "right": 366,
+          "bottom": 428.9375,
+          "left": 24
+        },
+        {
+          "x": 24,
+          "y": 428.9375,
+          "width": 342,
+          "height": 149,
+          "top": 428.9375,
+          "right": 366,
+          "bottom": 577.9375,
+          "left": 24
+        },
+        {
+          "x": 24,
+          "y": 577.9375,
+          "width": 342,
+          "height": 148,
+          "top": 577.9375,
+          "right": 366,
+          "bottom": 725.9375,
+          "left": 24
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 24,
+        "y": 753.9375,
+        "width": 342,
+        "height": 214.15625,
+        "top": 753.9375,
+        "right": 366,
+        "bottom": 968.09375,
+        "left": 24
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-64px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(64px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 320,
+        "height": 903.09375,
+        "top": 0,
+        "right": 320,
+        "bottom": 903.09375,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 18,
+          "y": 258.375,
+          "width": 284,
+          "height": 133,
+          "top": 258.375,
+          "right": 302,
+          "bottom": 391.375,
+          "left": 18
+        },
+        {
+          "x": 18,
+          "y": 391.375,
+          "width": 284,
+          "height": 133,
+          "top": 391.375,
+          "right": 302,
+          "bottom": 524.375,
+          "left": 18
+        },
+        {
+          "x": 18,
+          "y": 524.375,
+          "width": 284,
+          "height": 132,
+          "top": 524.375,
+          "right": 302,
+          "bottom": 656.375,
+          "left": 18
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 18,
+        "y": 676.375,
+        "width": 284,
+        "height": 226.71875,
+        "top": 676.375,
+        "right": 302,
+        "bottom": 903.09375,
+        "left": 18
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-64px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(64px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        }
+      ]
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "overflow": false,
+      "hero": {
+        "x": 0,
+        "y": 0,
+        "width": 740,
+        "height": 927.65625,
+        "top": 0,
+        "right": 740,
+        "bottom": 927.65625,
+        "left": 0
+      },
+      "lastHeroChild": "Our approach",
+      "choices": [
+        {
+          "x": 24,
+          "y": 296.5,
+          "width": 692,
+          "height": 149,
+          "top": 296.5,
+          "right": 716,
+          "bottom": 445.5,
+          "left": 24
+        },
+        {
+          "x": 24,
+          "y": 445.5,
+          "width": 692,
+          "height": 149,
+          "top": 445.5,
+          "right": 716,
+          "bottom": 594.5,
+          "left": 24
+        },
+        {
+          "x": 24,
+          "y": 594.5,
+          "width": 692,
+          "height": 148,
+          "top": 594.5,
+          "right": 716,
+          "bottom": 742.5,
+          "left": 24
+        }
+      ],
+      "labels": [
+        "REDUCED RISK",
+        "DATA DRIVEN",
+        "SUSTAINABLE SOLUTIONS",
+        "EXPERT SUPPORT"
+      ],
+      "banner": {
+        "x": 24,
+        "y": 770.5,
+        "width": 692,
+        "height": 157.15625,
+        "top": 770.5,
+        "right": 716,
+        "bottom": 927.65625,
+        "left": 24
+      },
+      "animations": 0,
+      "incomplete": [],
+      "pending": [
+        {
+          "text": "Safety",
+          "href": null
+        },
+        {
+          "text": "Projects",
+          "href": null
+        }
+      ],
+      "links": [
+        {
+          "text": "About",
+          "exists": true
+        },
+        {
+          "text": "Services",
+          "exists": true
+        },
+        {
+          "text": "Sectors",
+          "exists": true
+        },
+        {
+          "text": "Contact",
+          "exists": true
+        }
+      ],
+      "brokenImages": 0,
+      "heroCalls": [
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "down",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(-48px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-64px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(90px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(64px) scale(.86)"
+          },
+          "duration": 1750
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "up",
+          "from": {
+            "opacity": 0,
+            "transform": "translateY(64px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "left",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(-42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        },
+        {
+          "kind": "right",
+          "from": {
+            "opacity": 0,
+            "transform": "translateX(42px)"
+          },
+          "duration": 1350
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "hover": {
+    "before": {
+      "x": 102.125,
+      "y": 371.046875,
+      "width": 362.109375,
+      "height": 300.03125
+    },
+    "after": {
+      "x": 88.29724884033203,
+      "y": 340.7183837890625,
+      "width": 386.4819564819336,
+      "height": 323.3306884765625
+    }
+  },
+  "keyboardServices": true,
+  "mobileMenu": true,
+  "reduced": true,
+  "nojs": true,
+  "failed-art": true,
+  "production": {
+    "noLocalhost": true,
+    "sisterRoot": true,
+    "canonical": true,
+    "prelanding": true
+  },
+  "local": {
+    "sister": "http://localhost:3000/",
+    "benefits": 4
+  }
+}

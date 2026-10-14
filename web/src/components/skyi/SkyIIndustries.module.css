@@ -1,0 +1,66 @@
+.section { position:relative; isolation:isolate; overflow:clip; background:var(--graphite); color:var(--ice); --focus:var(--hero-accent); --sector-muted:#c8d8dd; }
+.section.section { padding-block:clamp(38px,4.5vw,72px); }
+.container { position:relative; isolation:isolate; width:min(calc(100% - 2 * var(--gutter)),1280px); margin:auto; padding:clamp(24px,3vw,44px); background:transparent; }
+.surface { position:absolute; z-index:-1; inset:0; overflow:hidden; pointer-events:none; color:var(--hero-accent); opacity:.16; mask-image:radial-gradient(ellipse at 52% 46%,#000 20%,transparent 72%); }
+.surface::before { content:""; position:absolute; inset:0; background:repeating-linear-gradient(0deg,transparent 0 79px,color-mix(in srgb,var(--hero-accent) 5%,transparent) 80px),repeating-linear-gradient(90deg,transparent 0 79px,color-mix(in srgb,var(--hero-accent) 5%,transparent) 80px); }
+.surface svg { width:100%; height:100%; opacity:.65; }
+.intro { position:relative; z-index:2; width:44%; }
+.eyebrow,.assets,.brief>span { font-size:.8125rem; line-height:1.6; letter-spacing:.065em; text-transform:uppercase; }
+.eyebrow { margin-bottom:22px!important; color:#d3e1e5; }
+.intro h2 { font-size:clamp(3rem,4.9vw,5.3rem); line-height:.98; letter-spacing:-.035em; }
+.intro h2 em { color:var(--hero-accent); }
+.lead { max-width:330px; margin-top:20px!important; font-size:1rem; line-height:1.6; color:var(--sector-muted); }
+.selector { margin-top:26px; min-height:var(--disclosure-height,700px); }
+.index { width:42%; border-top:1px solid var(--line); }
+.item { border-bottom:1px solid var(--line); }
+.item summary { display:flex; align-items:center; justify-content:space-between; gap:16px; list-style:none; min-height:72px; padding:14px 0; cursor:pointer; font:400 clamp(1.35rem,1.9vw,1.9rem)/1.15 var(--sky-display); transition:color .25s; scroll-margin-top:110px; }
+.item summary::-webkit-details-marker { display:none; }
+.arrow { flex:none; display:grid; place-items:center; width:38px; height:38px; border:1px solid var(--line); border-radius:50%; transition:background .25s,transform .3s,border-color .25s; }
+.item:is([open],:hover) summary { color:var(--hero-accent); }
+.item[open] .arrow { background:var(--hero-accent); color:var(--void); border-color:var(--hero-accent); transform:rotate(45deg); }
+.item summary:focus-visible { outline:2px solid var(--hero-accent); outline-offset:5px; }
+/* The container owns panel positioning; the index stays in normal flow. */
+.panel { position:absolute; top:0; left:47%; right:0; padding-bottom:24px; }
+.artwork { position:relative; height:350px; }
+.scene { position:relative; height:100%; margin:0; }
+.photoPlane { position:absolute; inset:0; overflow:hidden; clip-path:polygon(20% 0,100% 0,100% 100%,0 100%); background:var(--steel); }
+.photoPlane img { object-fit:cover; }
+.photoPlane::after { content:""; position:absolute; inset:0; background:linear-gradient(180deg,transparent 48%,color-mix(in srgb,var(--graphite) 55%,transparent) 88%,var(--graphite)),linear-gradient(90deg,color-mix(in srgb,var(--graphite) 20%,transparent),transparent 45%); }
+.sceneLines { position:absolute; inset:0; width:100%; height:100%; color:var(--hero-accent); opacity:.68; pointer-events:none; }
+.aircraft { position:absolute; top:34px; left:24%; width:180px; height:150px; pointer-events:none; }
+.aircraft img { object-fit:contain; }
+.internalAircraft { width:210px; height:150px; left:23%; top:48px; }
+.sceneCaption { position:absolute; left:34%; right:18px; bottom:18px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px 14px; color:var(--ice); font-size:.8125rem; line-height:1.5; letter-spacing:.04em; }
+.sceneCaption span:last-child { color:var(--sector-muted); }
+.context { position:relative; z-index:2; isolation:isolate; width:calc(100% - 148px); margin-top:-50px; padding:26px 28px 28px; }
+.context::before { content:""; position:absolute; z-index:-1; inset:0; background:linear-gradient(135deg,color-mix(in srgb,var(--graphite) 98%,transparent),var(--graphite) 78%); clip-path:polygon(0 0,88% 0,100% 42px,100% 100%,0 100%); }
+.context::after { content:""; position:absolute; top:0; left:0; width:88%; border-top:1px solid var(--line); }
+.assets { color:var(--hero-accent); padding-right:12px; }
+.word { margin-block:9px 14px!important; font:400 clamp(3.2rem,5vw,5.3rem)/.95 var(--sky-display); letter-spacing:-.045em; color:var(--ice); }
+.context h3 { font:400 clamp(1.7rem,2.2vw,2.25rem)/1.15 var(--sky-display); }
+.body { margin-top:15px!important; color:var(--sector-muted); font-size:1rem; line-height:1.65; }
+.brief { margin-top:20px; padding-top:14px; border-top:1px solid var(--line); }
+.brief>span { color:var(--hero-accent); }
+.brief p { margin-top:6px!important; font-size:.9375rem; line-height:1.65; color:var(--sector-muted); }
+.action { display:flex; align-items:center; justify-content:space-between; gap:20px; width:fit-content; min-height:46px; margin-top:19px; padding:9px 16px; color:var(--void); background:var(--hero-accent); font-size:.9375rem; text-decoration:none; transition:background .25s; }
+.action svg { flex:none; transition:transform .25s; }
+.action:is(:hover,:focus-visible) { background:var(--hero-accent); }
+.action:is(:hover,:focus-visible) svg { transform:translate(3px,-3px); }
+.action:focus-visible { outline:2px solid var(--ice); outline-offset:4px; }
+.diagram { position:absolute; top:394px; right:14px; width:118px; color:var(--hero-accent); opacity:.55; text-align:center; }
+.diagram svg { width:100%; height:auto; }
+.diagram span { display:block; margin-top:6px; font-size:.75rem; letter-spacing:.05em; }
+.inset { position:absolute; top:595px; right:0; width:136px; }
+.insetPhoto { position:relative; height:108px; overflow:hidden; clip-path:polygon(20% 0,100% 0,100% 100%,0 100%); background:var(--steel); }
+.insetPhoto img { object-fit:cover; filter:grayscale(1); }
+.inset>span { display:block; margin-top:10px; color:var(--sector-muted); font-size:.75rem; line-height:1.6; letter-spacing:.035em; }
+.baseline { display:flex; align-items:center; justify-content:space-between; gap:20px; padding-top:20px; margin-top:12px; border-top:1px solid var(--line); color:var(--sector-muted); font-size:.8125rem; line-height:1.6; }
+.baseline i { position:relative; flex:1; height:1px; background:linear-gradient(90deg,color-mix(in srgb,var(--hero-accent) 55%,transparent),color-mix(in srgb,var(--hero-accent) 15%,transparent)); }
+.baseline i::after { content:""; position:absolute; left:50%; top:-5px; height:11px; border-left:1px solid var(--hero-accent); }
+@media(min-width:1024px) and (max-width:1199px) { .container { padding:28px; } .intro h2 { font-size:3.35rem; } .selector { min-height:var(--disclosure-height,670px); } .context { width:calc(100% - 32px); padding:25px; } .diagram { top:25px; right:14px; width:80px; color:var(--hero-accent); opacity:.75; } .diagram span { display:none; } .inset { top:188px; right:16px; width:105px; } .insetPhoto { height:85px; } .inset>span { display:none; } .aircraft { left:23%; width:150px; } }
+@media(max-width:1023px) { .container { padding:clamp(18px,4vw,34px); } .intro { width:100%; } .intro h2 { font-size:clamp(3rem,7.4vw,5.2rem); } .lead { max-width:520px; } .selector { min-height:0; margin-top:28px; } .index { width:100%; } .item summary { min-height:72px; font-size:1.85rem; } .panel { position:static; padding-bottom:28px; } .artwork { height:clamp(230px,42vw,360px); margin-top:8px; } .photoPlane { clip-path:polygon(10% 0,100% 0,100% 100%,0 100%); } .sceneLines { opacity:.45; } .aircraft { top:20px; left:18%; width:170px; height:140px; } .sceneCaption { left:18px; right:16px; bottom:18px; } .context { width:calc(100% - 18px); margin-top:-14px; padding:23px 24px 24px; } .word { font-size:3.7rem; margin-block:9px 12px!important; } .context h3 { font-size:2rem; } .diagram { top:22px; right:16px; width:90px; opacity:.7; color:var(--hero-accent); } .diagram span { display:none; } .inset { display:none; } .baseline { flex-wrap:wrap; } .baseline i { min-width:32px; } }
+@media(max-width:599px) { .section.section { padding-block:28px; } .container { width:calc(100% - 24px); padding:22px 16px; } .eyebrow { margin-bottom:18px!important; font-size:.75rem; } .intro h2 { font-size:clamp(2.5rem,10vw,3.6rem); } .lead { font-size:.9375rem; margin-top:17px!important; } .item summary { font-size:1.55rem; min-height:70px; gap:10px; } .arrow { width:36px; height:36px; } .artwork { height:220px; } .aircraft { left:15%; top:18px; width:125px; height:105px; } .internalAircraft { left:12%; width:155px; } .diagram { width:68px; top:18px; right:10px; } .sceneCaption { left:12px; right:10px; bottom:13px; font-size:.75rem; } .context { width:100%; margin-top:0; padding:21px 16px 20px; } .assets { font-size:.75rem; } .word { font-size:3.2rem; } .context h3 { font-size:1.85rem; } .body { font-size:.9375rem; } .brief>span { font-size:.75rem; } .brief p { font-size:.875rem; } .action { width:100%; font-size:.875rem; padding-inline:13px; } .baseline { gap:8px; flex-direction:column; align-items:flex-start; font-size:.75rem; } .baseline i { width:100%; flex:none; margin-block:3px; } }
+@media(prefers-reduced-motion:reduce) { .section * { transition:none!important; } }
+/* Keep both captions above the overlapping explanation plane. */
+@media(min-width:1024px) { .sceneCaption { bottom:68px; } }
+@media(min-width:1024px) and (max-width:1700px) { .baseline { padding-right:128px; } }

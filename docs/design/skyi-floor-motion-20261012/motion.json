@@ -1,0 +1,658 @@
+{
+  "views": [
+    {
+      "width": 1440,
+      "hero": {
+        "entrances": [
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "P",
+            "state": "complete"
+          },
+          {
+            "tag": "H1",
+            "state": "complete"
+          },
+          {
+            "tag": "P",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          }
+        ],
+        "bases": [
+          666.3125,
+          666.3125,
+          666.3125
+        ],
+        "texts": [
+          "Internal\ninspections\nTanks, boilers & enclosed spaces",
+          "External\ninspections\nRoofs, facades & structures",
+          "Window\nwashing\nGlazing & building exteriors"
+        ],
+        "background": "http://localhost:3017/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=1920&q=75",
+        "animations": 0
+      },
+      "sections": [
+        {
+          "id": "about",
+          "overflow": false,
+          "targets": 11,
+          "entering": 0,
+          "complete": 7,
+          "visibleWaiting": []
+        },
+        {
+          "id": "services",
+          "overflow": false,
+          "targets": 17,
+          "entering": 4,
+          "complete": 11,
+          "visibleWaiting": []
+        },
+        {
+          "id": "industries",
+          "overflow": false,
+          "targets": 32,
+          "entering": 0,
+          "complete": 12,
+          "visibleWaiting": []
+        },
+        {
+          "id": "impact",
+          "overflow": false,
+          "targets": 8,
+          "entering": 0,
+          "complete": 8,
+          "visibleWaiting": []
+        },
+        {
+          "id": "testimonials",
+          "overflow": false,
+          "targets": 7,
+          "entering": 0,
+          "complete": 7,
+          "visibleWaiting": []
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "targets": 13,
+          "entering": 0,
+          "complete": 13,
+          "visibleWaiting": []
+        },
+        {
+          "id": "skyi-footer",
+          "overflow": false,
+          "targets": 23,
+          "entering": 0,
+          "complete": 23,
+          "visibleWaiting": []
+        }
+      ],
+      "animationCount": 136,
+      "heroCalls": [
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "skyi-sister-logo",
+          "hero": "right",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "left",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(-28px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "P",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "skyi-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "H1",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "up",
+          "scroll": null,
+          "tag": "P",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "left",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(-70px)",
+          "duration": 1550
+        },
+        {
+          "id": "internal-inspections-hero-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "internal-inspections-hero-caption",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "left",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(-70px)",
+          "duration": 1550
+        },
+        {
+          "id": "external-inspections-hero-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "external-inspections-hero-caption",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(70px)",
+          "duration": 1550
+        },
+        {
+          "id": "window-washing-hero-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "window-washing-hero-caption",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "hero": {
+        "entrances": [
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "A",
+            "state": "complete"
+          },
+          {
+            "tag": "BUTTON",
+            "state": "complete"
+          },
+          {
+            "tag": "P",
+            "state": "complete"
+          },
+          {
+            "tag": "H1",
+            "state": "complete"
+          },
+          {
+            "tag": "P",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          },
+          {
+            "tag": "SPAN",
+            "state": "complete"
+          }
+        ],
+        "bases": [
+          414.109375,
+          598.265625,
+          782.421875
+        ],
+        "texts": [
+          "Internal\ninspections\nTanks, boilers & enclosed spaces",
+          "External\ninspections\nRoofs, facades & structures",
+          "Window\nwashing\nGlazing & building exteriors"
+        ],
+        "background": "http://localhost:3017/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=640&q=75",
+        "animations": 0
+      },
+      "sections": [
+        {
+          "id": "about",
+          "overflow": false,
+          "targets": 11,
+          "entering": 0,
+          "complete": 7,
+          "visibleWaiting": []
+        },
+        {
+          "id": "services",
+          "overflow": false,
+          "targets": 17,
+          "entering": 2,
+          "complete": 10,
+          "visibleWaiting": []
+        },
+        {
+          "id": "industries",
+          "overflow": false,
+          "targets": 32,
+          "entering": 0,
+          "complete": 9,
+          "visibleWaiting": []
+        },
+        {
+          "id": "impact",
+          "overflow": false,
+          "targets": 8,
+          "entering": 0,
+          "complete": 8,
+          "visibleWaiting": []
+        },
+        {
+          "id": "testimonials",
+          "overflow": false,
+          "targets": 5,
+          "entering": 0,
+          "complete": 5,
+          "visibleWaiting": []
+        },
+        {
+          "id": "contact",
+          "overflow": false,
+          "targets": 13,
+          "entering": 0,
+          "complete": 11,
+          "visibleWaiting": []
+        },
+        {
+          "id": "skyi-footer",
+          "overflow": false,
+          "targets": 23,
+          "entering": 0,
+          "complete": 23,
+          "visibleWaiting": []
+        }
+      ],
+      "animationCount": 127,
+      "heroCalls": [
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "skyi-sister-logo",
+          "hero": "right",
+          "scroll": null,
+          "tag": "A",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "BUTTON",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "down",
+          "scroll": null,
+          "tag": "P",
+          "from": "translateY(-22px)",
+          "duration": 1150
+        },
+        {
+          "id": "skyi-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "H1",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "up",
+          "scroll": null,
+          "tag": "P",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "left",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(-36px)",
+          "duration": 1550
+        },
+        {
+          "id": "internal-inspections-hero-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "internal-inspections-hero-caption",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "left",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(-36px)",
+          "duration": 1550
+        },
+        {
+          "id": "external-inspections-hero-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "external-inspections-hero-caption",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(36px)",
+          "duration": 1550
+        },
+        {
+          "id": "window-washing-hero-title",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        },
+        {
+          "id": "",
+          "hero": "right",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateX(28px)",
+          "duration": 1150
+        },
+        {
+          "id": "window-washing-hero-caption",
+          "hero": "up",
+          "scroll": null,
+          "tag": "SPAN",
+          "from": "translateY(24px)",
+          "duration": 1150
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "reducedFullPage": true
+}

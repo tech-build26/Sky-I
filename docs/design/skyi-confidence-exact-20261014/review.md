@@ -1,0 +1,23 @@
+# Supplied Confidence composition — 14 October 2026
+
+Owner requests `C:/Users/ISHE-GAMING/Downloads/Clear Scope, Informed Decisions.png` as the replacement Confidence design. Keep its imagery, layering, compass, map contours, diagram marks, three lower panels and pale closing strip. The only requested styling changes are blue Confidence and scope, white Clear, and a circular animated arrow enquiry using the current blue/dark button colours. This supersedes S03-N23's earlier reference and layout within this section only.
+
+## Implementation and provenance
+
+The supplied 1916×821 artwork is preserved byte-for-byte in `web/public/images/skyi/confidence-owner-composition-20261014.png` and the local `owner-reference.png`. SHA256: `2802D712BCA968F4BFFAB353C9F5653F4018508CF4302D7DF6EFF1C99A059A4B`. Original remains in Downloads. No generated substitute, image editing, derivative pipeline, install or change to the other site's application. The older generated illustrations remain preserved but are no longer used here.
+
+Three clipped coordinate planes retain the supplied upper scene, lower panels and closing strip. A code-native SVG alpha mask removes raster copy and the orange rectangular control; matched dark gradients sit beneath the copy openings. All actual copy is native HTML: section heading, eyebrow, introduction, three valid term/definition lists, signoff and a real `#contact` link. The section uses reference-style sans-serif headings scoped to this component and existing self-hosted Jost body text. This is a live responsive reconstruction over original raster artwork, not a claim that live font rendering and texture beneath replacement copy are pixel-identical to the screenshot.
+
+At 1916px, the section retains the source's 821px composition. Smaller desktop widths reserve 400px for the upper scene and 246px for answers so live copy stays readable. Below 1200px, readable copy precedes the original upper photograph; each complete answer has its own matching source-art crop. Below 600px, these stack. The original compass is separately cropped into the mobile introduction; the first lower crop retains its diagonal silhouette without stray raster text. Diagrams and numerical marks belong to the owner's supplied illustrative design, not measured job results or equipment capability claims. No named client or certification is added.
+
+Blue is `#01b0fc`, Clear is `#f5f7f8`. The new 48px arrow circle has a blue outline/dark fill and becomes blue with a dark arrow on hover or keyboard focus; its brief rotation/translation is CSS-only. Reduced motion removes both transitions and transforms. Existing `SkyIReveals` owns the intro and three finite answer entrances; no timer, continuous animation or additional runtime. All underlying content and the anchor remain usable without JavaScript or images. Existing hero, navigation, global social/back-to-top controls, Contact, pre-landing and sister routing remain unchanged.
+
+## Validation
+
+- ESLint with zero warnings, TypeScript and isolated Next.js 16.3.8 production build pass. No dependencies changed. Generated task-specific tsconfig inclusions removed because existing `.next-*` wildcards already cover them.
+- Development (`3006`) and temporary local production (`3106`) each pass 15 focused checks, with no captured page exceptions. Nine layouts: 1916×1000, 1440×900, 1200×800, 1199×800, 768×1024, 390×844, 320×740, 844×390 and 2560×1440. Checks cover full width/no horizontal overflow, native content within its panels, loaded artwork, requested text colours and touch-sized enquiry bounds.
+- Normal desktop/mobile, reduced, no-JS and failed-image modes verify three native terms/definitions and actual keyboard Contact navigation. Focus activates the intended blue circle palette and transform; reduced/static variants retain no transform or transition. Chrome 200% CSS zoom retains bounds. Existing global back-to-top/social controls can overlay the section in viewport captures; they are not part of this revision.
+
+Evidence: `development-verification.json`, `verification.json`, paired `dev-*.png` / `production-*.png`. Desktop, phone and short-landscape layouts visually inspected. Screenshots enlarge the capture viewport to include the complete section; measurement uses the declared original dimensions. Physical devices, other browser engines, field performance and owner visual acceptance remain open. No deployment, packaging or real mail.
+
+Exact next task: Ishe reviews http://localhost:3006/home/#testimonials against the supplied composition, then continues S03-L integrated acceptance. Existing SMTP two-inbox/Reply-To, legal/privacy, host/runtime and release gates remain open.

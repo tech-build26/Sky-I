@@ -1,0 +1,50 @@
+{
+  "checks": [
+    {
+      "nav": "Safety",
+      "colour": "rgb(1, 176, 252)",
+      "line": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+      "nav": "Projects",
+      "colour": "rgb(1, 176, 252)",
+      "line": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+      "keyboard": true,
+      "handoff": "Existing site note.\n\nInspection area: Outside a structure\nSite conditions: Planned downtime\nEvidence to discuss: Discuss thermal\n\nSite / asset:\nArea of concern:\nPreferred timing:",
+      "quotes": [
+        "paused",
+        "running",
+        "running"
+      ],
+      "formValidation": true,
+      "liveReduced": true,
+      "footer": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "isMobile": true,
+      "hasTouch": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "javaScriptEnabled": false,
+      "reducedMotion": "reduce"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failure": true
+    }
+  ],
+  "errors": []
+}

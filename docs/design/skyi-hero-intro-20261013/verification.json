@@ -1,0 +1,238 @@
+{
+  "views": [
+    {
+      "width": 1440,
+      "height": 900,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 1019,
+        "choices": [
+          344.078125,
+          344.078125,
+          344.078125
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 1019,
+        "choices": [
+          344.078125,
+          344.078125,
+          344.078125
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 1205,
+        "choices": [
+          416.046875,
+          416.046875,
+          416.046875
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 1205,
+        "choices": [
+          416.046875,
+          416.046875,
+          416.046875
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 891,
+        "choices": [
+          308.4375,
+          308.4375,
+          308.4375
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 891,
+        "choices": [
+          308.4375,
+          308.4375,
+          308.4375
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 1024,
+        "choices": [
+          412.859375,
+          412.859375,
+          412.859375
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 1024,
+        "choices": [
+          412.859375,
+          412.859375,
+          412.859375
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 968,
+        "choices": [
+          279.9375,
+          428.9375,
+          577.9375
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 968,
+        "choices": [
+          279.9375,
+          428.9375,
+          577.9375
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 911,
+        "choices": [
+          266.625,
+          399.625,
+          532.625
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 911,
+        "choices": [
+          266.625,
+          399.625,
+          532.625
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "initial": {
+        "phase": "initial",
+        "first": "visible",
+        "final": "0",
+        "text": "SPECIALISED DRONE SOLUTIONS\n\nCHOOSE YOUR SOLUTION\n\nSAME CHALLENGES. A HIGHER PERSPECTIVE.",
+        "height": 928,
+        "choices": [
+          296.5,
+          445.5,
+          594.5
+        ],
+        "overflow": false
+      },
+      "final": {
+        "first": "hidden",
+        "final": "1",
+        "title": "What do you need us to do?",
+        "h1Count": 1,
+        "height": 928,
+        "choices": [
+          296.5,
+          445.5,
+          594.5
+        ],
+        "overflow": false,
+        "animations": 0
+      }
+    }
+  ],
+  "errors": [],
+  "reduced": {
+    "first": "hidden",
+    "final": "1",
+    "animations": 0,
+    "choices": 3,
+    "overflow": false
+  },
+  "nojs": {
+    "first": "hidden",
+    "final": "1",
+    "animations": 0,
+    "choices": 3,
+    "overflow": false
+  },
+  "keyboardAndMenu": true,
+  "prelanding": true
+}

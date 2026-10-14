@@ -1,0 +1,1368 @@
+{
+  "origin": "http://localhost:3006",
+  "results": [
+    {
+      "viewport": {
+        "width": 1916,
+        "height": 1000
+      },
+      "width": 1916,
+      "height": 820.984375,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 63.546875,
+            "y": 602.421875,
+            "width": 324.359375,
+            "height": 194.65625,
+            "top": 602.421875,
+            "right": 387.90625,
+            "bottom": 797.078125,
+            "left": 63.546875
+          },
+          "parent": {
+            "x": 0,
+            "y": 602.421875,
+            "width": 661.96875,
+            "height": 245,
+            "top": 602.421875,
+            "right": 661.96875,
+            "bottom": 847.421875,
+            "left": 0
+          },
+          "dd": {
+            "x": 63.546875,
+            "y": 712.890625,
+            "width": 324.359375,
+            "height": 84.1875,
+            "top": 712.890625,
+            "right": 387.90625,
+            "bottom": 797.078125,
+            "left": 63.546875
+          }
+        },
+        {
+          "rect": {
+            "x": 695.28125,
+            "y": 602.421875,
+            "width": 317.03125,
+            "height": 194.65625,
+            "top": 602.421875,
+            "right": 1012.3125,
+            "bottom": 797.078125,
+            "left": 695.28125
+          },
+          "parent": {
+            "x": 661.96875,
+            "y": 602.421875,
+            "width": 647.03125,
+            "height": 245,
+            "top": 602.421875,
+            "right": 1309,
+            "bottom": 847.421875,
+            "left": 661.96875
+          },
+          "dd": {
+            "x": 695.28125,
+            "y": 712.890625,
+            "width": 317.03125,
+            "height": 84.1875,
+            "top": 712.890625,
+            "right": 1012.3125,
+            "bottom": 797.078125,
+            "left": 695.28125
+          }
+        },
+        {
+          "rect": {
+            "x": 1342.375,
+            "y": 602.421875,
+            "width": 267.0625,
+            "height": 221.078125,
+            "top": 602.421875,
+            "right": 1609.4375,
+            "bottom": 823.5,
+            "left": 1342.375
+          },
+          "parent": {
+            "x": 1309,
+            "y": 602.421875,
+            "width": 606.984375,
+            "height": 245,
+            "top": 602.421875,
+            "right": 1915.984375,
+            "bottom": 847.421875,
+            "left": 1309
+          },
+          "dd": {
+            "x": 1342.375,
+            "y": 739.3125,
+            "width": 267.0625,
+            "height": 84.1875,
+            "top": 739.3125,
+            "right": 1609.4375,
+            "bottom": 823.5,
+            "left": 1342.375
+          }
+        }
+      ],
+      "action": {
+        "x": 134,
+        "y": 468.53125,
+        "width": 236.71875,
+        "height": 48,
+        "top": 468.53125,
+        "right": 370.71875,
+        "bottom": 516.53125,
+        "left": 134
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1912,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1912,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1912,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "width": 1440,
+      "height": 736,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 47.75,
+            "y": 520.96875,
+            "width": 243.78125,
+            "height": 186.65625,
+            "top": 520.96875,
+            "right": 291.53125,
+            "bottom": 707.625,
+            "left": 47.75
+          },
+          "parent": {
+            "x": 0,
+            "y": 520.96875,
+            "width": 497.515625,
+            "height": 245,
+            "top": 520.96875,
+            "right": 497.515625,
+            "bottom": 765.96875,
+            "left": 0
+          },
+          "dd": {
+            "x": 47.75,
+            "y": 609.65625,
+            "width": 243.78125,
+            "height": 97.96875,
+            "top": 609.65625,
+            "right": 291.53125,
+            "bottom": 707.625,
+            "left": 47.75
+          }
+        },
+        {
+          "rect": {
+            "x": 522.546875,
+            "y": 520.96875,
+            "width": 238.265625,
+            "height": 186.65625,
+            "top": 520.96875,
+            "right": 760.8125,
+            "bottom": 707.625,
+            "left": 522.546875
+          },
+          "parent": {
+            "x": 497.515625,
+            "y": 520.96875,
+            "width": 486.28125,
+            "height": 245,
+            "top": 520.96875,
+            "right": 983.796875,
+            "bottom": 765.96875,
+            "left": 497.515625
+          },
+          "dd": {
+            "x": 522.546875,
+            "y": 609.65625,
+            "width": 238.265625,
+            "height": 97.96875,
+            "top": 609.65625,
+            "right": 760.8125,
+            "bottom": 707.625,
+            "left": 522.546875
+          }
+        },
+        {
+          "rect": {
+            "x": 1008.875,
+            "y": 520.96875,
+            "width": 200.71875,
+            "height": 226.9375,
+            "top": 520.96875,
+            "right": 1209.59375,
+            "bottom": 747.90625,
+            "left": 1008.875
+          },
+          "parent": {
+            "x": 983.796875,
+            "y": 520.96875,
+            "width": 456.1875,
+            "height": 245,
+            "top": 520.96875,
+            "right": 1439.984375,
+            "bottom": 765.96875,
+            "left": 983.796875
+          },
+          "dd": {
+            "x": 1008.875,
+            "y": 630.34375,
+            "width": 200.71875,
+            "height": 117.5625,
+            "top": 630.34375,
+            "right": 1209.59375,
+            "bottom": 747.90625,
+            "left": 1008.875
+          }
+        }
+      ],
+      "action": {
+        "x": 100.703125,
+        "y": 370.9375,
+        "width": 216.125,
+        "height": 48,
+        "top": 370.9375,
+        "right": 316.828125,
+        "bottom": 418.9375,
+        "left": 100.703125
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1437,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1437,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1437,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1200,
+        "height": 800
+      },
+      "width": 1200,
+      "height": 736,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 39.796875,
+            "y": 465.296875,
+            "width": 203.140625,
+            "height": 206.25,
+            "top": 465.296875,
+            "right": 242.9375,
+            "bottom": 671.546875,
+            "left": 39.796875
+          },
+          "parent": {
+            "x": 0,
+            "y": 465.296875,
+            "width": 414.59375,
+            "height": 245,
+            "top": 465.296875,
+            "right": 414.59375,
+            "bottom": 710.296875,
+            "left": 0
+          },
+          "dd": {
+            "x": 39.796875,
+            "y": 553.984375,
+            "width": 203.140625,
+            "height": 117.5625,
+            "top": 553.984375,
+            "right": 242.9375,
+            "bottom": 671.546875,
+            "left": 39.796875
+          }
+        },
+        {
+          "rect": {
+            "x": 435.453125,
+            "y": 465.296875,
+            "width": 198.5625,
+            "height": 206.25,
+            "top": 465.296875,
+            "right": 634.015625,
+            "bottom": 671.546875,
+            "left": 435.453125
+          },
+          "parent": {
+            "x": 414.59375,
+            "y": 465.296875,
+            "width": 405.234375,
+            "height": 245,
+            "top": 465.296875,
+            "right": 819.828125,
+            "bottom": 710.296875,
+            "left": 414.59375
+          },
+          "dd": {
+            "x": 435.453125,
+            "y": 553.984375,
+            "width": 198.5625,
+            "height": 117.5625,
+            "top": 553.984375,
+            "right": 634.015625,
+            "bottom": 671.546875,
+            "left": 435.453125
+          }
+        },
+        {
+          "rect": {
+            "x": 840.734375,
+            "y": 465.296875,
+            "width": 167.265625,
+            "height": 226.9375,
+            "top": 465.296875,
+            "right": 1008,
+            "bottom": 692.234375,
+            "left": 840.734375
+          },
+          "parent": {
+            "x": 819.828125,
+            "y": 465.296875,
+            "width": 380.15625,
+            "height": 245,
+            "top": 465.296875,
+            "right": 1199.984375,
+            "bottom": 710.296875,
+            "left": 819.828125
+          },
+          "dd": {
+            "x": 840.734375,
+            "y": 574.671875,
+            "width": 167.265625,
+            "height": 117.5625,
+            "top": 574.671875,
+            "right": 1008,
+            "bottom": 692.234375,
+            "left": 840.734375
+          }
+        }
+      ],
+      "action": {
+        "x": 83.921875,
+        "y": 322.140625,
+        "width": 216.125,
+        "height": 48,
+        "top": 322.140625,
+        "right": 300.046875,
+        "bottom": 370.140625,
+        "left": 83.921875
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1200&q=75",
+          "width": 1200,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1200&q=75",
+          "width": 1200,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1200&q=75",
+          "width": 1200,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1199,
+        "height": 800
+      },
+      "width": 1199,
+      "height": 2004.734375,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 59.9375,
+            "y": -329.21875,
+            "width": 527.5625,
+            "height": 158.890625,
+            "top": -329.21875,
+            "right": 587.5,
+            "bottom": -170.328125,
+            "left": 59.9375
+          },
+          "parent": {
+            "x": 0,
+            "y": -411.765625,
+            "width": 1199,
+            "height": 325,
+            "top": -411.765625,
+            "right": 1199,
+            "bottom": -86.765625,
+            "left": 0
+          },
+          "dd": {
+            "x": 59.9375,
+            "y": -242.328125,
+            "width": 527.5625,
+            "height": 72,
+            "top": -242.328125,
+            "right": 587.5,
+            "bottom": -170.328125,
+            "left": 59.9375
+          }
+        },
+        {
+          "rect": {
+            "x": 59.9375,
+            "y": -4.21875,
+            "width": 527.5625,
+            "height": 158.890625,
+            "top": -4.21875,
+            "right": 587.5,
+            "bottom": 154.671875,
+            "left": 59.9375
+          },
+          "parent": {
+            "x": 0,
+            "y": -86.765625,
+            "width": 1199,
+            "height": 325,
+            "top": -86.765625,
+            "right": 1199,
+            "bottom": 238.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 59.9375,
+            "y": 82.671875,
+            "width": 527.5625,
+            "height": 72,
+            "top": 82.671875,
+            "right": 587.5,
+            "bottom": 154.671875,
+            "left": 59.9375
+          }
+        },
+        {
+          "rect": {
+            "x": 59.9375,
+            "y": 320.78125,
+            "width": 527.5625,
+            "height": 158.890625,
+            "top": 320.78125,
+            "right": 587.5,
+            "bottom": 479.671875,
+            "left": 59.9375
+          },
+          "parent": {
+            "x": 0,
+            "y": 238.234375,
+            "width": 1199,
+            "height": 325,
+            "top": 238.234375,
+            "right": 1199,
+            "bottom": 563.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 59.9375,
+            "y": 407.671875,
+            "width": 527.5625,
+            "height": 72,
+            "top": 407.671875,
+            "right": 587.5,
+            "bottom": 479.671875,
+            "left": 59.9375
+          }
+        }
+      ],
+      "action": {
+        "x": 59.9375,
+        "y": -1023.15625,
+        "width": 236.71875,
+        "height": 48,
+        "top": -1023.15625,
+        "right": 296.65625,
+        "bottom": -975.15625,
+        "left": 59.9375
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "width": 768,
+      "height": 1726.578125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 38.390625,
+            "y": 74.375,
+            "width": 333.609375,
+            "height": 182.890625,
+            "top": 74.375,
+            "right": 372,
+            "bottom": 257.265625,
+            "left": 38.390625
+          },
+          "parent": {
+            "x": 0,
+            "y": 13.5,
+            "width": 768,
+            "height": 305.640625,
+            "top": 13.5,
+            "right": 768,
+            "bottom": 319.140625,
+            "left": 0
+          },
+          "dd": {
+            "x": 38.390625,
+            "y": 161.265625,
+            "width": 333.609375,
+            "height": 96,
+            "top": 161.265625,
+            "right": 372,
+            "bottom": 257.265625,
+            "left": 38.390625
+          }
+        },
+        {
+          "rect": {
+            "x": 38.390625,
+            "y": 380.015625,
+            "width": 333.609375,
+            "height": 182.890625,
+            "top": 380.015625,
+            "right": 372,
+            "bottom": 562.90625,
+            "left": 38.390625
+          },
+          "parent": {
+            "x": 0,
+            "y": 319.140625,
+            "width": 768,
+            "height": 305.640625,
+            "top": 319.140625,
+            "right": 768,
+            "bottom": 624.78125,
+            "left": 0
+          },
+          "dd": {
+            "x": 38.390625,
+            "y": 466.90625,
+            "width": 333.609375,
+            "height": 96,
+            "top": 466.90625,
+            "right": 372,
+            "bottom": 562.90625,
+            "left": 38.390625
+          }
+        },
+        {
+          "rect": {
+            "x": 38.390625,
+            "y": 670.703125,
+            "width": 333.609375,
+            "height": 212.78125,
+            "top": 670.703125,
+            "right": 372,
+            "bottom": 883.484375,
+            "left": 38.390625
+          },
+          "parent": {
+            "x": 0,
+            "y": 624.78125,
+            "width": 768,
+            "height": 305.640625,
+            "top": 624.78125,
+            "right": 768,
+            "bottom": 930.421875,
+            "left": 0
+          },
+          "dd": {
+            "x": 38.390625,
+            "y": 787.484375,
+            "width": 333.609375,
+            "height": 96,
+            "top": 787.484375,
+            "right": 372,
+            "bottom": 883.484375,
+            "left": 38.390625
+          }
+        }
+      ],
+      "action": {
+        "x": 38.390625,
+        "y": -421.25,
+        "width": 236.71875,
+        "height": 48,
+        "top": -421.25,
+        "right": 275.109375,
+        "bottom": -373.25,
+        "left": 38.390625
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "width": 390,
+      "height": 2089.140625,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 20,
+            "y": -796.0625,
+            "width": 350,
+            "height": 152.09375,
+            "top": -796.0625,
+            "right": 370,
+            "bottom": -643.96875,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": -824.0625,
+            "width": 390,
+            "height": 443.09375,
+            "top": -824.0625,
+            "right": 390,
+            "bottom": -380.96875,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": -711.46875,
+            "width": 350,
+            "height": 67.5,
+            "top": -711.46875,
+            "right": 370,
+            "bottom": -643.96875,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": -352.96875,
+            "width": 350,
+            "height": 174.59375,
+            "top": -352.96875,
+            "right": 370,
+            "bottom": -178.375,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": -380.96875,
+            "width": 390,
+            "height": 465.59375,
+            "top": -380.96875,
+            "right": 390,
+            "bottom": 84.625,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": -268.375,
+            "width": 350,
+            "height": 90,
+            "top": -268.375,
+            "right": 370,
+            "bottom": -178.375,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 112.625,
+            "width": 350,
+            "height": 179.6875,
+            "top": 112.625,
+            "right": 370,
+            "bottom": 292.3125,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": 84.625,
+            "width": 390,
+            "height": 470.6875,
+            "top": 84.625,
+            "right": 390,
+            "bottom": 555.3125,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 224.8125,
+            "width": 350,
+            "height": 67.5,
+            "top": 224.8125,
+            "right": 370,
+            "bottom": 292.3125,
+            "left": 20
+          }
+        }
+      ],
+      "action": {
+        "x": 20,
+        "y": -1118.890625,
+        "width": 236.71875,
+        "height": 48,
+        "top": -1118.890625,
+        "right": 256.71875,
+        "bottom": -1070.890625,
+        "left": 20
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "width": 320,
+      "height": 2125.3125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 20,
+            "y": -878.890625,
+            "width": 280,
+            "height": 174.59375,
+            "top": -878.890625,
+            "right": 300,
+            "bottom": -704.296875,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": -906.890625,
+            "width": 320,
+            "height": 450.921875,
+            "top": -906.890625,
+            "right": 320,
+            "bottom": -455.96875,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": -794.296875,
+            "width": 280,
+            "height": 90,
+            "top": -794.296875,
+            "right": 300,
+            "bottom": -704.296875,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": -427.96875,
+            "width": 280,
+            "height": 197.09375,
+            "top": -427.96875,
+            "right": 300,
+            "bottom": -230.875,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": -455.96875,
+            "width": 320,
+            "height": 473.421875,
+            "top": -455.96875,
+            "right": 320,
+            "bottom": 17.453125,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": -343.375,
+            "width": 280,
+            "height": 112.5,
+            "top": -343.375,
+            "right": 300,
+            "bottom": -230.875,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 45.453125,
+            "width": 280,
+            "height": 202.1875,
+            "top": 45.453125,
+            "right": 300,
+            "bottom": 247.640625,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": 17.453125,
+            "width": 320,
+            "height": 478.515625,
+            "top": 17.453125,
+            "right": 320,
+            "bottom": 495.96875,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 157.640625,
+            "width": 280,
+            "height": 90,
+            "top": 157.640625,
+            "right": 300,
+            "bottom": 247.640625,
+            "left": 20
+          }
+        }
+      ],
+      "action": {
+        "x": 20,
+        "y": -1173.03125,
+        "width": 236.71875,
+        "height": 48,
+        "top": -1173.03125,
+        "right": 256.71875,
+        "bottom": -1125.03125,
+        "left": 20
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "width": 844,
+      "height": 1820.578125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 42.1875,
+            "y": -608.65625,
+            "width": 367.8125,
+            "height": 182.890625,
+            "top": -608.65625,
+            "right": 410,
+            "bottom": -425.765625,
+            "left": 42.1875
+          },
+          "parent": {
+            "x": 0,
+            "y": -679.203125,
+            "width": 844,
+            "height": 325,
+            "top": -679.203125,
+            "right": 844,
+            "bottom": -354.203125,
+            "left": 0
+          },
+          "dd": {
+            "x": 42.1875,
+            "y": -521.765625,
+            "width": 367.8125,
+            "height": 96,
+            "top": -521.765625,
+            "right": 410,
+            "bottom": -425.765625,
+            "left": 42.1875
+          }
+        },
+        {
+          "rect": {
+            "x": 42.1875,
+            "y": -283.65625,
+            "width": 367.8125,
+            "height": 182.890625,
+            "top": -283.65625,
+            "right": 410,
+            "bottom": -100.765625,
+            "left": 42.1875
+          },
+          "parent": {
+            "x": 0,
+            "y": -354.203125,
+            "width": 844,
+            "height": 325,
+            "top": -354.203125,
+            "right": 844,
+            "bottom": -29.203125,
+            "left": 0
+          },
+          "dd": {
+            "x": 42.1875,
+            "y": -196.765625,
+            "width": 367.8125,
+            "height": 96,
+            "top": -196.765625,
+            "right": 410,
+            "bottom": -100.765625,
+            "left": 42.1875
+          }
+        },
+        {
+          "rect": {
+            "x": 42.1875,
+            "y": 38.40625,
+            "width": 367.8125,
+            "height": 188.78125,
+            "top": 38.40625,
+            "right": 410,
+            "bottom": 227.1875,
+            "left": 42.1875
+          },
+          "parent": {
+            "x": 0,
+            "y": -29.203125,
+            "width": 844,
+            "height": 325,
+            "top": -29.203125,
+            "right": 844,
+            "bottom": 295.796875,
+            "left": 0
+          },
+          "dd": {
+            "x": 42.1875,
+            "y": 155.1875,
+            "width": 367.8125,
+            "height": 72,
+            "top": 155.1875,
+            "right": 410,
+            "bottom": 227.1875,
+            "left": 42.1875
+          }
+        }
+      ],
+      "action": {
+        "x": 42.1875,
+        "y": -1145.09375,
+        "width": 236.71875,
+        "height": 48,
+        "top": -1145.09375,
+        "right": 278.90625,
+        "bottom": -1097.09375,
+        "left": 42.1875
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=1920&q=75",
+          "width": 1916,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 2560,
+        "height": 1440
+      },
+      "width": 2560,
+      "height": 1096.921875,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 84.90625,
+            "y": 763.90625,
+            "width": 433.375,
+            "height": 245.1875,
+            "top": 763.90625,
+            "right": 518.28125,
+            "bottom": 1009.09375,
+            "left": 84.90625
+          },
+          "parent": {
+            "x": 0,
+            "y": 763.90625,
+            "width": 884.46875,
+            "height": 327.671875,
+            "top": 763.90625,
+            "right": 884.46875,
+            "bottom": 1091.578125,
+            "left": 0
+          },
+          "dd": {
+            "x": 84.90625,
+            "y": 897.71875,
+            "width": 433.375,
+            "height": 111.375,
+            "top": 897.71875,
+            "right": 518.28125,
+            "bottom": 1009.09375,
+            "left": 84.90625
+          }
+        },
+        {
+          "rect": {
+            "x": 928.984375,
+            "y": 763.90625,
+            "width": 423.59375,
+            "height": 245.1875,
+            "top": 763.90625,
+            "right": 1352.578125,
+            "bottom": 1009.09375,
+            "left": 928.984375
+          },
+          "parent": {
+            "x": 884.46875,
+            "y": 763.90625,
+            "width": 864.5,
+            "height": 327.671875,
+            "top": 763.90625,
+            "right": 1748.96875,
+            "bottom": 1091.578125,
+            "left": 884.46875
+          },
+          "dd": {
+            "x": 928.984375,
+            "y": 897.71875,
+            "width": 423.59375,
+            "height": 111.375,
+            "top": 897.71875,
+            "right": 1352.578125,
+            "bottom": 1009.09375,
+            "left": 928.984375
+          }
+        },
+        {
+          "rect": {
+            "x": 1793.5625,
+            "y": 763.90625,
+            "width": 356.828125,
+            "height": 280.140625,
+            "top": 763.90625,
+            "right": 2150.390625,
+            "bottom": 1044.046875,
+            "left": 1793.5625
+          },
+          "parent": {
+            "x": 1748.96875,
+            "y": 763.90625,
+            "width": 811,
+            "height": 327.671875,
+            "top": 763.90625,
+            "right": 2559.96875,
+            "bottom": 1091.578125,
+            "left": 1748.96875
+          },
+          "dd": {
+            "x": 1793.5625,
+            "y": 932.671875,
+            "width": 356.828125,
+            "height": 111.375,
+            "top": 932.671875,
+            "right": 2150.390625,
+            "bottom": 1044.046875,
+            "left": 1793.5625
+          }
+        }
+      ],
+      "action": {
+        "x": 179.03125,
+        "y": 580.203125,
+        "width": 277.890625,
+        "height": 48,
+        "top": 580.203125,
+        "right": 456.921875,
+        "bottom": 628.203125,
+        "left": 179.03125
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=3840&q=75",
+          "width": 1277,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=3840&q=75",
+          "width": 1277,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-owner-composition-20261014.png&w=3840&q=75",
+          "width": 1277,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "mode": "normal-desktop",
+      "passed": true,
+      "active": {
+        "transform": "matrix(0.819152, -0.573576, 0.573576, 0.819152, 0, 0)",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0.3s, 0.3s, 0.35s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "normal-mobile",
+      "passed": true,
+      "active": {
+        "transform": "matrix(0.819152, -0.573576, 0.573576, 0.819152, 0, 0)",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0.3s, 0.3s, 0.35s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "reduced",
+      "passed": true,
+      "active": {
+        "transform": "none",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "no-js",
+      "passed": true,
+      "active": {
+        "transform": "none",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "image-failure",
+      "passed": true,
+      "active": {
+        "transform": "none",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0s",
+        "animations": 0
+      }
+    },
+    {
+      "zoom": "200% Chrome CSS zoom",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

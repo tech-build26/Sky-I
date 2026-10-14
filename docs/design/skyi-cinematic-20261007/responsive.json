@@ -1,0 +1,80 @@
+[
+  {
+    "settled": true,
+    "client": 1425,
+    "columns": 3,
+    "height": 1000,
+    "profiles": 0,
+    "quoteOpacity": "1",
+    "quoteState": "complete",
+    "quotes": 9,
+    "scrollWidth": 1425,
+    "sectionHeight": 901.6875,
+    "width": 1440
+  },
+  {
+    "settled": true,
+    "client": 1009,
+    "columns": 2,
+    "height": 768,
+    "profiles": 0,
+    "quoteOpacity": "1",
+    "quoteState": "complete",
+    "quotes": 9,
+    "scrollWidth": 1009,
+    "sectionHeight": 817,
+    "width": 1024
+  },
+  {
+    "settled": true,
+    "client": 753,
+    "columns": 2,
+    "height": 1024,
+    "profiles": 0,
+    "quoteOpacity": "1",
+    "quoteState": "complete",
+    "quotes": 9,
+    "scrollWidth": 753,
+    "sectionHeight": 810.21875,
+    "width": 768
+  },
+  {
+    "settled": true,
+    "client": 375,
+    "columns": 1,
+    "height": 844,
+    "profiles": 0,
+    "quoteOpacity": "1",
+    "quoteState": "complete",
+    "quotes": 9,
+    "scrollWidth": 375,
+    "sectionHeight": 863.625,
+    "width": 390
+  },
+  {
+    "settled": true,
+    "client": 305,
+    "columns": 1,
+    "height": 700,
+    "profiles": 0,
+    "quoteOpacity": "1",
+    "quoteState": "complete",
+    "quotes": 9,
+    "scrollWidth": 305,
+    "sectionHeight": 929.78125,
+    "width": 320
+  },
+  {
+    "settled": true,
+    "client": 725,
+    "columns": 1,
+    "height": 390,
+    "profiles": 0,
+    "quoteOpacity": "1",
+    "quoteState": "complete",
+    "quotes": 9,
+    "scrollWidth": 725,
+    "sectionHeight": 843.15625,
+    "width": 740
+  }
+]

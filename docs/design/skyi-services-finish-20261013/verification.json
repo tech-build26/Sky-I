@@ -1,0 +1,93 @@
+{
+  "results": [
+    {
+      "id": "tanks-and-silos",
+      "early": {
+        "clip": "circle(56.2129% at 66% 43%)",
+        "opacity": "0.548622",
+        "animations": 3
+      },
+      "settled": {
+        "clip": "circle(125% at 66% 43%)",
+        "opacity": "1",
+        "running": 0
+      }
+    },
+    {
+      "id": "external-inspections",
+      "early": {
+        "clip": "inset(60.9543% 0px 0px)",
+        "opacity": "0.453564",
+        "animations": 3
+      },
+      "settled": {
+        "clip": "inset(0px)",
+        "opacity": "1",
+        "running": 0
+      }
+    },
+    {
+      "id": "buildings-and-roofs",
+      "early": {
+        "clip": "polygon(103.061% 0px, 100% 0px, 100% 100%, 58.892% 100%, 58.892% 75%, 73.615% 75%, 73.615% 50%, 88.338% 50%, 88.338% 25%, 103.061% 25%)",
+        "opacity": "0.48722",
+        "animations": 3
+      },
+      "settled": {
+        "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 0px 100%, 0px 75%, 0px 75%, 0px 50%, 0px 50%, 0px 25%, 0px 25%)",
+        "opacity": "1",
+        "running": 0
+      }
+    },
+    {
+      "id": "thermal-inspections",
+      "early": {
+        "clip": "inset(0px 29.1814%)",
+        "opacity": "0.486243",
+        "animations": 3
+      },
+      "settled": {
+        "clip": "inset(0px)",
+        "opacity": "1",
+        "running": 0
+      }
+    },
+    {
+      "id": "internal-inspections",
+      "early": {
+        "clip": "inset(30.1853% 0px)",
+        "opacity": "0.453135",
+        "animations": 3
+      },
+      "settled": {
+        "clip": "inset(0px)",
+        "opacity": "1",
+        "running": 0
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "isMobile": true,
+      "hasTouch": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "javaScriptEnabled": false,
+      "reducedMotion": "reduce"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "failure": true
+    }
+  ],
+  "errors": []
+}

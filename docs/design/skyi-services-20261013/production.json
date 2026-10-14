@@ -1,0 +1,25 @@
+[
+  {
+    "width": 1440,
+    "js": true,
+    "open": 1,
+    "headingColour": "rgb(1, 176, 252)"
+  },
+  {
+    "width": 390,
+    "js": true,
+    "open": 1,
+    "headingColour": "rgb(1, 176, 252)"
+  },
+  {
+    "width": 320,
+    "js": false,
+    "open": 1,
+    "headingColour": "rgb(1, 176, 252)"
+  },
+  {
+    "canonical": "https://skyi.co.za/home/",
+    "noLocalhostLinks": true,
+    "publicSisterRoot": 3
+  }
+]

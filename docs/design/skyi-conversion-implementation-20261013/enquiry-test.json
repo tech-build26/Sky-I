@@ -1,0 +1,16 @@
+{
+  "mode": "mock SMTP only; no real email sent",
+  "checks": [
+    "dual recipients / sender / reply-to / plain text / TLS",
+    "idempotency and payload binding",
+    "concurrent duplicate prevention",
+    "partial acceptance and missing-recipient retry",
+    "concurrent partial-retry duplicate prevention",
+    "SMTP failure feedback",
+    "configuration gate",
+    "bounded streaming payload and STARTTLS",
+    "validation / header injection / length / allowlist / honeypot / timestamp",
+    "origin and content type",
+    "bounded per-process rate limiting"
+  ]
+}

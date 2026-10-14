@@ -1,0 +1,321 @@
+{
+  "origin": "http://localhost:3106",
+  "checks": [
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 413,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "power",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 342,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "mining",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 342,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "mining",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 185,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "construction",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 185,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "construction",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 13,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "municipal",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 378,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "power",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 378,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "power",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 232,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "petroleum",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 232,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "petroleum",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 86,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "facilities",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 86,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "facilities",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 63,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "mining",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 63,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "mining",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 9,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "petroleum",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 36,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "construction",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 36,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "facilities",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "accent": "rgb(1, 176, 252)",
+      "actionFits": true,
+      "background": "rgb(17, 27, 32)",
+      "clearance": 36,
+      "containerBackground": "rgba(0, 0, 0, 0)",
+      "containerImage": "none",
+      "linework": "rgb(1, 176, 252)",
+      "open": 1,
+      "overflow": false,
+      "sector": "municipal",
+      "servicesAccent": "rgb(1, 176, 252)",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    }
+  ],
+  "failures": [],
+  "keyboard": {
+    "focusImmediate": true,
+    "contextOpacity": 1
+  },
+  "errors": [],
+  "limitations": [
+    "Live reduced-motion, no-JavaScript, hidden-document and image-failure emulation unavailable in the connected browser; reviewed source/SSR guards instead.",
+    "No physical-device, other-engine or field-performance measurements."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "isMobile": true,
+      "hasTouch": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "javaScriptEnabled": false
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "reducedMotion": "reduce"
+    }
+  ],
+  "errors": []
+}

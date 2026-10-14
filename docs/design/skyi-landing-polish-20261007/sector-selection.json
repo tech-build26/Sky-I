@@ -1,0 +1,31 @@
+[
+  {
+    "inline": false,
+    "openCount": 0
+  },
+  {
+    "inline": true,
+    "openCount": 1,
+    "selected": "Mining↗"
+  },
+  {
+    "inline": true,
+    "openCount": 1,
+    "selected": "Petroleum & petrochemical↗"
+  },
+  {
+    "inline": true,
+    "openCount": 1,
+    "selected": "Construction↗"
+  },
+  {
+    "inline": true,
+    "openCount": 1,
+    "selected": "Facilities maintenance↗"
+  },
+  {
+    "inline": true,
+    "openCount": 1,
+    "selected": "Municipal infrastructure↗"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "canonical": "<link rel=\"canonical\" href=\"https://skyi.co.za/home/\"/>",
+  "publicSister": true,
+  "localOrigins": false,
+  "testimonials": true,
+  "previewLabel": true,
+  "profileUrls": false,
+  "regionSamples": true,
+  "rootHome": true,
+  "hasRetiredThreshold": false,
+  "hasRetiredSignoff": false
+}

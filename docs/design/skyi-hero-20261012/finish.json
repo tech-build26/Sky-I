@@ -1,0 +1,60 @@
+{
+  "metrics": {
+    "lcp": {
+      "time": 192,
+      "url": "http://localhost:3017/_next/image/?url=%2Fimages%2Felios_3.png&w=640&q=75",
+      "tag": "IMG"
+    },
+    "cls": 0
+  },
+  "fonts": "loaded",
+  "overflow": false,
+  "rail": {
+    "x": 978,
+    "y": 294,
+    "width": 44,
+    "height": 180,
+    "top": 294,
+    "right": 1022,
+    "bottom": 474,
+    "left": 978
+  },
+  "lastArt": {
+    "x": 658.59375,
+    "y": 264.09375,
+    "width": 309.46875,
+    "height": 380.078125,
+    "top": 264.09375,
+    "right": 968.0625,
+    "bottom": 644.171875,
+    "left": 658.59375
+  },
+  "images": [
+    {
+      "source": "/_next/image/?url=%2Fimages%2Felios_3.png&w=3840&q=75",
+      "natural": [
+        491,
+        307
+      ],
+      "loaded": true
+    },
+    {
+      "source": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=3840&q=75",
+      "natural": [
+        327,
+        327
+      ],
+      "loaded": true
+    },
+    {
+      "source": "/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=3840&q=75",
+      "natural": [
+        327,
+        327
+      ],
+      "loaded": true
+    }
+  ],
+  "heroAnimations": 0,
+  "localSister": "http://localhost:3000/"
+}

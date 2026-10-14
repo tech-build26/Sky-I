@@ -1,0 +1,1383 @@
+{
+  "origin": "http://localhost:3106",
+  "results": [
+    {
+      "viewport": {
+        "width": 1916,
+        "height": 1000
+      },
+      "width": 1916,
+      "height": 822,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 63.4375,
+            "y": 602.421875,
+            "width": 323.859375,
+            "height": 218.65625,
+            "top": 602.421875,
+            "right": 387.296875,
+            "bottom": 821.078125,
+            "left": 63.4375
+          },
+          "parent": {
+            "x": 0,
+            "y": 602.421875,
+            "width": 661.96875,
+            "height": 246,
+            "top": 602.421875,
+            "right": 661.96875,
+            "bottom": 848.421875,
+            "left": 0
+          },
+          "dd": {
+            "x": 63.4375,
+            "y": 712.890625,
+            "width": 323.859375,
+            "height": 84.1875,
+            "top": 712.890625,
+            "right": 387.296875,
+            "bottom": 797.078125,
+            "left": 63.4375
+          }
+        },
+        {
+          "rect": {
+            "x": 695.234375,
+            "y": 602.421875,
+            "width": 316.546875,
+            "height": 218.65625,
+            "top": 602.421875,
+            "right": 1011.78125,
+            "bottom": 821.078125,
+            "left": 695.234375
+          },
+          "parent": {
+            "x": 661.96875,
+            "y": 602.421875,
+            "width": 647.03125,
+            "height": 246,
+            "top": 602.421875,
+            "right": 1309,
+            "bottom": 848.421875,
+            "left": 661.96875
+          },
+          "dd": {
+            "x": 695.234375,
+            "y": 712.890625,
+            "width": 316.546875,
+            "height": 84.1875,
+            "top": 712.890625,
+            "right": 1011.78125,
+            "bottom": 797.078125,
+            "left": 695.234375
+          }
+        },
+        {
+          "rect": {
+            "x": 1342.375,
+            "y": 602.421875,
+            "width": 267.0625,
+            "height": 245.078125,
+            "top": 602.421875,
+            "right": 1609.4375,
+            "bottom": 847.5,
+            "left": 1342.375
+          },
+          "parent": {
+            "x": 1309,
+            "y": 602.421875,
+            "width": 606.984375,
+            "height": 246,
+            "top": 602.421875,
+            "right": 1915.984375,
+            "bottom": 848.421875,
+            "left": 1309
+          },
+          "dd": {
+            "x": 1342.375,
+            "y": 739.3125,
+            "width": 267.0625,
+            "height": 84.1875,
+            "top": 739.3125,
+            "right": 1609.4375,
+            "bottom": 823.5,
+            "left": 1342.375
+          }
+        }
+      ],
+      "action": {
+        "x": 134,
+        "y": 468.53125,
+        "width": 236.71875,
+        "height": 48,
+        "top": 468.53125,
+        "right": 370.71875,
+        "bottom": 516.53125,
+        "left": 134
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=1920&q=90",
+          "width": 1168,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=384&q=90",
+          "width": 325,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 229,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 229,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 229,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "width": 1440,
+      "height": 745.9375,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 47.65625,
+            "y": 520.96875,
+            "width": 243.28125,
+            "height": 210.65625,
+            "top": 520.96875,
+            "right": 290.9375,
+            "bottom": 731.625,
+            "left": 47.65625
+          },
+          "parent": {
+            "x": 0,
+            "y": 520.96875,
+            "width": 497.515625,
+            "height": 250.9375,
+            "top": 520.96875,
+            "right": 497.515625,
+            "bottom": 771.90625,
+            "left": 0
+          },
+          "dd": {
+            "x": 47.65625,
+            "y": 609.65625,
+            "width": 243.28125,
+            "height": 97.96875,
+            "top": 609.65625,
+            "right": 290.9375,
+            "bottom": 707.625,
+            "left": 47.65625
+          }
+        },
+        {
+          "rect": {
+            "x": 522.5,
+            "y": 520.96875,
+            "width": 237.78125,
+            "height": 210.65625,
+            "top": 520.96875,
+            "right": 760.28125,
+            "bottom": 731.625,
+            "left": 522.5
+          },
+          "parent": {
+            "x": 497.515625,
+            "y": 520.96875,
+            "width": 486.28125,
+            "height": 250.9375,
+            "top": 520.96875,
+            "right": 983.796875,
+            "bottom": 771.90625,
+            "left": 497.515625
+          },
+          "dd": {
+            "x": 522.5,
+            "y": 609.65625,
+            "width": 237.78125,
+            "height": 97.96875,
+            "top": 609.65625,
+            "right": 760.28125,
+            "bottom": 707.625,
+            "left": 522.5
+          }
+        },
+        {
+          "rect": {
+            "x": 1008.875,
+            "y": 520.96875,
+            "width": 200.71875,
+            "height": 250.9375,
+            "top": 520.96875,
+            "right": 1209.59375,
+            "bottom": 771.90625,
+            "left": 1008.875
+          },
+          "parent": {
+            "x": 983.796875,
+            "y": 520.96875,
+            "width": 456.1875,
+            "height": 250.9375,
+            "top": 520.96875,
+            "right": 1439.984375,
+            "bottom": 771.90625,
+            "left": 983.796875
+          },
+          "dd": {
+            "x": 1008.875,
+            "y": 630.34375,
+            "width": 200.71875,
+            "height": 117.5625,
+            "top": 630.34375,
+            "right": 1209.59375,
+            "bottom": 747.90625,
+            "left": 1008.875
+          }
+        }
+      ],
+      "action": {
+        "x": 100.703125,
+        "y": 370.9375,
+        "width": 216.125,
+        "height": 48,
+        "top": 370.9375,
+        "right": 316.828125,
+        "bottom": 418.9375,
+        "left": 100.703125
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=1080&q=90",
+          "width": 950,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=256&q=90",
+          "width": 244,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 172,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 172,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 172,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1200,
+        "height": 800
+      },
+      "width": 1200,
+      "height": 745.9375,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 39.703125,
+            "y": 521.296875,
+            "width": 202.65625,
+            "height": 230.25,
+            "top": 521.296875,
+            "right": 242.359375,
+            "bottom": 751.546875,
+            "left": 39.703125
+          },
+          "parent": {
+            "x": 0,
+            "y": 521.296875,
+            "width": 414.59375,
+            "height": 250.9375,
+            "top": 521.296875,
+            "right": 414.59375,
+            "bottom": 772.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 39.703125,
+            "y": 609.984375,
+            "width": 202.65625,
+            "height": 117.5625,
+            "top": 609.984375,
+            "right": 242.359375,
+            "bottom": 727.546875,
+            "left": 39.703125
+          }
+        },
+        {
+          "rect": {
+            "x": 435.40625,
+            "y": 521.296875,
+            "width": 198.0625,
+            "height": 230.25,
+            "top": 521.296875,
+            "right": 633.46875,
+            "bottom": 751.546875,
+            "left": 435.40625
+          },
+          "parent": {
+            "x": 414.59375,
+            "y": 521.296875,
+            "width": 405.234375,
+            "height": 250.9375,
+            "top": 521.296875,
+            "right": 819.828125,
+            "bottom": 772.234375,
+            "left": 414.59375
+          },
+          "dd": {
+            "x": 435.40625,
+            "y": 609.984375,
+            "width": 198.0625,
+            "height": 117.5625,
+            "top": 609.984375,
+            "right": 633.46875,
+            "bottom": 727.546875,
+            "left": 435.40625
+          }
+        },
+        {
+          "rect": {
+            "x": 840.734375,
+            "y": 521.296875,
+            "width": 167.265625,
+            "height": 250.9375,
+            "top": 521.296875,
+            "right": 1008,
+            "bottom": 772.234375,
+            "left": 840.734375
+          },
+          "parent": {
+            "x": 819.828125,
+            "y": 521.296875,
+            "width": 380.15625,
+            "height": 250.9375,
+            "top": 521.296875,
+            "right": 1199.984375,
+            "bottom": 772.234375,
+            "left": 819.828125
+          },
+          "dd": {
+            "x": 840.734375,
+            "y": 630.671875,
+            "width": 167.265625,
+            "height": 117.5625,
+            "top": 630.671875,
+            "right": 1008,
+            "bottom": 748.234375,
+            "left": 840.734375
+          }
+        }
+      ],
+      "action": {
+        "x": 83.921875,
+        "y": 378.140625,
+        "width": 216.125,
+        "height": 48,
+        "top": 378.140625,
+        "right": 300.046875,
+        "bottom": 426.140625,
+        "left": 83.921875
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=828&q=90",
+          "width": 792,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=256&q=90",
+          "width": 204,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 144,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 144,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 144,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1199,
+        "height": 800
+      },
+      "width": 1199,
+      "height": 2004.734375,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 59.9375,
+            "y": 260.78125,
+            "width": 527.5625,
+            "height": 158.890625,
+            "top": 260.78125,
+            "right": 587.5,
+            "bottom": 419.671875,
+            "left": 59.9375
+          },
+          "parent": {
+            "x": 0,
+            "y": 178.234375,
+            "width": 1199,
+            "height": 325,
+            "top": 178.234375,
+            "right": 1199,
+            "bottom": 503.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 59.9375,
+            "y": 347.671875,
+            "width": 527.5625,
+            "height": 72,
+            "top": 347.671875,
+            "right": 587.5,
+            "bottom": 419.671875,
+            "left": 59.9375
+          }
+        },
+        {
+          "rect": {
+            "x": 59.9375,
+            "y": 585.78125,
+            "width": 527.5625,
+            "height": 158.890625,
+            "top": 585.78125,
+            "right": 587.5,
+            "bottom": 744.671875,
+            "left": 59.9375
+          },
+          "parent": {
+            "x": 0,
+            "y": 503.234375,
+            "width": 1199,
+            "height": 325,
+            "top": 503.234375,
+            "right": 1199,
+            "bottom": 828.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 59.9375,
+            "y": 672.671875,
+            "width": 527.5625,
+            "height": 72,
+            "top": 672.671875,
+            "right": 587.5,
+            "bottom": 744.671875,
+            "left": 59.9375
+          }
+        },
+        {
+          "rect": {
+            "x": 59.9375,
+            "y": 910.78125,
+            "width": 527.5625,
+            "height": 158.890625,
+            "top": 910.78125,
+            "right": 587.5,
+            "bottom": 1069.671875,
+            "left": 59.9375
+          },
+          "parent": {
+            "x": 0,
+            "y": 828.234375,
+            "width": 1199,
+            "height": 325,
+            "top": 828.234375,
+            "right": 1199,
+            "bottom": 1153.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 59.9375,
+            "y": 997.671875,
+            "width": 527.5625,
+            "height": 72,
+            "top": 997.671875,
+            "right": 587.5,
+            "bottom": 1069.671875,
+            "left": 59.9375
+          }
+        }
+      ],
+      "action": {
+        "x": 59.9375,
+        "y": -433.15625,
+        "width": 236.71875,
+        "height": 48,
+        "top": -433.15625,
+        "right": 296.65625,
+        "bottom": -385.15625,
+        "left": 59.9375
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=1200&q=90",
+          "width": 1199,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=640&q=90",
+          "width": 539,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 143,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 143,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 143,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "width": 768,
+      "height": 1726.578125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 38.390625,
+            "y": 129.375,
+            "width": 333.609375,
+            "height": 182.890625,
+            "top": 129.375,
+            "right": 372,
+            "bottom": 312.265625,
+            "left": 38.390625
+          },
+          "parent": {
+            "x": 0,
+            "y": 68.5,
+            "width": 768,
+            "height": 305.640625,
+            "top": 68.5,
+            "right": 768,
+            "bottom": 374.140625,
+            "left": 0
+          },
+          "dd": {
+            "x": 38.390625,
+            "y": 216.265625,
+            "width": 333.609375,
+            "height": 96,
+            "top": 216.265625,
+            "right": 372,
+            "bottom": 312.265625,
+            "left": 38.390625
+          }
+        },
+        {
+          "rect": {
+            "x": 38.390625,
+            "y": 435.015625,
+            "width": 333.609375,
+            "height": 182.890625,
+            "top": 435.015625,
+            "right": 372,
+            "bottom": 617.90625,
+            "left": 38.390625
+          },
+          "parent": {
+            "x": 0,
+            "y": 374.140625,
+            "width": 768,
+            "height": 305.640625,
+            "top": 374.140625,
+            "right": 768,
+            "bottom": 679.78125,
+            "left": 0
+          },
+          "dd": {
+            "x": 38.390625,
+            "y": 521.90625,
+            "width": 333.609375,
+            "height": 96,
+            "top": 521.90625,
+            "right": 372,
+            "bottom": 617.90625,
+            "left": 38.390625
+          }
+        },
+        {
+          "rect": {
+            "x": 38.390625,
+            "y": 725.703125,
+            "width": 333.609375,
+            "height": 212.78125,
+            "top": 725.703125,
+            "right": 372,
+            "bottom": 938.484375,
+            "left": 38.390625
+          },
+          "parent": {
+            "x": 0,
+            "y": 679.78125,
+            "width": 768,
+            "height": 305.640625,
+            "top": 679.78125,
+            "right": 768,
+            "bottom": 985.421875,
+            "left": 0
+          },
+          "dd": {
+            "x": 38.390625,
+            "y": 842.484375,
+            "width": 333.609375,
+            "height": 96,
+            "top": 842.484375,
+            "right": 372,
+            "bottom": 938.484375,
+            "left": 38.390625
+          }
+        }
+      ],
+      "action": {
+        "x": 38.390625,
+        "y": -366.25,
+        "width": 236.71875,
+        "height": 48,
+        "top": -366.25,
+        "right": 275.109375,
+        "bottom": -318.25,
+        "left": 38.390625
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=828&q=90",
+          "width": 768,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=384&q=90",
+          "width": 345,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=96&q=90",
+          "width": 92,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=96&q=90",
+          "width": 92,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=96&q=90",
+          "width": 92,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "width": 390,
+      "height": 2134.5625,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 20,
+            "y": -15.640625,
+            "width": 350,
+            "height": 152.09375,
+            "top": -15.640625,
+            "right": 370,
+            "bottom": 136.453125,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": -43.640625,
+            "width": 390,
+            "height": 443.09375,
+            "top": -43.640625,
+            "right": 390,
+            "bottom": 399.453125,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 68.953125,
+            "width": 350,
+            "height": 67.5,
+            "top": 68.953125,
+            "right": 370,
+            "bottom": 136.453125,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 427.453125,
+            "width": 350,
+            "height": 174.59375,
+            "top": 427.453125,
+            "right": 370,
+            "bottom": 602.046875,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": 399.453125,
+            "width": 390,
+            "height": 465.59375,
+            "top": 399.453125,
+            "right": 390,
+            "bottom": 865.046875,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 512.046875,
+            "width": 350,
+            "height": 90,
+            "top": 512.046875,
+            "right": 370,
+            "bottom": 602.046875,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 893.046875,
+            "width": 350,
+            "height": 179.6875,
+            "top": 893.046875,
+            "right": 370,
+            "bottom": 1072.734375,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": 865.046875,
+            "width": 390,
+            "height": 470.6875,
+            "top": 865.046875,
+            "right": 390,
+            "bottom": 1335.734375,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 1005.234375,
+            "width": 350,
+            "height": 67.5,
+            "top": 1005.234375,
+            "right": 370,
+            "bottom": 1072.734375,
+            "left": 20
+          }
+        }
+      ],
+      "action": {
+        "x": 20,
+        "y": -383.890625,
+        "width": 236.71875,
+        "height": 48,
+        "top": -383.890625,
+        "right": 256.71875,
+        "bottom": -335.890625,
+        "left": 20
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=640&q=90",
+          "width": 390,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=384&q=90",
+          "width": 300,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 140,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 140,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 140,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "width": 320,
+      "height": 2162.578125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 20,
+            "y": -135.625,
+            "width": 280,
+            "height": 174.59375,
+            "top": -135.625,
+            "right": 300,
+            "bottom": 38.96875,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": -163.625,
+            "width": 320,
+            "height": 450.921875,
+            "top": -163.625,
+            "right": 320,
+            "bottom": 287.296875,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": -51.03125,
+            "width": 280,
+            "height": 90,
+            "top": -51.03125,
+            "right": 300,
+            "bottom": 38.96875,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 315.296875,
+            "width": 280,
+            "height": 197.09375,
+            "top": 315.296875,
+            "right": 300,
+            "bottom": 512.390625,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": 287.296875,
+            "width": 320,
+            "height": 473.421875,
+            "top": 287.296875,
+            "right": 320,
+            "bottom": 760.71875,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 399.890625,
+            "width": 280,
+            "height": 112.5,
+            "top": 399.890625,
+            "right": 300,
+            "bottom": 512.390625,
+            "left": 20
+          }
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 788.71875,
+            "width": 280,
+            "height": 202.1875,
+            "top": 788.71875,
+            "right": 300,
+            "bottom": 990.90625,
+            "left": 20
+          },
+          "parent": {
+            "x": 0,
+            "y": 760.71875,
+            "width": 320,
+            "height": 478.515625,
+            "top": 760.71875,
+            "right": 320,
+            "bottom": 1239.234375,
+            "left": 0
+          },
+          "dd": {
+            "x": 20,
+            "y": 900.90625,
+            "width": 280,
+            "height": 90,
+            "top": 900.90625,
+            "right": 300,
+            "bottom": 990.90625,
+            "left": 20
+          }
+        }
+      ],
+      "action": {
+        "x": 20,
+        "y": -467.03125,
+        "width": 236.71875,
+        "height": 48,
+        "top": -467.03125,
+        "right": 256.71875,
+        "bottom": -419.03125,
+        "left": 20
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=640&q=90",
+          "width": 320,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=384&q=90",
+          "width": 300,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 140,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 140,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+          "width": 140,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "width": 844,
+      "height": 1820.578125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 42.1875,
+            "y": -161.65625,
+            "width": 367.8125,
+            "height": 182.890625,
+            "top": -161.65625,
+            "right": 410,
+            "bottom": 21.234375,
+            "left": 42.1875
+          },
+          "parent": {
+            "x": 0,
+            "y": -232.203125,
+            "width": 844,
+            "height": 325,
+            "top": -232.203125,
+            "right": 844,
+            "bottom": 92.796875,
+            "left": 0
+          },
+          "dd": {
+            "x": 42.1875,
+            "y": -74.765625,
+            "width": 367.8125,
+            "height": 96,
+            "top": -74.765625,
+            "right": 410,
+            "bottom": 21.234375,
+            "left": 42.1875
+          }
+        },
+        {
+          "rect": {
+            "x": 42.1875,
+            "y": 163.34375,
+            "width": 367.8125,
+            "height": 182.890625,
+            "top": 163.34375,
+            "right": 410,
+            "bottom": 346.234375,
+            "left": 42.1875
+          },
+          "parent": {
+            "x": 0,
+            "y": 92.796875,
+            "width": 844,
+            "height": 325,
+            "top": 92.796875,
+            "right": 844,
+            "bottom": 417.796875,
+            "left": 0
+          },
+          "dd": {
+            "x": 42.1875,
+            "y": 250.234375,
+            "width": 367.8125,
+            "height": 96,
+            "top": 250.234375,
+            "right": 410,
+            "bottom": 346.234375,
+            "left": 42.1875
+          }
+        },
+        {
+          "rect": {
+            "x": 42.1875,
+            "y": 485.40625,
+            "width": 367.8125,
+            "height": 188.78125,
+            "top": 485.40625,
+            "right": 410,
+            "bottom": 674.1875,
+            "left": 42.1875
+          },
+          "parent": {
+            "x": 0,
+            "y": 417.796875,
+            "width": 844,
+            "height": 325,
+            "top": 417.796875,
+            "right": 844,
+            "bottom": 742.796875,
+            "left": 0
+          },
+          "dd": {
+            "x": 42.1875,
+            "y": 602.1875,
+            "width": 367.8125,
+            "height": 72,
+            "top": 602.1875,
+            "right": 410,
+            "bottom": 674.1875,
+            "left": 42.1875
+          }
+        }
+      ],
+      "action": {
+        "x": 42.1875,
+        "y": -698.09375,
+        "width": 236.71875,
+        "height": 48,
+        "top": -698.09375,
+        "right": 278.90625,
+        "bottom": -650.09375,
+        "left": 42.1875
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=1080&q=90",
+          "width": 843,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=384&q=90",
+          "width": 379,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=128&q=90",
+          "width": 101,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=128&q=90",
+          "width": 101,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=128&q=90",
+          "width": 101,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 2560,
+        "height": 1440
+      },
+      "width": 2560,
+      "height": 1097.953125,
+      "overflow": false,
+      "copy": [
+        {
+          "rect": {
+            "x": 84.8125,
+            "y": 763.90625,
+            "width": 432.890625,
+            "height": 269.1875,
+            "top": 763.90625,
+            "right": 517.703125,
+            "bottom": 1033.09375,
+            "left": 84.8125
+          },
+          "parent": {
+            "x": 0,
+            "y": 763.90625,
+            "width": 884.46875,
+            "height": 328.703125,
+            "top": 763.90625,
+            "right": 884.46875,
+            "bottom": 1092.609375,
+            "left": 0
+          },
+          "dd": {
+            "x": 84.8125,
+            "y": 897.71875,
+            "width": 432.890625,
+            "height": 111.375,
+            "top": 897.71875,
+            "right": 517.703125,
+            "bottom": 1009.09375,
+            "left": 84.8125
+          }
+        },
+        {
+          "rect": {
+            "x": 928.9375,
+            "y": 763.90625,
+            "width": 423.109375,
+            "height": 269.1875,
+            "top": 763.90625,
+            "right": 1352.046875,
+            "bottom": 1033.09375,
+            "left": 928.9375
+          },
+          "parent": {
+            "x": 884.46875,
+            "y": 763.90625,
+            "width": 864.5,
+            "height": 328.703125,
+            "top": 763.90625,
+            "right": 1748.96875,
+            "bottom": 1092.609375,
+            "left": 884.46875
+          },
+          "dd": {
+            "x": 928.9375,
+            "y": 897.71875,
+            "width": 423.109375,
+            "height": 111.375,
+            "top": 897.71875,
+            "right": 1352.046875,
+            "bottom": 1009.09375,
+            "left": 928.9375
+          }
+        },
+        {
+          "rect": {
+            "x": 1793.5625,
+            "y": 763.90625,
+            "width": 356.828125,
+            "height": 304.140625,
+            "top": 763.90625,
+            "right": 2150.390625,
+            "bottom": 1068.046875,
+            "left": 1793.5625
+          },
+          "parent": {
+            "x": 1748.96875,
+            "y": 763.90625,
+            "width": 811,
+            "height": 328.703125,
+            "top": 763.90625,
+            "right": 2559.96875,
+            "bottom": 1092.609375,
+            "left": 1748.96875
+          },
+          "dd": {
+            "x": 1793.5625,
+            "y": 932.671875,
+            "width": 356.828125,
+            "height": 111.375,
+            "top": 932.671875,
+            "right": 2150.390625,
+            "bottom": 1044.046875,
+            "left": 1793.5625
+          }
+        }
+      ],
+      "action": {
+        "x": 179.03125,
+        "y": 580.203125,
+        "width": 277.890625,
+        "height": 48,
+        "top": 580.203125,
+        "right": 456.921875,
+        "bottom": 628.203125,
+        "left": 179.03125
+      },
+      "headingColor": "rgb(245, 247, 248)",
+      "scopeColor": "rgb(1, 176, 252)",
+      "eyebrowColor": "rgb(1, 176, 252)",
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=1920&q=90",
+          "width": 1561,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=640&q=90",
+          "width": 435,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "width": 307,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "width": 307,
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "width": 307,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "mode": "normal-desktop",
+      "passed": true,
+      "active": {
+        "transform": "matrix(0.819152, -0.573576, 0.573576, 0.819152, 0, 0)",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0.3s, 0.3s, 0.35s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "normal-mobile",
+      "passed": true,
+      "active": {
+        "transform": "matrix(0.819152, -0.573576, 0.573576, 0.819152, 0, 0)",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0.3s, 0.3s, 0.35s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "reduced",
+      "passed": true,
+      "active": {
+        "transform": "none",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "no-js",
+      "passed": true,
+      "active": {
+        "transform": "none",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0s",
+        "animations": 0
+      }
+    },
+    {
+      "mode": "image-failure",
+      "passed": true,
+      "active": {
+        "transform": "none",
+        "bg": "rgb(1, 176, 252)",
+        "duration": "0s",
+        "animations": 0
+      }
+    },
+    {
+      "zoom": "200% Chrome CSS zoom",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

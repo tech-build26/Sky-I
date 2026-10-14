@@ -1,0 +1,7 @@
+.frame { position:relative; isolation:isolate; --sketch-pencil:#e2e9e4; --sketch-accent:var(--hero-accent); }
+.frame[data-tone=ink] { --sketch-pencil:#355868; --sketch-accent:#006894; }
+.contour { position:absolute; z-index:1; inset:-10px -12px; width:calc(100% + 24px); height:calc(100% + 20px); overflow:visible; pointer-events:none; }
+.contour path { vector-effect:non-scaling-stroke; stroke-linecap:round; stroke-linejoin:round; }
+.primary { stroke:var(--sketch-pencil); stroke-width:2.5; opacity:.82; }
+.secondary { stroke:var(--sketch-pencil); stroke-width:1.15; opacity:.38; }
+.accent { stroke:var(--sketch-accent); stroke-width:3; }

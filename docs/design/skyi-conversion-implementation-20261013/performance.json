@@ -1,0 +1,199 @@
+{
+  "mode": "Single unthrottled local production Chrome run per viewport; normal motion, ten-second observation. Not field Core Web Vitals or a conversion measurement. shiftSum is observation sum, not session-window CLS.",
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "lcp": [
+        {
+          "time": 424,
+          "size": 251532,
+          "url": "http://localhost:3014/_next/image/?url=%2Fimages%2Felios_3.png&w=750&q=75",
+          "element": "IMG",
+          "text": ""
+        }
+      ],
+      "shifts": [],
+      "longTasks": [
+        {
+          "time": 147.2000000011176,
+          "duration": 158
+        }
+      ],
+      "shiftSum": 0,
+      "fonts": [
+        {
+          "family": "jost",
+          "status": "loaded"
+        },
+        {
+          "family": "jost Fallback",
+          "status": "loaded"
+        },
+        {
+          "family": "cormorant",
+          "status": "loaded"
+        },
+        {
+          "family": "cormorant Fallback",
+          "status": "unloaded"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Sky I",
+          "width": 64,
+          "height": 64,
+          "naturalWidth": 64,
+          "sizes": "(max-width:1023px) 54px, 64px",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fsky-i-logo-20261005.png&w=64&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "Skyriders",
+          "width": 86,
+          "height": 64,
+          "naturalWidth": 86,
+          "sizes": "(max-width:1023px) 68px, 86px",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fsky-logo.png&w=96&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 1440,
+          "height": 1025,
+          "naturalWidth": 1254,
+          "sizes": "100vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=1920&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 658,
+          "height": 411,
+          "naturalWidth": 691,
+          "sizes": "(max-width: 767px) 250px, 48vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Felios_3.png&w=750&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 435,
+          "height": 435,
+          "naturalWidth": 460,
+          "sizes": "(max-width: 767px) 180px, 32vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 440,
+          "height": 440,
+          "naturalWidth": 460,
+          "sizes": "(max-width: 767px) 180px, 32vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=640&q=75",
+          "loaded": true
+        }
+      ],
+      "imageTransferBytes": 611762,
+      "fontTransferBytes": 131852
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lcp": [
+        {
+          "time": 220,
+          "size": 33880,
+          "url": "http://localhost:3014/_next/image/?url=%2Fimages%2Felios_3.png&w=384&q=75",
+          "element": "IMG",
+          "text": ""
+        }
+      ],
+      "shifts": [],
+      "longTasks": [
+        {
+          "time": 27.5,
+          "duration": 111
+        }
+      ],
+      "shiftSum": 0,
+      "fonts": [
+        {
+          "family": "jost",
+          "status": "loaded"
+        },
+        {
+          "family": "jost Fallback",
+          "status": "loaded"
+        },
+        {
+          "family": "cormorant",
+          "status": "loaded"
+        },
+        {
+          "family": "cormorant Fallback",
+          "status": "unloaded"
+        }
+      ],
+      "images": [
+        {
+          "alt": "Sky I",
+          "width": 54,
+          "height": 54,
+          "naturalWidth": 54,
+          "sizes": "(max-width:1023px) 54px, 64px",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fsky-i-logo-20261005.png&w=64&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "Skyriders",
+          "width": 68,
+          "height": 52,
+          "naturalWidth": 68,
+          "sizes": "(max-width:1023px) 68px, 86px",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fsky-logo.png&w=96&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 390,
+          "height": 1013,
+          "naturalWidth": 390,
+          "sizes": "100vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=640&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 246,
+          "height": 154,
+          "naturalWidth": 250,
+          "sizes": "(max-width: 767px) 250px, 48vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Felios_3.png&w=384&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 155,
+          "height": 155,
+          "naturalWidth": 180,
+          "sizes": "(max-width: 767px) 180px, 32vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=256&q=75",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "width": 157,
+          "height": 157,
+          "naturalWidth": 180,
+          "sizes": "(max-width: 767px) 180px, 32vw",
+          "currentSrc": "/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=256&q=75",
+          "loaded": true
+        }
+      ],
+      "imageTransferBytes": 374070,
+      "fontTransferBytes": 131852
+    }
+  ]
+}

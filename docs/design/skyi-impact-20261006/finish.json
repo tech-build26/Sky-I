@@ -1,0 +1,45 @@
+{
+  "visibleServiceRotation": {
+    "before": "INTERNAL",
+    "after": "EXTERNAL"
+  },
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "photoClearance": 100
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "overflow": false,
+      "photoClearance": 100
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "overflow": false,
+      "photoClearance": 257.859375
+    },
+    {
+      "width": 720,
+      "height": 450,
+      "overflow": false,
+      "photoClearance": 245.484375
+    }
+  ],
+  "production": {
+    "homeCanonical": true,
+    "localhost": false,
+    "retired": false,
+    "sisterRoot": true,
+    "impact": true,
+    "footer": true
+  }
+}

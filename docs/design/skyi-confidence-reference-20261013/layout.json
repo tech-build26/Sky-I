@@ -1,0 +1,676 @@
+{
+  "origin": "http://localhost:3106",
+  "results": [
+    {
+      "width": 1672,
+      "height": 941,
+      "sectionHeight": 794.375,
+      "overflow": false,
+      "questionBottom": 700.375,
+      "signoffTop": 746.1875,
+      "figureTop": 0,
+      "figureHeight": 794.375,
+      "heading": {
+        "x": 112.015625,
+        "y": 224.09375,
+        "width": 785.828125,
+        "height": 154.0625,
+        "right": 897.84375,
+        "bottom": 378.15625
+      },
+      "action": {
+        "x": 120.015625,
+        "y": 477.375,
+        "width": 322.125,
+        "height": 54,
+        "right": 442.140625,
+        "bottom": 531.375
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1920&q=75",
+          "width": 1456,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": 0,
+            "y": 120.21875,
+            "width": 1672,
+            "height": 794.375,
+            "right": 1672,
+            "bottom": 914.59375
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "width": 367,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 812,
+            "y": 451.96875,
+            "width": 345,
+            "height": 270.125,
+            "right": 1157,
+            "bottom": 722.09375
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "width": 367,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 955.984375,
+            "y": 663.859375,
+            "width": 344,
+            "height": 196.6875,
+            "right": 1299.984375,
+            "bottom": 860.546875
+          }
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "sectionHeight": 808.984375,
+      "overflow": false,
+      "questionBottom": 714.984375,
+      "signoffTop": 760.796875,
+      "figureTop": 0,
+      "figureHeight": 808.984375,
+      "heading": {
+        "x": 96.46875,
+        "y": 214.5625,
+        "width": 676.796875,
+        "height": 132.71875,
+        "right": 773.265625,
+        "bottom": 347.28125
+      },
+      "action": {
+        "x": 104.46875,
+        "y": 437.6875,
+        "width": 322.125,
+        "height": 54,
+        "right": 426.59375,
+        "bottom": 491.6875
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1920&q=75",
+          "width": 1254,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": 0,
+            "y": 119.96875,
+            "width": 1440,
+            "height": 808.984375,
+            "right": 1440,
+            "bottom": 928.953125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "width": 316,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 699.328125,
+            "y": 457.828125,
+            "width": 297.125,
+            "height": 275.09375,
+            "right": 996.453125,
+            "bottom": 732.921875
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "width": 316,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 823.34375,
+            "y": 673.609375,
+            "width": 296.265625,
+            "height": 200.3125,
+            "right": 1119.609375,
+            "bottom": 873.921875
+          }
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "sectionHeight": 772.625,
+      "overflow": false,
+      "questionBottom": 678.625,
+      "signoffTop": 724.4375,
+      "figureTop": 0,
+      "figureHeight": 772.625,
+      "heading": {
+        "x": 85.75,
+        "y": 204.59375,
+        "width": 601.59375,
+        "height": 125.9375,
+        "right": 687.34375,
+        "bottom": 330.53125
+      },
+      "action": {
+        "x": 93.75,
+        "y": 414.28125,
+        "width": 322.125,
+        "height": 48,
+        "right": 415.875,
+        "bottom": 462.28125
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1920&q=75",
+          "width": 1114,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": 0,
+            "y": 120.40625,
+            "width": 1280,
+            "height": 772.625,
+            "right": 1280,
+            "bottom": 893.03125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "width": 281,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 621.625,
+            "y": 443.078125,
+            "width": 264.109375,
+            "height": 262.734375,
+            "right": 885.734375,
+            "bottom": 705.8125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "width": 281,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 731.859375,
+            "y": 649.171875,
+            "width": 263.34375,
+            "height": 191.296875,
+            "right": 995.203125,
+            "bottom": 840.46875
+          }
+        }
+      ]
+    },
+    {
+      "width": 1200,
+      "height": 800,
+      "sectionHeight": 760.21875,
+      "overflow": false,
+      "questionBottom": 666.21875,
+      "signoffTop": 712.03125,
+      "figureTop": 0,
+      "figureHeight": 760.21875,
+      "heading": {
+        "x": 80.390625,
+        "y": 201.296875,
+        "width": 564,
+        "height": 116.71875,
+        "right": 644.390625,
+        "bottom": 318.015625
+      },
+      "action": {
+        "x": 88.390625,
+        "y": 401.765625,
+        "width": 322.125,
+        "height": 48,
+        "right": 410.515625,
+        "bottom": 449.765625
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1200&q=75",
+          "width": 1200,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": 0,
+            "y": 120.296875,
+            "width": 1200,
+            "height": 760.21875,
+            "right": 1200,
+            "bottom": 880.515625
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "width": 264,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 582.765625,
+            "y": 437.78125,
+            "width": 247.59375,
+            "height": 258.515625,
+            "right": 830.359375,
+            "bottom": 696.296875
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "width": 264,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 686.109375,
+            "y": 640.5625,
+            "width": 246.875,
+            "height": 188.234375,
+            "right": 932.984375,
+            "bottom": 828.796875
+          }
+        }
+      ]
+    },
+    {
+      "width": 1199,
+      "height": 800,
+      "sectionHeight": 1245.734375,
+      "overflow": false,
+      "questionBottom": 715.546875,
+      "signoffTop": 1179.546875,
+      "figureTop": 739.546875,
+      "figureHeight": 440,
+      "heading": {
+        "x": 59.9375,
+        "y": 200.5,
+        "width": 1079.125,
+        "height": 165.875,
+        "right": 1139.0625,
+        "bottom": 366.375
+      },
+      "action": {
+        "x": 67.9375,
+        "y": 458.375,
+        "width": 322.125,
+        "height": 54,
+        "right": 390.0625,
+        "bottom": 512.375
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=3840&q=75",
+          "width": 1070,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": -671.4375,
+            "y": 499.359375,
+            "width": 1798.5,
+            "height": 1012.1875,
+            "right": 1127.0625,
+            "bottom": 1511.546875
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=640&q=75",
+          "width": 539,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 201.984375,
+            "y": 922.078125,
+            "width": 371.09375,
+            "height": 344.203125,
+            "right": 573.078125,
+            "bottom": 1266.28125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=640&q=75",
+          "width": 539,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 356.890625,
+            "y": 1192.078125,
+            "width": 370.015625,
+            "height": 250.625,
+            "right": 726.90625,
+            "bottom": 1442.703125
+          }
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "sectionHeight": 1227.296875,
+      "overflow": false,
+      "questionBottom": 697.109375,
+      "signoffTop": 1161.109375,
+      "figureTop": 721.109375,
+      "figureHeight": 440,
+      "heading": {
+        "x": 51.1875,
+        "y": 201.015625,
+        "width": 921.625,
+        "height": 147.4375,
+        "right": 972.8125,
+        "bottom": 348.453125
+      },
+      "action": {
+        "x": 59.1875,
+        "y": 440.453125,
+        "width": 322.125,
+        "height": 54,
+        "right": 381.3125,
+        "bottom": 494.453125
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=3840&q=75",
+          "width": 914,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": -573.4375,
+            "y": 533.9375,
+            "width": 1536,
+            "height": 864.453125,
+            "right": 962.5625,
+            "bottom": 1398.390625
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=640&q=75",
+          "width": 460,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 172.5,
+            "y": 894.953125,
+            "width": 316.9375,
+            "height": 293.96875,
+            "right": 489.4375,
+            "bottom": 1188.921875
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=640&q=75",
+          "width": 460,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 304.796875,
+            "y": 1125.546875,
+            "width": 316.015625,
+            "height": 214.046875,
+            "right": 620.8125,
+            "bottom": 1339.59375
+          }
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "sectionHeight": 1190.421875,
+      "overflow": false,
+      "questionBottom": 660.234375,
+      "signoffTop": 1124.234375,
+      "figureTop": 684.234375,
+      "figureHeight": 440,
+      "heading": {
+        "x": 38.390625,
+        "y": 200.84375,
+        "width": 691.21875,
+        "height": 110.5625,
+        "right": 729.609375,
+        "bottom": 311.40625
+      },
+      "action": {
+        "x": 46.390625,
+        "y": 403.40625,
+        "width": 322.125,
+        "height": 54,
+        "right": 368.515625,
+        "bottom": 457.40625
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1920&q=75",
+          "width": 1371,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": -430.078125,
+            "y": 573.6875,
+            "width": 1152,
+            "height": 648.34375,
+            "right": 721.921875,
+            "bottom": 1222.03125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "width": 345,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 129.375,
+            "y": 844.453125,
+            "width": 237.703125,
+            "height": 220.46875,
+            "right": 367.078125,
+            "bottom": 1064.921875
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "width": 345,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 228.59375,
+            "y": 1017.390625,
+            "width": 237,
+            "height": 160.53125,
+            "right": 465.59375,
+            "bottom": 1177.921875
+          }
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "sectionHeight": 1219.875,
+      "overflow": false,
+      "questionBottom": 778.5,
+      "signoffTop": 1114.5,
+      "figureTop": 802.5,
+      "figureHeight": 312,
+      "heading": {
+        "x": 20,
+        "y": 179.671875,
+        "width": 350,
+        "height": 86.09375,
+        "right": 370,
+        "bottom": 265.765625
+      },
+      "action": {
+        "x": 28,
+        "y": 352.140625,
+        "width": 269.890625,
+        "height": 52,
+        "right": 297.890625,
+        "bottom": 404.140625
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=828&q=75",
+          "width": 799,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": -378.296875,
+            "y": 770.078125,
+            "width": 799.5,
+            "height": 449.953125,
+            "right": 421.203125,
+            "bottom": 1220.03125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=256&q=75",
+          "width": 175,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 9.96875,
+            "y": 957.984375,
+            "width": 164.96875,
+            "height": 153,
+            "right": 174.9375,
+            "bottom": 1110.984375
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=256&q=75",
+          "width": 175,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 78.828125,
+            "y": 1078.015625,
+            "width": 164.484375,
+            "height": 111.40625,
+            "right": 243.3125,
+            "bottom": 1189.421875
+          }
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "sectionHeight": 1229.90625,
+      "overflow": false,
+      "questionBottom": 830.53125,
+      "signoffTop": 1124.53125,
+      "figureTop": 854.53125,
+      "figureHeight": 270,
+      "heading": {
+        "x": 20,
+        "y": 179.15625,
+        "width": 280,
+        "height": 70.625,
+        "right": 300,
+        "bottom": 249.78125
+      },
+      "action": {
+        "x": 28,
+        "y": 336.15625,
+        "width": 236.921875,
+        "height": 52,
+        "right": 264.921875,
+        "bottom": 388.15625
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=750&q=75",
+          "width": 656,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": -310.390625,
+            "y": 845.390625,
+            "width": 656,
+            "height": 369.1875,
+            "right": 345.609375,
+            "bottom": 1214.578125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=256&q=75",
+          "width": 144,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 8.1875,
+            "y": 999.578125,
+            "width": 135.34375,
+            "height": 125.546875,
+            "right": 143.53125,
+            "bottom": 1125.125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=256&q=75",
+          "width": 144,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 64.6875,
+            "y": 1098.046875,
+            "width": 134.953125,
+            "height": 91.40625,
+            "right": 199.640625,
+            "bottom": 1189.453125
+          }
+        }
+      ]
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "sectionHeight": 1201.359375,
+      "overflow": false,
+      "questionBottom": 671.171875,
+      "signoffTop": 1135.171875,
+      "figureTop": 695.171875,
+      "figureHeight": 440,
+      "heading": {
+        "x": 42.1875,
+        "y": 201.21875,
+        "width": 759.625,
+        "height": 121.5,
+        "right": 801.8125,
+        "bottom": 322.71875
+      },
+      "action": {
+        "x": 50.1875,
+        "y": 414.71875,
+        "width": 322.125,
+        "height": 54,
+        "right": 372.3125,
+        "bottom": 468.71875
+      },
+      "images": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1920&q=75",
+          "width": 1506,
+          "clip": "polygon(68.0622% 0px, 100% 0px, 100% 100%, 71.4115% 100%, 48.6244% 65.6748%, 48.6244% 57.8108%)",
+          "frame": {
+            "x": -472.625,
+            "y": 562.203125,
+            "width": 1266,
+            "height": 712.5,
+            "right": 793.375,
+            "bottom": 1274.703125
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "width": 379,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25.2174% 100%, 0px 70.3125%)",
+          "frame": {
+            "x": 142.1875,
+            "y": 859.765625,
+            "width": 261.21875,
+            "height": 242.28125,
+            "right": 403.40625,
+            "bottom": 1102.046875
+          }
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "width": 379,
+          "clip": "polygon(0px 0px, 100% 0px, 100% 100%, 25% 100%, 0px 63.0901%)",
+          "frame": {
+            "x": 251.234375,
+            "y": 1049.8125,
+            "width": 260.46875,
+            "height": 176.421875,
+            "right": 511.703125,
+            "bottom": 1226.234375
+          }
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,9 @@
+.set { position:relative; isolation:isolate; background:#181e20; }
+.track { position:relative; }
+.set[data-parallax-active=true] .track>section:first-child { position:sticky; top:var(--hero-hold-top,0px); z-index:0; will-change:opacity; }
+.set[data-parallax-active=true] [data-parallax-layer] { will-change:transform; }
+.track>section:nth-child(2) { position:relative; z-index:1; }
+@media (prefers-reduced-motion:reduce) {
+  .set[data-parallax-active=true] .track>section:first-child { position:relative; top:auto; opacity:1!important; will-change:auto; }
+  .set [data-parallax-layer] { transform:none!important; will-change:auto; }
+}

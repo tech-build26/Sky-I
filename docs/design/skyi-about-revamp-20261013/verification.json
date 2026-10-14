@@ -1,0 +1,1012 @@
+{
+  "views": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 1044,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 647.984375,
+            "y": 249.09375,
+            "width": 224.171875,
+            "height": 494.796875,
+            "top": 249.09375,
+            "right": 872.15625,
+            "bottom": 743.890625,
+            "left": 647.984375
+          },
+          "caption": {
+            "x": 648.984375,
+            "y": 598.28125,
+            "width": 222.171875,
+            "height": 144.609375,
+            "top": 598.28125,
+            "right": 871.15625,
+            "bottom": 742.890625,
+            "left": 648.984375
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 895.90625,
+            "y": 249.09375,
+            "width": 224.171875,
+            "height": 494.796875,
+            "top": 249.09375,
+            "right": 1120.078125,
+            "bottom": 743.890625,
+            "left": 895.90625
+          },
+          "caption": {
+            "x": 896.90625,
+            "y": 598.28125,
+            "width": 222.171875,
+            "height": 144.609375,
+            "top": 598.28125,
+            "right": 1119.078125,
+            "bottom": 742.890625,
+            "left": 896.90625
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 1143.828125,
+            "y": 249.09375,
+            "width": 224.171875,
+            "height": 494.796875,
+            "top": 249.09375,
+            "right": 1368,
+            "bottom": 743.890625,
+            "left": 1143.828125
+          },
+          "caption": {
+            "x": 1144.828125,
+            "y": 598.28125,
+            "width": 222.171875,
+            "height": 144.609375,
+            "top": 598.28125,
+            "right": 1367,
+            "bottom": 742.890625,
+            "left": 1144.828125
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 647.984375,
+        "y": 249.09375,
+        "width": 720.015625,
+        "height": 494.796875,
+        "top": 249.09375,
+        "right": 1368,
+        "bottom": 743.890625,
+        "left": 647.984375
+      },
+      "copy": {
+        "x": 72,
+        "y": 249.09375,
+        "width": 525.59375,
+        "height": 494.796875,
+        "top": 249.09375,
+        "right": 597.59375,
+        "bottom": 743.890625,
+        "left": 72
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=1920&q=75"
+        }
+      ],
+      "partner": {
+        "x": 72,
+        "y": 775.890625,
+        "width": 1296,
+        "height": 258.40625,
+        "top": 775.890625,
+        "right": 1368,
+        "bottom": 1034.296875,
+        "left": 72
+      },
+      "headingHeight": 141.34375,
+      "headingLineHeight": 58.212,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 1185,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 875.25,
+            "y": 263.859375,
+            "width": 269.578125,
+            "height": 563.28125,
+            "top": 263.859375,
+            "right": 1144.828125,
+            "bottom": 827.140625,
+            "left": 875.25
+          },
+          "caption": {
+            "x": 876.25,
+            "y": 672.40625,
+            "width": 267.578125,
+            "height": 153.734375,
+            "top": 672.40625,
+            "right": 1143.828125,
+            "bottom": 826.140625,
+            "left": 876.25
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 1172.828125,
+            "y": 263.859375,
+            "width": 269.578125,
+            "height": 563.28125,
+            "top": 263.859375,
+            "right": 1442.40625,
+            "bottom": 827.140625,
+            "left": 1172.828125
+          },
+          "caption": {
+            "x": 1173.828125,
+            "y": 672.40625,
+            "width": 267.578125,
+            "height": 153.734375,
+            "top": 672.40625,
+            "right": 1441.40625,
+            "bottom": 826.140625,
+            "left": 1173.828125
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 1470.40625,
+            "y": 263.859375,
+            "width": 269.59375,
+            "height": 563.28125,
+            "top": 263.859375,
+            "right": 1740,
+            "bottom": 827.140625,
+            "left": 1470.40625
+          },
+          "caption": {
+            "x": 1471.40625,
+            "y": 672.40625,
+            "width": 267.59375,
+            "height": 153.734375,
+            "top": 672.40625,
+            "right": 1739,
+            "bottom": 826.140625,
+            "left": 1471.40625
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 875.25,
+        "y": 263.859375,
+        "width": 864.75,
+        "height": 563.28125,
+        "top": 263.859375,
+        "right": 1740,
+        "bottom": 827.140625,
+        "left": 875.25
+      },
+      "copy": {
+        "x": 180,
+        "y": 263.859375,
+        "width": 631.25,
+        "height": 563.28125,
+        "top": 263.859375,
+        "right": 811.25,
+        "bottom": 827.140625,
+        "left": 180
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=1920&q=75"
+        }
+      ],
+      "partner": {
+        "x": 180,
+        "y": 859.140625,
+        "width": 1560,
+        "height": 295.46875,
+        "top": 859.140625,
+        "right": 1740,
+        "bottom": 1154.609375,
+        "left": 180
+      },
+      "headingHeight": 188.453125,
+      "headingLineHeight": 77.616,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 1508,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 51.203125,
+            "y": 684.6875,
+            "width": 295.9375,
+            "height": 488.296875,
+            "top": 684.6875,
+            "right": 347.140625,
+            "bottom": 1172.984375,
+            "left": 51.203125
+          },
+          "caption": {
+            "x": 52.203125,
+            "y": 1028.59375,
+            "width": 293.9375,
+            "height": 143.390625,
+            "top": 1028.59375,
+            "right": 346.140625,
+            "bottom": 1171.984375,
+            "left": 52.203125
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 364.03125,
+            "y": 684.6875,
+            "width": 295.9375,
+            "height": 488.296875,
+            "top": 684.6875,
+            "right": 659.96875,
+            "bottom": 1172.984375,
+            "left": 364.03125
+          },
+          "caption": {
+            "x": 365.03125,
+            "y": 1028.59375,
+            "width": 293.9375,
+            "height": 143.390625,
+            "top": 1028.59375,
+            "right": 658.96875,
+            "bottom": 1171.984375,
+            "left": 365.03125
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 676.859375,
+            "y": 684.6875,
+            "width": 295.9375,
+            "height": 488.296875,
+            "top": 684.6875,
+            "right": 972.796875,
+            "bottom": 1172.984375,
+            "left": 676.859375
+          },
+          "caption": {
+            "x": 677.859375,
+            "y": 1028.59375,
+            "width": 293.9375,
+            "height": 143.390625,
+            "top": 1028.59375,
+            "right": 971.796875,
+            "bottom": 1171.984375,
+            "left": 677.859375
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 51.203125,
+        "y": 684.6875,
+        "width": 921.59375,
+        "height": 488.296875,
+        "top": 684.6875,
+        "right": 972.796875,
+        "bottom": 1172.984375,
+        "left": 51.203125
+      },
+      "copy": {
+        "x": 51.203125,
+        "y": 216.078125,
+        "width": 850,
+        "height": 432.609375,
+        "top": 216.078125,
+        "right": 901.203125,
+        "bottom": 648.6875,
+        "left": 51.203125
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=1080&q=75"
+        }
+      ],
+      "partner": {
+        "x": 51.203125,
+        "y": 1204.984375,
+        "width": 921.59375,
+        "height": 331.25,
+        "top": 1204.984375,
+        "right": 972.796875,
+        "bottom": 1536.234375,
+        "left": 51.203125
+      },
+      "headingHeight": 143.5625,
+      "headingLineHeight": 59.136,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 1408,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 38.40625,
+            "y": 719.640625,
+            "width": 221.0625,
+            "height": 364.75,
+            "top": 719.640625,
+            "right": 259.46875,
+            "bottom": 1084.390625,
+            "left": 38.40625
+          },
+          "caption": {
+            "x": 39.40625,
+            "y": 940,
+            "width": 219.0625,
+            "height": 143.390625,
+            "top": 940,
+            "right": 258.46875,
+            "bottom": 1083.390625,
+            "left": 39.40625
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 273.46875,
+            "y": 719.640625,
+            "width": 221.0625,
+            "height": 364.75,
+            "top": 719.640625,
+            "right": 494.53125,
+            "bottom": 1084.390625,
+            "left": 273.46875
+          },
+          "caption": {
+            "x": 274.46875,
+            "y": 940,
+            "width": 219.0625,
+            "height": 143.390625,
+            "top": 940,
+            "right": 493.53125,
+            "bottom": 1083.390625,
+            "left": 274.46875
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 508.53125,
+            "y": 719.640625,
+            "width": 221.0625,
+            "height": 364.75,
+            "top": 719.640625,
+            "right": 729.59375,
+            "bottom": 1084.390625,
+            "left": 508.53125
+          },
+          "caption": {
+            "x": 509.53125,
+            "y": 940,
+            "width": 219.0625,
+            "height": 143.390625,
+            "top": 940,
+            "right": 728.59375,
+            "bottom": 1083.390625,
+            "left": 509.53125
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 38.40625,
+        "y": 719.640625,
+        "width": 691.1875,
+        "height": 364.75,
+        "top": 719.640625,
+        "right": 729.59375,
+        "bottom": 1084.390625,
+        "left": 38.40625
+      },
+      "copy": {
+        "x": 38.40625,
+        "y": 216,
+        "width": 691.1875,
+        "height": 467.640625,
+        "top": 216,
+        "right": 729.59375,
+        "bottom": 683.640625,
+        "left": 38.40625
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=256&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=256&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=256&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=750&q=75"
+        }
+      ],
+      "partner": {
+        "x": 38.40625,
+        "y": 1116.390625,
+        "width": 691.1875,
+        "height": 331.25,
+        "top": 1116.390625,
+        "right": 729.59375,
+        "bottom": 1447.640625,
+        "left": 38.40625
+      },
+      "headingHeight": 126.4375,
+      "headingLineHeight": 52.08,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 2843,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 20,
+            "y": 805.265625,
+            "width": 350,
+            "height": 437.5,
+            "top": 805.265625,
+            "right": 370,
+            "bottom": 1242.765625,
+            "left": 20
+          },
+          "caption": {
+            "x": 21,
+            "y": 1102.3125,
+            "width": 348,
+            "height": 139.453125,
+            "top": 1102.3125,
+            "right": 369,
+            "bottom": 1241.765625,
+            "left": 21
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 1262.765625,
+            "width": 350,
+            "height": 437.5,
+            "top": 1262.765625,
+            "right": 370,
+            "bottom": 1700.265625,
+            "left": 20
+          },
+          "caption": {
+            "x": 21,
+            "y": 1559.8125,
+            "width": 348,
+            "height": 139.453125,
+            "top": 1559.8125,
+            "right": 369,
+            "bottom": 1699.265625,
+            "left": 21
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 1720.265625,
+            "width": 350,
+            "height": 437.5,
+            "top": 1720.265625,
+            "right": 370,
+            "bottom": 2157.765625,
+            "left": 20
+          },
+          "caption": {
+            "x": 21,
+            "y": 2017.3125,
+            "width": 348,
+            "height": 139.453125,
+            "top": 2017.3125,
+            "right": 369,
+            "bottom": 2156.765625,
+            "left": 21
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 20,
+        "y": 805.265625,
+        "width": 350,
+        "height": 1352.5,
+        "top": 805.265625,
+        "right": 370,
+        "bottom": 2157.765625,
+        "left": 20
+      },
+      "copy": {
+        "x": 20,
+        "y": 216.09375,
+        "width": 350,
+        "height": 553.171875,
+        "top": 216.09375,
+        "right": 370,
+        "bottom": 769.265625,
+        "left": 20
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=640&q=75"
+        }
+      ],
+      "partner": {
+        "x": 20,
+        "y": 2189.765625,
+        "width": 350,
+        "height": 693.03125,
+        "top": 2189.765625,
+        "right": 370,
+        "bottom": 2882.796875,
+        "left": 20
+      },
+      "headingHeight": 102,
+      "headingLineHeight": 42,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 2719,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 20,
+            "y": 873.90625,
+            "width": 280,
+            "height": 350,
+            "top": 873.90625,
+            "right": 300,
+            "bottom": 1223.90625,
+            "left": 20
+          },
+          "caption": {
+            "x": 21,
+            "y": 1083.453125,
+            "width": 278,
+            "height": 139.453125,
+            "top": 1083.453125,
+            "right": 299,
+            "bottom": 1222.90625,
+            "left": 21
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 1243.90625,
+            "width": 280,
+            "height": 350,
+            "top": 1243.90625,
+            "right": 300,
+            "bottom": 1593.90625,
+            "left": 20
+          },
+          "caption": {
+            "x": 21,
+            "y": 1453.453125,
+            "width": 278,
+            "height": 139.453125,
+            "top": 1453.453125,
+            "right": 299,
+            "bottom": 1592.90625,
+            "left": 21
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 20,
+            "y": 1613.90625,
+            "width": 280,
+            "height": 350,
+            "top": 1613.90625,
+            "right": 300,
+            "bottom": 1963.90625,
+            "left": 20
+          },
+          "caption": {
+            "x": 21,
+            "y": 1823.453125,
+            "width": 278,
+            "height": 139.453125,
+            "top": 1823.453125,
+            "right": 299,
+            "bottom": 1962.90625,
+            "left": 21
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 20,
+        "y": 873.90625,
+        "width": 280,
+        "height": 1090,
+        "top": 873.90625,
+        "right": 300,
+        "bottom": 1963.90625,
+        "left": 20
+      },
+      "copy": {
+        "x": 20,
+        "y": 216.34375,
+        "width": 280,
+        "height": 621.5625,
+        "top": 216.34375,
+        "right": 300,
+        "bottom": 837.90625,
+        "left": 20
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=640&q=75"
+        }
+      ],
+      "partner": {
+        "x": 20,
+        "y": 1995.90625,
+        "width": 280,
+        "height": 763.71875,
+        "top": 1995.90625,
+        "right": 300,
+        "bottom": 2759.625,
+        "left": 20
+      },
+      "headingHeight": 144,
+      "headingLineHeight": 42,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "sectionHeight": 1737,
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 37,
+            "y": 730.59375,
+            "width": 215.328125,
+            "height": 473.71875,
+            "top": 730.59375,
+            "right": 252.328125,
+            "bottom": 1204.3125,
+            "left": 37
+          },
+          "caption": {
+            "x": 38,
+            "y": 1071.46875,
+            "width": 213.328125,
+            "height": 131.84375,
+            "top": 1071.46875,
+            "right": 251.328125,
+            "bottom": 1203.3125,
+            "left": 38
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 262.328125,
+            "y": 730.59375,
+            "width": 215.328125,
+            "height": 473.71875,
+            "top": 730.59375,
+            "right": 477.65625,
+            "bottom": 1204.3125,
+            "left": 262.328125
+          },
+          "caption": {
+            "x": 263.328125,
+            "y": 1071.46875,
+            "width": 213.328125,
+            "height": 131.84375,
+            "top": 1071.46875,
+            "right": 476.65625,
+            "bottom": 1203.3125,
+            "left": 263.328125
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 487.65625,
+            "y": 730.59375,
+            "width": 215.328125,
+            "height": 473.71875,
+            "top": 730.59375,
+            "right": 702.984375,
+            "bottom": 1204.3125,
+            "left": 487.65625
+          },
+          "caption": {
+            "x": 488.65625,
+            "y": 1088.734375,
+            "width": 213.328125,
+            "height": 114.578125,
+            "top": 1088.734375,
+            "right": 701.984375,
+            "bottom": 1203.3125,
+            "left": 488.65625
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "gallery": {
+        "x": 37,
+        "y": 730.59375,
+        "width": 666,
+        "height": 473.71875,
+        "top": 730.59375,
+        "right": 703,
+        "bottom": 1204.3125,
+        "left": 37
+      },
+      "copy": {
+        "x": 37,
+        "y": 215.65625,
+        "width": 666,
+        "height": 478.9375,
+        "top": 215.65625,
+        "right": 703,
+        "bottom": 694.59375,
+        "left": 37
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=256&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=256&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=256&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=750&q=75"
+        }
+      ],
+      "partner": {
+        "x": 37,
+        "y": 1236.3125,
+        "width": 666,
+        "height": 540.640625,
+        "top": 1236.3125,
+        "right": 703,
+        "bottom": 1776.953125,
+        "left": 37
+      },
+      "headingHeight": 145.296875,
+      "headingLineHeight": 59.829,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    }
+  ],
+  "errors": [],
+  "storyLink": {
+    "top": 119.890625,
+    "hash": "#skyi-about-story",
+    "focus": true
+  },
+  "hover": {
+    "before": "matrix(1.055, 0, 0, 1.055, 0, -5.03137)",
+    "after": "matrix(1.095, 0, 0, 1.095, 0, 1.38619)"
+  },
+  "seam": {
+    "upper": [
+      24,
+      30,
+      32
+    ],
+    "lower": [
+      24,
+      30,
+      32
+    ]
+  },
+  "reduced": true,
+  "nojs": true,
+  "failed-art": true,
+  "local": {
+    "sister": "http://localhost:3000/",
+    "tiles": 3
+  },
+  "production": {
+    "noLocalhost": true,
+    "sisterRoot": true,
+    "canonical": true,
+    "noRestrictedClient": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "results": [
+    "All footer links reachable in order with visible keyboard focus",
+    "Section navigation and Back to top restore original header",
+    "No-JS footer links/details at 320px",
+    "Reduced-motion footer at 390px"
+  ],
+  "errors": []
+}

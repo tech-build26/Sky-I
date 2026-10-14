@@ -1,0 +1,1384 @@
+[
+  {
+    "scenario": "desktop-services-default",
+    "hash": "#services",
+    "height": 900,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "internal-inspections"
+    ],
+    "overflow": false,
+    "pageHeight": 7669,
+    "sections": [
+      {
+        "height": 1025,
+        "id": "opening",
+        "top": -1737
+      },
+      {
+        "height": 832,
+        "id": "about",
+        "top": -712
+      },
+      {
+        "height": 1204,
+        "id": "services",
+        "top": 120
+      },
+      {
+        "height": 971,
+        "id": "industries",
+        "top": 1324
+      },
+      {
+        "height": 857,
+        "id": "safety",
+        "top": 2295
+      },
+      {
+        "height": 720,
+        "id": "impact",
+        "top": 3152
+      },
+      {
+        "height": 731,
+        "id": "testimonials",
+        "top": 3872
+      },
+      {
+        "height": 817,
+        "id": "contact",
+        "top": 4603
+      },
+      {
+        "height": 502,
+        "id": "skyi-footer",
+        "top": 5420
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": "/videos/inspection-perspective.mp4",
+        "time": 6.28
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "scenario": "desktop-all-services",
+    "checks": [
+      {
+        "title": "Tanks & silos",
+        "openCount": 1,
+        "openId": "tanks-and-silos",
+        "panelBottom": 845.796875,
+        "sectionBottom": 1126.890625,
+        "summaryTop": 401.921875
+      },
+      {
+        "title": "Towers & stacks",
+        "openCount": 1,
+        "openId": "external-inspections",
+        "panelBottom": 748.796875,
+        "sectionBottom": 1029.890625,
+        "summaryTop": 401.75
+      },
+      {
+        "title": "Buildings & roofs",
+        "openCount": 1,
+        "openId": "buildings-and-roofs",
+        "panelBottom": 651.796875,
+        "sectionBottom": 932.890625,
+        "summaryTop": 401.578125
+      },
+      {
+        "title": "Thermal inspection",
+        "openCount": 1,
+        "openId": "thermal-inspections",
+        "panelBottom": 554.796875,
+        "sectionBottom": 835.890625,
+        "summaryTop": 401.40625
+      },
+      {
+        "title": "Boilers & ducting",
+        "openCount": 1,
+        "openId": "internal-inspections",
+        "panelBottom": 955.796875,
+        "sectionBottom": 1236.890625,
+        "summaryTop": 401.09375
+      }
+    ]
+  },
+  {
+    "scenario": "desktop-keyboard-faqs",
+    "checks": [
+      {
+        "text": "Can we inspect while the plant is operating?",
+        "active": "Can we inspect while the plant is operating?",
+        "openFaqs": [
+          {
+            "bottom": 547.265625,
+            "text": "Can we inspect while the plant is operating?It depends on the asset, operating conditions and access requirements. Discuss these with the team before agreeing an inspection window.",
+            "title": "Can we inspect while the plant is operating?"
+          }
+        ],
+        "sectionBottom": 677.265625
+      },
+      {
+        "text": "Is thermal imagery included?",
+        "active": "Is thermal imagery included?",
+        "openFaqs": [
+          {
+            "bottom": 424.265625,
+            "text": "Can we inspect while the plant is operating?It depends on the asset, operating conditions and access requirements. Discuss these with the team before agreeing an inspection window.",
+            "title": "Can we inspect while the plant is operating?"
+          },
+          {
+            "bottom": 547.640625,
+            "text": "Is thermal imagery included?No standard thermal scope is assumed. Discuss the question you need answered; equipment availability, conditions and suitability must be agreed for that brief.",
+            "title": "Is thermal imagery included?"
+          }
+        ],
+        "sectionBottom": 624.640625
+      },
+      {
+        "text": "Looking for window washing?",
+        "active": "Looking for window washing?",
+        "openFaqs": [
+          {
+            "bottom": 300.265625,
+            "text": "Can we inspect while the plant is operating?It depends on the asset, operating conditions and access requirements. Discuss these with the team before agreeing an inspection window.",
+            "title": "Can we inspect while the plant is operating?"
+          },
+          {
+            "bottom": 423.640625,
+            "text": "Is thermal imagery included?No standard thermal scope is assumed. Discuss the question you need answered; equipment availability, conditions and suitability must be agreed for that brief.",
+            "title": "Is thermal imagery included?"
+          },
+          {
+            "bottom": 611.015625,
+            "text": "Looking for window washing?Share the glazing, building height and cleaning requirement so we can discuss site conditions and access.Discuss your building",
+            "title": "Looking for window washing?"
+          }
+        ],
+        "sectionBottom": 635.015625
+      }
+    ]
+  },
+  {
+    "scenario": "desktop-all-sectors",
+    "checks": [
+      {
+        "name": "Mining",
+        "openCount": 1,
+        "panelBottom": 887.5625,
+        "sectionBottom": 1013.9375,
+        "selected": "Mining"
+      },
+      {
+        "name": "Petroleum & petrochemical",
+        "openCount": 1,
+        "panelBottom": 800.5625,
+        "sectionBottom": 926.9375,
+        "selected": "Petroleum & petrochemical"
+      },
+      {
+        "name": "Construction",
+        "openCount": 1,
+        "panelBottom": 713.5625,
+        "sectionBottom": 839.9375,
+        "selected": "Construction"
+      },
+      {
+        "name": "Facilities maintenance",
+        "openCount": 1,
+        "panelBottom": 652.953125,
+        "sectionBottom": 776.9375,
+        "selected": "Facilities maintenance"
+      },
+      {
+        "name": "Municipal infrastructure",
+        "openCount": 1,
+        "panelBottom": 579.296875,
+        "sectionBottom": 702.9375,
+        "selected": "Municipal infrastructure"
+      },
+      {
+        "name": "Power generation",
+        "openCount": 1,
+        "panelBottom": 1000.953125,
+        "sectionBottom": 1124.9375,
+        "selected": "Power generation"
+      }
+    ]
+  },
+  {
+    "scenario": "desktop-planning",
+    "chosen": [
+      "Outside a structure",
+      "Planned downtime",
+      "Video"
+    ],
+    "overflow": false,
+    "processOpen": true,
+    "statement": "Your starting pointOutside a structurePlanned downtime.Video."
+  },
+  {
+    "scenario": "desktop-brief-handoff",
+    "formOpacity": "0",
+    "hash": "#contact",
+    "message": "Inspection area: Outside a structure\nSite conditions: Planned downtime\nEvidence to discuss: Video\n\nSite / asset:\nArea of concern:\nPreferred timing:"
+  },
+  {
+    "scenario": "desktop-required-validation",
+    "activeName": "Name",
+    "invalidFields": [
+      "Name",
+      "Email"
+    ],
+    "message": "Inspection area: Outside a structure\nSite conditions: Planned downtime\nEvidence to discuss: Video\n\nSite / asset:\nArea of concern:\nPreferred timing:"
+  },
+  {
+    "scenario": "desktop-invalid-email",
+    "activeName": "Email",
+    "emailInvalid": true,
+    "formOpacity": "1",
+    "messageKept": true
+  },
+  {
+    "scenario": "desktop-footer-return",
+    "activeId": "opening",
+    "hash": "#opening",
+    "heroTop": 0
+  },
+  {
+    "scenario": "desktop-exterior-playback",
+    "duration": 48.901224,
+    "paused": false,
+    "poster": "/images/skyi/exterior-inspection-poster.jpg",
+    "time": 30.194376
+  },
+  {
+    "scenario": "desktop-confidence",
+    "hash": "#impact",
+    "height": 900,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "internal-inspections",
+      "",
+      "",
+      "window-washing"
+    ],
+    "overflow": false,
+    "pageHeight": 8118,
+    "sections": [
+      {
+        "height": 1025,
+        "id": "opening",
+        "top": -5948
+      },
+      {
+        "height": 832,
+        "id": "about",
+        "top": -4923
+      },
+      {
+        "height": 1479,
+        "id": "services",
+        "top": -4091
+      },
+      {
+        "height": 971,
+        "id": "industries",
+        "top": -2612
+      },
+      {
+        "height": 1041,
+        "id": "safety",
+        "top": -1641
+      },
+      {
+        "height": 720,
+        "id": "impact",
+        "top": -600
+      },
+      {
+        "height": 731,
+        "id": "testimonials",
+        "top": 120
+      },
+      {
+        "height": 817,
+        "id": "contact",
+        "top": 851
+      },
+      {
+        "height": 502,
+        "id": "skyi-footer",
+        "top": 1668
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": "/videos/inspection-perspective.mp4",
+        "time": 6.28
+      },
+      {
+        "paused": false,
+        "src": "/videos/exterior-inspection.mp4",
+        "time": 14.02
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "scenario": "phone-initial",
+    "hash": "",
+    "height": 844,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "internal-inspections"
+    ],
+    "overflow": false,
+    "pageHeight": 12749,
+    "sections": [
+      {
+        "height": 1013,
+        "id": "opening",
+        "top": 0
+      },
+      {
+        "height": 1504,
+        "id": "about",
+        "top": 1013
+      },
+      {
+        "height": 2150,
+        "id": "services",
+        "top": 2517
+      },
+      {
+        "height": 1429,
+        "id": "industries",
+        "top": 4667
+      },
+      {
+        "height": 1558,
+        "id": "safety",
+        "top": 6096
+      },
+      {
+        "height": 677,
+        "id": "impact",
+        "top": 7654
+      },
+      {
+        "height": 2130,
+        "id": "testimonials",
+        "top": 8331
+      },
+      {
+        "height": 1378,
+        "id": "contact",
+        "top": 10461
+      },
+      {
+        "height": 900,
+        "id": "skyi-footer",
+        "top": 11839
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 390
+  },
+  {
+    "scenario": "phone-hero-settled",
+    "choices": [
+      {
+        "bottom": 455.140625,
+        "label": "internal-inspections-hero-title",
+        "titleTop": 329.984375,
+        "top": 306.140625
+      },
+      {
+        "bottom": 604.140625,
+        "label": "external-inspections-hero-title",
+        "titleTop": 488.78125,
+        "top": 455.140625
+      },
+      {
+        "bottom": 752.140625,
+        "label": "window-washing-hero-title",
+        "titleTop": 637.78125,
+        "top": 604.140625
+      }
+    ],
+    "height": 844,
+    "menuSize": {
+      "height": 44,
+      "width": 64.53125
+    },
+    "overflow": false,
+    "phase": "complete",
+    "width": 390
+  },
+  {
+    "scenario": "phone-menu-keyboard",
+    "trapLast": {
+      "href": "https://za.linkedin.com/company/skyriders-access-specialists-pty-ltd",
+      "label": "Skyriders on LinkedIn",
+      "mainInert": true
+    },
+    "trapFirst": {
+      "active": "Close×"
+    },
+    "menuClosed": {
+      "active": "Menu☰",
+      "expanded": "false",
+      "mainInert": false,
+      "overflow": ""
+    }
+  },
+  {
+    "scenario": "phone-hero-internal",
+    "activeTag": "SUMMARY",
+    "activeText": "Boilers & ductingInside the process",
+    "hash": "#internal-inspections",
+    "open": true,
+    "summaryTop": 100.3125
+  },
+  {
+    "scenario": "phone-other-hero-destinations",
+    "checks": [
+      {
+        "label": "External inspections",
+        "activeTag": "SUMMARY",
+        "hash": "#external-inspections",
+        "targetOpen": true,
+        "targetTop": 99.875
+      },
+      {
+        "label": "Window washing",
+        "activeTag": "SUMMARY",
+        "hash": "#window-washing",
+        "targetOpen": true,
+        "targetTop": 100.203125
+      }
+    ]
+  },
+  {
+    "scenario": "phone-about",
+    "hash": "#about",
+    "height": 844,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "external-inspections",
+      "window-washing"
+    ],
+    "overflow": false,
+    "pageHeight": 12848,
+    "sections": [
+      {
+        "height": 1013,
+        "id": "opening",
+        "top": -913
+      },
+      {
+        "height": 1504,
+        "id": "about",
+        "top": 100
+      },
+      {
+        "height": 2249,
+        "id": "services",
+        "top": 1604
+      },
+      {
+        "height": 1429,
+        "id": "industries",
+        "top": 3853
+      },
+      {
+        "height": 1558,
+        "id": "safety",
+        "top": 5281
+      },
+      {
+        "height": 677,
+        "id": "impact",
+        "top": 6839
+      },
+      {
+        "height": 2130,
+        "id": "testimonials",
+        "top": 7517
+      },
+      {
+        "height": 1378,
+        "id": "contact",
+        "top": 9646
+      },
+      {
+        "height": 900,
+        "id": "skyi-footer",
+        "top": 11024
+      }
+    ],
+    "videos": [
+      {
+        "paused": false,
+        "src": "/videos/inspection-perspective.mp4",
+        "time": 7.98
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 390
+  },
+  {
+    "scenario": "phone-all-services",
+    "checks": [
+      {
+        "title": "Tanks & silos",
+        "openCount": 1,
+        "openId": "external-inspections",
+        "overflow": false,
+        "panelBottom": 1294.40625,
+        "sectionBottom": 2152.765625,
+        "summaryTop": 467.875
+      },
+      {
+        "title": "Towers & stacks",
+        "openCount": 0,
+        "overflow": false,
+        "sectionBottom": 1304.015625
+      },
+      {
+        "title": "Buildings & roofs",
+        "openCount": 1,
+        "openId": "buildings-and-roofs",
+        "overflow": false,
+        "panelBottom": 1161.96875,
+        "sectionBottom": 1928.546875,
+        "summaryTop": 396.65625
+      },
+      {
+        "title": "Thermal inspection",
+        "openCount": 1,
+        "openId": "thermal-inspections",
+        "overflow": false,
+        "panelBottom": 926.96875,
+        "sectionBottom": 1601.765625,
+        "summaryTop": 100.4375
+      },
+      {
+        "title": "Boilers & ducting",
+        "openCount": 1,
+        "openId": "internal-inspections",
+        "overflow": false,
+        "panelBottom": 1267.84375,
+        "sectionBottom": 2309.765625,
+        "summaryTop": 378.3125
+      }
+    ]
+  },
+  {
+    "scenario": "phone-services-after-menu-exit",
+    "checks": [
+      {
+        "title": "Tanks & silos",
+        "count": 1,
+        "overflow": false,
+        "selected": "tanks-and-silos"
+      },
+      {
+        "title": "Towers & stacks",
+        "count": 1,
+        "overflow": false,
+        "selected": "external-inspections"
+      }
+    ]
+  },
+  {
+    "scenario": "phone-all-sectors-keyboard",
+    "checks": [
+      {
+        "name": "Mining",
+        "count": 1,
+        "overflow": false,
+        "panelBottom": 720.5,
+        "sectionBottom": 1166.09375,
+        "selected": "Mining",
+        "summaryTop": 110.140625
+      },
+      {
+        "name": "Petroleum & petrochemical",
+        "count": 1,
+        "overflow": false,
+        "panelBottom": 713.78125,
+        "sectionBottom": 1080.375,
+        "selected": "Petroleum & petrochemical",
+        "summaryTop": 110.140625
+      },
+      {
+        "name": "Construction",
+        "count": 1,
+        "overflow": false,
+        "panelBottom": 501.78125,
+        "sectionBottom": 789.375,
+        "selected": "Construction",
+        "summaryTop": -101.859375
+      },
+      {
+        "name": "Facilities maintenance",
+        "count": 1,
+        "overflow": false,
+        "panelBottom": 501.78125,
+        "sectionBottom": 710.375,
+        "selected": "Facilities maintenance",
+        "summaryTop": -101.859375
+      },
+      {
+        "name": "Municipal infrastructure",
+        "count": 1,
+        "overflow": false,
+        "panelBottom": 746.890625,
+        "sectionBottom": 876.484375,
+        "selected": "Municipal infrastructure",
+        "summaryTop": 110.140625
+      },
+      {
+        "name": "Power generation",
+        "count": 1,
+        "overflow": false,
+        "panelBottom": 1041.78125,
+        "sectionBottom": 1566.375,
+        "selected": "Power generation",
+        "summaryTop": 438.140625
+      }
+    ]
+  },
+  {
+    "scenario": "phone-planning-handoff",
+    "hash": "#contact",
+    "message": "Inspection area: Outside a structure\nSite conditions: In operation\nEvidence to discuss: Discuss thermal\n\nSite / asset:\nArea of concern:\nPreferred timing:",
+    "overflow": false
+  },
+  {
+    "scenario": "phone-form-keyboard",
+    "activeName": "Email",
+    "fields": [
+      {
+        "fontSize": "16px",
+        "height": 48,
+        "name": "Name",
+        "width": 158.5
+      },
+      {
+        "fontSize": "16px",
+        "height": 48,
+        "name": "Email",
+        "width": 158.5
+      },
+      {
+        "fontSize": "16px",
+        "height": 48,
+        "name": "Service",
+        "width": 335
+      },
+      {
+        "fontSize": "16px",
+        "height": 118,
+        "name": "Message",
+        "width": 335
+      }
+    ],
+    "formOpacity": "1"
+  },
+  {
+    "scenario": "phone-exterior",
+    "hash": "#impact",
+    "height": 844,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "external-inspections",
+      "window-washing"
+    ],
+    "overflow": false,
+    "pageHeight": 12909,
+    "sections": [
+      {
+        "height": 1013,
+        "id": "opening",
+        "top": -7652
+      },
+      {
+        "height": 1504,
+        "id": "about",
+        "top": -6639
+      },
+      {
+        "height": 2249,
+        "id": "services",
+        "top": -5135
+      },
+      {
+        "height": 1429,
+        "id": "industries",
+        "top": -2886
+      },
+      {
+        "height": 1558,
+        "id": "safety",
+        "top": -1458
+      },
+      {
+        "height": 677,
+        "id": "impact",
+        "top": 100
+      },
+      {
+        "height": 2130,
+        "id": "testimonials",
+        "top": 778
+      },
+      {
+        "height": 1439,
+        "id": "contact",
+        "top": 2907
+      },
+      {
+        "height": 900,
+        "id": "skyi-footer",
+        "top": 4347
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": "/videos/inspection-perspective.mp4",
+        "time": 8.17
+      },
+      {
+        "paused": false,
+        "src": "/videos/exterior-inspection.mp4",
+        "time": 32.13
+      }
+    ],
+    "width": 390
+  },
+  {
+    "scenario": "phone-confidence-labels",
+    "captionFont": "9px",
+    "disciplineFont": "10px",
+    "bodyFont": "15px",
+    "eyebrowFont": "13px"
+  },
+  {
+    "scenario": "phone-footer-settled",
+    "groups": [
+      {
+        "bottom": 105.171875,
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "top": -28.140625
+      },
+      {
+        "bottom": 297.890625,
+        "kind": "closing-left",
+        "opacity": "1",
+        "state": "complete",
+        "top": 130.171875
+      },
+      {
+        "bottom": 518.34375,
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "top": 317.890625
+      },
+      {
+        "bottom": 518.34375,
+        "kind": "closing-right",
+        "opacity": "1",
+        "state": "complete",
+        "top": 317.890625
+      },
+      {
+        "bottom": 691.34375,
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "top": 537.34375
+      },
+      {
+        "bottom": 834.34375,
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "top": 691.34375
+      }
+    ],
+    "overflow": false,
+    "visibility": "visible",
+    "width": 390
+  },
+  {
+    "scenario": "narrow-phone-initial",
+    "hash": "",
+    "height": 740,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "internal-inspections"
+    ],
+    "overflow": false,
+    "pageHeight": 13576,
+    "sections": [
+      {
+        "height": 967,
+        "id": "opening",
+        "top": 0
+      },
+      {
+        "height": 1632,
+        "id": "about",
+        "top": 967
+      },
+      {
+        "height": 2315,
+        "id": "services",
+        "top": 2599
+      },
+      {
+        "height": 1576,
+        "id": "industries",
+        "top": 4914
+      },
+      {
+        "height": 1694,
+        "id": "safety",
+        "top": 6491
+      },
+      {
+        "height": 732,
+        "id": "impact",
+        "top": 8184
+      },
+      {
+        "height": 2102,
+        "id": "testimonials",
+        "top": 8917
+      },
+      {
+        "height": 1432,
+        "id": "contact",
+        "top": 11019
+      },
+      {
+        "height": 1115,
+        "id": "skyi-footer",
+        "top": 12451
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 320
+  },
+  {
+    "scenario": "narrow-phone-hero",
+    "choices": [
+      {
+        "bottom": 425.578125,
+        "title": "Internalinspections",
+        "top": 292.578125
+      },
+      {
+        "bottom": 558.578125,
+        "title": "Externalinspections",
+        "top": 425.578125
+      },
+      {
+        "bottom": 690.578125,
+        "title": "Windowwashing",
+        "top": 558.578125
+      }
+    ],
+    "height": 740,
+    "overflow": false,
+    "phase": "complete",
+    "width": 320
+  },
+  {
+    "scenario": "narrow-phone-services",
+    "hash": "#external-inspections",
+    "height": 740,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "buildings-and-roofs"
+    ],
+    "overflow": false,
+    "pageHeight": 13445,
+    "sections": [
+      {
+        "height": 967,
+        "id": "opening",
+        "top": -3247
+      },
+      {
+        "height": 1632,
+        "id": "about",
+        "top": -2280
+      },
+      {
+        "height": 2184,
+        "id": "services",
+        "top": -648
+      },
+      {
+        "height": 1576,
+        "id": "industries",
+        "top": 1536
+      },
+      {
+        "height": 1694,
+        "id": "safety",
+        "top": 3113
+      },
+      {
+        "height": 732,
+        "id": "impact",
+        "top": 4806
+      },
+      {
+        "height": 2102,
+        "id": "testimonials",
+        "top": 5539
+      },
+      {
+        "height": 1432,
+        "id": "contact",
+        "top": 7641
+      },
+      {
+        "height": 1115,
+        "id": "skyi-footer",
+        "top": 9073
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 320
+  },
+  {
+    "scenario": "narrow-phone-sectors",
+    "hash": "#industries",
+    "height": 740,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Petroleum & petrochemical"
+    ],
+    "openServices": [
+      "buildings-and-roofs"
+    ],
+    "overflow": false,
+    "pageHeight": 13467,
+    "sections": [
+      {
+        "height": 967,
+        "id": "opening",
+        "top": -5175
+      },
+      {
+        "height": 1632,
+        "id": "about",
+        "top": -4208
+      },
+      {
+        "height": 2184,
+        "id": "services",
+        "top": -2576
+      },
+      {
+        "height": 1599,
+        "id": "industries",
+        "top": -392
+      },
+      {
+        "height": 1694,
+        "id": "safety",
+        "top": 1207
+      },
+      {
+        "height": 732,
+        "id": "impact",
+        "top": 2900
+      },
+      {
+        "height": 2102,
+        "id": "testimonials",
+        "top": 3633
+      },
+      {
+        "height": 1432,
+        "id": "contact",
+        "top": 5735
+      },
+      {
+        "height": 1115,
+        "id": "skyi-footer",
+        "top": 7167
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 320
+  },
+  {
+    "scenario": "narrow-phone-form",
+    "active": "Email",
+    "fields": [
+      {
+        "font": "16px",
+        "height": 48,
+        "name": "Name",
+        "width": 123.5
+      },
+      {
+        "font": "16px",
+        "height": 48,
+        "name": "Email",
+        "width": 123.5
+      },
+      {
+        "font": "16px",
+        "height": 48,
+        "name": "Service",
+        "width": 265
+      },
+      {
+        "font": "16px",
+        "height": 118,
+        "name": "Message",
+        "width": 265
+      }
+    ],
+    "overflow": false
+  },
+  {
+    "scenario": "landscape-initial",
+    "hash": "",
+    "height": 390,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "internal-inspections"
+    ],
+    "overflow": false,
+    "pageHeight": 11109,
+    "sections": [
+      {
+        "height": 758,
+        "id": "opening",
+        "top": 0
+      },
+      {
+        "height": 1292,
+        "id": "about",
+        "top": 758
+      },
+      {
+        "height": 1611,
+        "id": "services",
+        "top": 2051
+      },
+      {
+        "height": 1346,
+        "id": "industries",
+        "top": 3661
+      },
+      {
+        "height": 1432,
+        "id": "safety",
+        "top": 5007
+      },
+      {
+        "height": 840,
+        "id": "impact",
+        "top": 6439
+      },
+      {
+        "height": 1772,
+        "id": "testimonials",
+        "top": 7278
+      },
+      {
+        "height": 1397,
+        "id": "contact",
+        "top": 9051
+      },
+      {
+        "height": 651,
+        "id": "skyi-footer",
+        "top": 10447
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      },
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      }
+    ],
+    "width": 844
+  },
+  {
+    "scenario": "landscape-menu",
+    "dialogHeight": 390,
+    "dialogScrollHeight": 933,
+    "height": 390,
+    "mainInert": true,
+    "width": 844
+  },
+  {
+    "scenario": "narrow-phone-help-overlap",
+    "back": {
+      "height": 44,
+      "width": 44,
+      "x": 241,
+      "y": 680
+    },
+    "height": 740,
+    "help": {
+      "height": 44,
+      "width": 44,
+      "x": 241,
+      "y": 679.640625
+    },
+    "intersectionHeight": 43.640625,
+    "intersectionWidth": 44,
+    "width": 320
+  },
+  {
+    "scenario": "narrow-phone-help-hit",
+    "activeId": "opening",
+    "hash": "#opening",
+    "heroTop": 0,
+    "tooltipOpen": "false"
+  },
+  {
+    "scenario": "production-root-routing",
+    "choices": [
+      {
+        "brand": "skyi",
+        "href": "/home/",
+        "left": 83.515625
+      },
+      {
+        "brand": "skyriders",
+        "href": "https://ropeaccess.co.za/",
+        "left": 949.125
+      }
+    ],
+    "hiddenDuplicates": 3,
+    "path": "/"
+  },
+  {
+    "scenario": "root-home-history",
+    "choices": 0,
+    "overlay": "idle",
+    "page": "",
+    "path": "/home/"
+  },
+  {
+    "scenario": "desktop-direct-confidence",
+    "hash": "#testimonials",
+    "height": 900,
+    "invalidImages": [],
+    "missingFragments": [],
+    "openSectors": [
+      "Power generation"
+    ],
+    "openServices": [
+      "internal-inspections"
+    ],
+    "overflow": false,
+    "pageHeight": 7669,
+    "sections": [
+      {
+        "height": 1025,
+        "id": "opening",
+        "top": -5489
+      },
+      {
+        "height": 832,
+        "id": "about",
+        "top": -4464
+      },
+      {
+        "height": 1204,
+        "id": "services",
+        "top": -3632
+      },
+      {
+        "height": 971,
+        "id": "industries",
+        "top": -2428
+      },
+      {
+        "height": 857,
+        "id": "safety",
+        "top": -1457
+      },
+      {
+        "height": 720,
+        "id": "impact",
+        "top": -600
+      },
+      {
+        "height": 731,
+        "id": "testimonials",
+        "top": 120
+      },
+      {
+        "height": 817,
+        "id": "contact",
+        "top": 851
+      },
+      {
+        "height": 502,
+        "id": "skyi-footer",
+        "top": 1668
+      }
+    ],
+    "videos": [
+      {
+        "paused": true,
+        "src": null,
+        "time": 0
+      },
+      {
+        "paused": false,
+        "src": "/videos/exterior-inspection.mp4",
+        "time": 0
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "scenario": "root-home-history-settled",
+    "entrySettled": {
+      "overlay": "idle",
+      "pageInert": false,
+      "path": "/home/"
+    },
+    "backSettled": {
+      "choices": 2,
+      "overlay": "idle",
+      "path": "/"
+    },
+    "supersedes": "root-home-history sampled before departure finished"
+  },
+  {
+    "scenario": "native-parallax-down",
+    "active": "true",
+    "pageHeight": 7669,
+    "progress": "0.611",
+    "scrollY": 675
+  },
+  {
+    "scenario": "native-parallax-reversed",
+    "heroPhase": "complete",
+    "pageHeight": 7669,
+    "progress": "0.000",
+    "scrollY": 0
+  }
+]

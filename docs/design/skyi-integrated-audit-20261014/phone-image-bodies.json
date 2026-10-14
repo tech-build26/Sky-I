@@ -1,0 +1,208 @@
+{
+  "width": 390,
+  "devicePixelRatio": "default browser",
+  "images": [
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fsky-i-logo-20261005.png&w=64&q=75",
+      "status": 200,
+      "wireBytes": 4084,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fsky-logo.png&w=96&q=75",
+      "status": 200,
+      "wireBytes": 3712,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 3574,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Felios_3.png&w=384&q=75",
+      "status": 200,
+      "wireBytes": 20814,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=256&q=75",
+      "status": 200,
+      "wireBytes": 12646,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=256&q=75",
+      "status": 200,
+      "wireBytes": 15328,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyline.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 157514,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/images/skyi/inspection-perspective-poster.jpg",
+      "status": 200,
+      "wireBytes": 217590,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fservice-m1.jpg&w=640&q=75",
+      "status": 200,
+      "wireBytes": 12106,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 76074,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 88220,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/images/skyi/exterior-inspection-poster.jpg",
+      "status": 200,
+      "wireBytes": 276009,
+      "type": "image/jpeg"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 64006,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Finspection-infrastructure.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 28306,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fsky-i-logo-20261005.png&w=96&q=75",
+      "status": 200,
+      "wireBytes": 7790,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fcharcoal-studio-floor-20261012.png&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 40910,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Felios_3.png&w=750&q=75",
+      "status": 200,
+      "wireBytes": 55332,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 44730,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=640&q=75",
+      "status": 200,
+      "wireBytes": 53850,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 50226,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fservice-m1.jpg&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 28168,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 147100,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 118526,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 93520,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Finspection-infrastructure.png&w=1080&q=75",
+      "status": 200,
+      "wireBytes": 68564,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Ffield-access-point.jpeg&w=256&q=75",
+      "status": 200,
+      "wireBytes": 19778,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Ffield-interior-detail.jpeg&w=256&q=75",
+      "status": 200,
+      "wireBytes": 8702,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fsky-bg.jpg&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 143980,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Ffield-site-team.jpeg&w=256&q=75",
+      "status": 200,
+      "wireBytes": 15596,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=1080&q=90",
+      "status": 200,
+      "wireBytes": 155716,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=256&q=90",
+      "status": 200,
+      "wireBytes": 23976,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyi%2Ffield-drone-vehicle.jpeg&w=750&q=75",
+      "status": 200,
+      "wireBytes": 56888,
+      "type": "image/webp"
+    },
+    {
+      "url": "http://localhost:3116/_next/image/?url=%2Fimages%2Fskyline.png&w=1920&q=75",
+      "status": 200,
+      "wireBytes": 340148,
+      "type": "image/webp"
+    }
+  ],
+  "totalImageBytes": 2453483,
+  "serviceBackgroundBytes": 724590,
+  "limits": "Cumulative encoded response-body sample only; no claim about initial phone transfer, field speed or Core Web Vitals.",
+  "interpretation": "Cumulative image inventory includes earlier desktop and scrolled states. Not a fresh initial mobile-loading budget. Excluded from audit summary metrics."
+}

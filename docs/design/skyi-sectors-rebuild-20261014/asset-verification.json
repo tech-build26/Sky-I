@@ -1,0 +1,60 @@
+{
+  "manifest": [
+    {
+      "key": "power",
+      "path": "web/public/images/skyi/sectors/power-20261014.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2655647,
+      "sha256": "420ed650c4dc2245fcc2976018ba34af8f351375d94d36db86fd1be20d989e10"
+    },
+    {
+      "key": "mining",
+      "path": "web/public/images/skyi/sectors/mining-20261014.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2630442,
+      "sha256": "7d727772574aa80a1d6ecffe6cd40c6c0f6b54e9d8f0e7379c5f6a6b80158fc2"
+    },
+    {
+      "key": "petroleum",
+      "path": "web/public/images/skyi/sectors/petroleum-20261014.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2400002,
+      "sha256": "60136eeb309d255d4a6f8545f9bd743cabed7f55e31aef4b5bf947b11b924f60"
+    },
+    {
+      "key": "construction",
+      "path": "web/public/images/skyi/sectors/construction-20261014.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2501344,
+      "sha256": "b44d10e6ffd8e8a83c81d08f9169101813d5d69d555b366f5948bb5c28c611c7"
+    },
+    {
+      "key": "facilities",
+      "path": "web/public/images/skyi/sectors/facilities-20261014.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2254717,
+      "sha256": "b2b5527ef8ffd0cc6c7aed535370723bcef5c60930dcc030658e2eb51eeeddc2"
+    },
+    {
+      "key": "municipal",
+      "path": "web/public/images/skyi/sectors/municipal-20261014.png",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 2357290,
+      "sha256": "696ee2fa10c95e69890100c4faa95d2ce0bf5a01bd44df97f41c2d9620885ceb"
+    }
+  ],
+  "serverHtml": {
+    "nativeChoices": 6,
+    "questions": 6,
+    "illustrationLabels": 6,
+    "referenceAbsent": true,
+    "numberingAbsent": true
+  },
+  "referenceUnchanged": true
+}

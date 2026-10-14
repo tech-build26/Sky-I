@@ -1,0 +1,8 @@
+[
+  {
+    "level": "warn",
+    "message": "[Fast Refresh] performing full reload\n\nFast Refresh will perform a full reload when you edit a file that's imported by modules outside of the React rendering tree.\nYou might have a file which exports a React component but also exports a value that is imported by a non-React component file.\nConsider migrating the non-React component export to a separate file and importing it into both files.\n\nIt is also possible the parent component of the component you edited is a class component, which disables Fast Refresh.\nFast Refresh requires at least one parent function component in your React tree.",
+    "timestamp": "2026-10-14T04:10:38.000Z",
+    "url": "http://localhost:3006/_next/static/chunks/node_modules_next_dist_1e8vcs8._.js"
+  }
+]

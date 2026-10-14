@@ -1,0 +1,126 @@
+{
+  "origin": "http://localhost:3016",
+  "browser": "Headless Chrome emulation",
+  "layouts": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "columns": 3,
+      "noOverflow": true,
+      "staticQuotes": 9,
+      "tooltip": "hover/focus/Escape/fit pass",
+      "returnToTop": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "columns": 2,
+      "noOverflow": true,
+      "staticQuotes": 9,
+      "tooltip": "hover/focus/Escape/fit pass",
+      "returnToTop": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "columns": 2,
+      "noOverflow": true,
+      "staticQuotes": 9,
+      "tooltip": "hover/focus/Escape/fit pass",
+      "returnToTop": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "columns": 1,
+      "noOverflow": true,
+      "staticQuotes": 9,
+      "tooltip": "hover/focus/Escape/fit pass",
+      "returnToTop": true
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "columns": 1,
+      "noOverflow": true,
+      "staticQuotes": 9,
+      "tooltip": "hover/focus/Escape/fit pass",
+      "returnToTop": true
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "columns": 1,
+      "noOverflow": true,
+      "staticQuotes": 9,
+      "tooltip": "hover/focus/Escape/fit pass",
+      "returnToTop": true
+    }
+  ],
+  "results": {
+    "columns": {
+      "before": [
+        {
+          "time": 2552.352000000011,
+          "state": "paused",
+          "duration": "34s"
+        },
+        {
+          "time": 2558.4520000000107,
+          "state": "running",
+          "duration": "39s"
+        },
+        {
+          "time": 2558.4520000000107,
+          "state": "running",
+          "duration": "44s"
+        }
+      ],
+      "elapsed": [
+        0,
+        509.0999999999999,
+        509.0999999999999
+      ]
+    },
+    "entry": {
+      "clickToReadyMs": 1447,
+      "phases": [
+        {
+          "phase": "departing",
+          "time": 635.6000000014901
+        },
+        {
+          "phase": "arriving",
+          "time": 965.3000000007451
+        },
+        {
+          "phase": "revealing",
+          "time": 1620.4000000003725
+        },
+        {
+          "phase": "idle",
+          "time": 2055.800000000745
+        }
+      ],
+      "skylineStyle": {
+        "filter": "none",
+        "shadow": "none",
+        "brandShadow": "none"
+      },
+      "heroEntries": 36,
+      "heroStartsDuringReveal": true
+    },
+    "reduce": {
+      "nineStaticQuotes": true,
+      "stillPaths": true,
+      "noOverflow": true
+    },
+    "no-js": {
+      "nineStaticQuotes": true,
+      "stillPaths": true,
+      "noOverflow": true
+    },
+    "touchTooltip": true
+  },
+  "errors": []
+}

@@ -1,0 +1,138 @@
+ M AGENTS.md
+ M alpha.md
+ M docs/STATUS.md
+ M docs/design/direction.md
+ M docs/design/motion-ledger.md
+ M docs/effects-ledger.md
+ M docs/research/findings.md
+ M web/.env.example
+ M web/next.config.ts
+ M web/package-lock.json
+ M web/package.json
+ M web/src/app/globals.css
+ M web/src/app/layout.tsx
+ M web/src/components/prelanding/BrandEntry.tsx
+ M web/src/components/prelanding/Prelanding.tsx
+ M web/src/components/skyi/SkyI.module.css
+ M web/src/components/skyi/SkyIContact.tsx
+ M web/src/components/skyi/SkyIDrone.tsx
+ M web/src/components/skyi/SkyIHeroMotion.tsx
+ M web/src/components/skyi/SkyIHome.tsx
+ M web/src/components/skyi/SkyIIndustries.tsx
+ M web/src/components/skyi/SkyINavigation.tsx
+ M web/src/components/skyi/SkyIPhotography.tsx
+ M web/src/components/skyi/SkyIProvider.tsx
+ M web/src/components/skyi/SkyIReveals.tsx
+ M web/src/components/skyi/SkyISections.tsx
+ M web/src/content/skyi-scenes.ts
+ M web/src/content/skyi-solutions.ts
+ M web/src/styles/skyi-tokens.css
+ M web/tsconfig.json
+?? 1.jpeg
+?? 2.jpeg
+?? 3.jpeg
+?? 4.jpeg
+?? 5.jpeg
+?? docs/design/skyi-about-20261006/
+?? docs/design/skyi-about-revamp-20261013/
+?? docs/design/skyi-camera-descent-20261013/
+?? docs/design/skyi-cinematic-20261007/
+?? docs/design/skyi-closing-transitions-20261014/
+?? docs/design/skyi-confidence-20261007/
+?? docs/design/skyi-confidence-exact-20261014/
+?? docs/design/skyi-confidence-rebuild-20261014/
+?? docs/design/skyi-confidence-reference-20261013/
+?? docs/design/skyi-contact-photo-20261013/
+?? docs/design/skyi-conversion-implementation-20261013/
+?? docs/design/skyi-exterior-video-20261013/
+?? docs/design/skyi-field-photography-20261013/
+?? docs/design/skyi-floor-motion-20261012/
+?? docs/design/skyi-footer-20261007/
+?? docs/design/skyi-hero-20261012/
+?? docs/design/skyi-hero-20261013/
+?? docs/design/skyi-hero-intro-20261013/
+?? docs/design/skyi-hero-perspective-20261013/
+?? docs/design/skyi-impact-20261006/
+?? docs/design/skyi-integrated-audit-20261014/
+?? docs/design/skyi-landing-finish-20261013/
+?? docs/design/skyi-landing-polish-20261007/
+?? docs/design/skyi-parallax-20261013/
+?? docs/design/skyi-perspective-video-20261013/
+?? docs/design/skyi-photo-frames-20261013/
+?? docs/design/skyi-services-20261013/
+?? docs/design/skyi-services-closing-20261013/
+?? docs/design/skyi-services-finish-20261013/
+?? docs/enquiry-delivery.md
+?? exterior-inspection_compressed.mp4
+?? hero-Inspection.mp4
+?? web/public/images/service-m1.jpg
+?? web/public/images/service-m2.jpg
+?? web/public/images/service-m3.jpg
+?? web/public/images/skyi/about-facade-20261013.png
+?? web/public/images/skyi/about-rope-20261013.png
+?? web/public/images/skyi/about-stack-20261013.png
+?? web/public/images/skyi/about-tank-20261013.png
+?? web/public/images/skyi/charcoal-studio-floor-20261012.png
+?? web/public/images/skyi/confidence-access-generated-20261014.png
+?? web/public/images/skyi/confidence-copy-mask.svg
+?? web/public/images/skyi/confidence-documentation-illustration-20261013.png
+?? web/public/images/skyi/confidence-evidence-generated-20261014.png
+?? web/public/images/skyi/confidence-industrial-illustration-20261013.png
+?? web/public/images/skyi/confidence-owner-composition-20261014.png
+?? web/public/images/skyi/confidence-scene-generated-20261014.png
+?? web/public/images/skyi/confidence-scene-generated-v2-20261014.png
+?? web/public/images/skyi/exterior-inspection-poster.jpg
+?? web/public/images/skyi/field-access-point.jpeg
+?? web/public/images/skyi/field-drone-vehicle.jpeg
+?? web/public/images/skyi/field-interior-detail.jpeg
+?? web/public/images/skyi/field-site-team.jpeg
+?? web/public/images/skyi/inspection-perspective-poster.jpg
+?? web/public/images/skyi/service-m1.jpg
+?? web/public/images/skyi/service-m2.jpg
+?? web/public/images/skyi/service-m3.jpg
+?? web/public/images/skyline.png
+?? web/public/videos/
+?? web/scripts/
+?? web/src/app/api/
+?? web/src/components/skyi/FloatingPathsBackground.tsx
+?? web/src/components/skyi/SkyIAbout.module.css
+?? web/src/components/skyi/SkyIAbout.tsx
+?? web/src/components/skyi/SkyIConfidence.module.css
+?? web/src/components/skyi/SkyIConfidence.tsx
+?? web/src/components/skyi/SkyIConfidenceArtwork.tsx
+?? web/src/components/skyi/SkyIContact.module.css
+?? web/src/components/skyi/SkyIDisclosureFit.tsx
+?? web/src/components/skyi/SkyIFooter.module.css
+?? web/src/components/skyi/SkyIFooter.tsx
+?? web/src/components/skyi/SkyIHero.module.css
+?? web/src/components/skyi/SkyIHeroBenefits.tsx
+?? web/src/components/skyi/SkyIImpact.module.css
+?? web/src/components/skyi/SkyIImpact.tsx
+?? web/src/components/skyi/SkyIIndustries.module.css
+?? web/src/components/skyi/SkyIInspectionVideo.tsx
+?? web/src/components/skyi/SkyINavigation.module.css
+?? web/src/components/skyi/SkyIParallaxTransition.module.css
+?? web/src/components/skyi/SkyIParallaxTransition.tsx
+?? web/src/components/skyi/SkyIPlanning.module.css
+?? web/src/components/skyi/SkyIPlanning.tsx
+?? web/src/components/skyi/SkyISectorInteractions.tsx
+?? web/src/components/skyi/SkyIServices.module.css
+?? web/src/components/skyi/SkyIServices.tsx
+?? web/src/components/skyi/SkyISketchFrame.module.css
+?? web/src/components/skyi/SkyISketchFrame.tsx
+?? web/src/components/skyi/SkyITestimonials.module.css
+?? web/src/components/skyi/SkyITestimonials.tsx
+?? web/src/components/skyi/SkyIThreshold.module.css
+?? web/src/components/skyi/SkyIThreshold.tsx
+?? web/src/components/ui/social-rail.tsx
+?? web/src/config/enquiry.ts
+?? web/src/content/skyi-about.ts
+?? web/src/content/skyi-confidence.ts
+?? web/src/content/skyi-field-photography.ts
+?? web/src/content/skyi-hero.ts
+?? web/src/content/skyi-impact.ts
+?? web/src/content/skyi-planning.ts
+?? web/src/content/skyi-sectors.ts
+?? web/src/content/skyi-service-preview.ts
+?? web/src/content/skyi-testimonials.ts
+?? web/src/lib/

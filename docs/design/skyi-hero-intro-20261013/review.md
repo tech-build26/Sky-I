@@ -1,0 +1,11 @@
+# Sky I opening message — 13 October 2026
+
+Owner authorises the supplied Screenshot 2026-10-13 054010.png text on page load, followed by the existing question. The opening is Specialised drone solutions / Choose your solution / Same challenges. A higher perspective. Uppercase tracked Jost matches the text reference; the existing charcoal stage, original drones, blue accents and standalone benefit groups remain.
+
+The existing hero WAAPI controller owns this one-shot transition. After the handoff permits entrances, it holds the opening for 3200ms. The initial panel exits upward over 650ms; the final eyebrow/title/description enter from left/up/right over 1150ms with 80ms stagger. The complete sequence ends about 4510ms after its start and remains on What do you need us to do? No repeating headline, slideshow or additional motion dependency.
+
+Both panels occupy the same CSS grid cell and reserve their full content height, preventing a reflow when copy changes. The original question remains the single semantic h1; the decorative opening panel is aria-hidden, avoiding a duplicate heading or unsolicited live announcements. No-JS/reduced motion immediately show the final question. CSS focus-within exposes it even before hydration; runtime focus settles any temporary entrance. Menu, hidden/offscreen and blur settle the sequence, preserving existing service access.
+
+Validation: final lint, TypeScript and Next.js 16.3.8 isolated production build pass. verification.json captures initial/transition/final states at 1440x900, 1920x1080, 1024x768, 768x1024, 390x844, 320x700 and 740x390; the opening/final hero height and all three service vertical positions remain unchanged. Screenshots cover both texts. Live reduced/no-JS paths retain three service links, a stable visible question and no hero animations. Heading focus/menu/Escape settle without replay. Pre-landing selection presents the first message before the question; no captured direct-page exceptions. The menu test waits for its finite entrance before activating the moving button.
+
+Next: owner visual review at http://localhost:3006/home/, then the explicitly deferred Safety/Projects composition/content review. This is a local hero refinement, not deployment approval.

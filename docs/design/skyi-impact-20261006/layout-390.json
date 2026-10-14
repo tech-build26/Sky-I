@@ -1,0 +1,114 @@
+[
+  {
+    "id": "opening",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 976.125,
+      "top": 0,
+      "right": 390,
+      "bottom": 976.125,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "about",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -160.875,
+      "width": 390,
+      "height": 1266.03125,
+      "top": -160.875,
+      "right": 390,
+      "bottom": 1105.15625,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "services",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -37.84375,
+      "width": 390,
+      "height": 1018.953125,
+      "top": -37.84375,
+      "right": 390,
+      "bottom": 981.109375,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "industries",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -99.890625,
+      "width": 390,
+      "height": 1143.203125,
+      "top": -99.890625,
+      "right": 390,
+      "bottom": 1043.3125,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "impact",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": 76.3125,
+      "width": 390,
+      "height": 791.046875,
+      "top": 76.3125,
+      "right": 390,
+      "bottom": 867.359375,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "contact",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -430.640625,
+      "width": 390,
+      "height": 1805.796875,
+      "top": -430.640625,
+      "right": 390,
+      "bottom": 1375.15625,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "skyi-footer",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -339.84375,
+      "width": 390,
+      "height": 1524.484375,
+      "top": -339.84375,
+      "right": 390,
+      "bottom": 1184.640625,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  }
+]

@@ -1,0 +1,1196 @@
+[
+  {
+    "width": 1916,
+    "height": 821,
+    "overflow": false,
+    "text": [
+      {
+        "text": "Confidence / Know what you’re commissioning",
+        "rect": {
+          "x": 134,
+          "y": 200.421875,
+          "width": 651.4375,
+          "height": 22.390625,
+          "top": 200.421875,
+          "right": 785.4375,
+          "bottom": 222.8125,
+          "left": 134
+        },
+        "font": "16.0005px"
+      },
+      {
+        "text": "Clear scope.\nAn informed next step.",
+        "rect": {
+          "x": 134,
+          "y": 250.78125,
+          "width": 651.4375,
+          "height": 123.96875,
+          "top": 250.78125,
+          "right": 785.4375,
+          "bottom": 374.75,
+          "left": 134
+        },
+        "font": "59.9995px"
+      },
+      {
+        "text": "Before you commission an inspection, establish what will be covered, what will be documented and who will use the evidence.",
+        "rect": {
+          "x": 134,
+          "y": 396.203125,
+          "width": 574.796875,
+          "height": 55.09375,
+          "top": 396.203125,
+          "right": 708.796875,
+          "bottom": 451.296875,
+          "left": 134
+        },
+        "font": "19px"
+      },
+      {
+        "text": "Discuss your inspection",
+        "rect": {
+          "x": 134,
+          "y": 477.15625,
+          "width": 236.71875,
+          "height": 48,
+          "top": 477.15625,
+          "right": 370.71875,
+          "bottom": 525.15625,
+          "left": 134
+        },
+        "font": "16.0005px"
+      },
+      {
+        "text": "AERIAL INSPECTION / STRUCTURAL ASSETS / ACTIONABLE EVIDENCE",
+        "rect": {
+          "x": 134,
+          "y": 547.1875,
+          "width": 651.4375,
+          "height": 15.75,
+          "top": 547.1875,
+          "right": 785.4375,
+          "bottom": 562.9375,
+          "left": 134
+        },
+        "font": "10.4997px"
+      },
+      {
+        "text": "What will be inspected?",
+        "rect": {
+          "x": 63.546875,
+          "y": 671.15625,
+          "width": 324.359375,
+          "height": 26.421875,
+          "top": 671.15625,
+          "right": 387.90625,
+          "bottom": 697.578125,
+          "left": 63.546875
+        },
+        "font": "22.992px"
+      },
+      {
+        "text": "Agree the asset, surfaces and areas of concern. Access and operating conditions shape the scope; a drone view does not replace every form of investigation.",
+        "rect": {
+          "x": 63.546875,
+          "y": 712.890625,
+          "width": 324.359375,
+          "height": 84.1875,
+          "top": 712.890625,
+          "right": 387.90625,
+          "bottom": 797.078125,
+          "left": 63.546875
+        },
+        "font": "14.5233px"
+      },
+      {
+        "text": "What will you receive?",
+        "rect": {
+          "x": 695.28125,
+          "y": 671.15625,
+          "width": 317.03125,
+          "height": 26.421875,
+          "top": 671.15625,
+          "right": 1012.3125,
+          "bottom": 697.578125,
+          "left": 695.28125
+        },
+        "font": "22.992px"
+      },
+      {
+        "text": "Discuss the photographs, video or other documentation needed for your decision. Coverage, format and any thermal requirement are agreed for the specific brief.",
+        "rect": {
+          "x": 695.28125,
+          "y": 712.890625,
+          "width": 317.03125,
+          "height": 84.1875,
+          "top": 712.890625,
+          "right": 1012.3125,
+          "bottom": 797.078125,
+          "left": 695.28125
+        },
+        "font": "14.5233px"
+      },
+      {
+        "text": "What happens after the inspection?",
+        "rect": {
+          "x": 1342.375,
+          "y": 671.15625,
+          "width": 267.0625,
+          "height": 52.84375,
+          "top": 671.15625,
+          "right": 1609.4375,
+          "bottom": 724,
+          "left": 1342.375
+        },
+        "font": "22.992px"
+      },
+      {
+        "text": "Use the agreed views to discuss further investigation or maintenance. If the next task needs physical access, Skyriders’ rope-access work is scoped separately.",
+        "rect": {
+          "x": 1342.375,
+          "y": 739.3125,
+          "width": 267.0625,
+          "height": 84.1875,
+          "top": 739.3125,
+          "right": 1609.4375,
+          "bottom": 823.5,
+          "left": 1342.375
+        },
+        "font": "14.5233px"
+      },
+      {
+        "text": "FROM INSPECTION\nTO INFORMED DECISIONS",
+        "rect": {
+          "x": 63.984375,
+          "y": 877.890625,
+          "width": 175.96875,
+          "height": 33.03125,
+          "top": 877.890625,
+          "right": 239.953125,
+          "bottom": 910.921875,
+          "left": 63.984375
+        },
+        "font": "11.017px"
+      },
+      {
+        "text": "SAFER ASSETS.\nLONGER LIFE.",
+        "rect": {
+          "x": 1748.421875,
+          "y": 877.890625,
+          "width": 103.59375,
+          "height": 33.03125,
+          "top": 877.890625,
+          "right": 1852.015625,
+          "bottom": 910.921875,
+          "left": 1748.421875
+        },
+        "font": "11.017px"
+      }
+    ],
+    "bounds": {
+      "x": 0,
+      "y": 120.421875,
+      "width": 1916,
+      "height": 820.984375,
+      "top": 120.421875,
+      "right": 1916,
+      "bottom": 941.40625,
+      "left": 0
+    }
+  },
+  {
+    "width": 1440,
+    "height": 736,
+    "overflow": false,
+    "text": [
+      {
+        "text": "Confidence / Know what you’re commissioning",
+        "rect": {
+          "x": 100.703125,
+          "y": 161.96875,
+          "width": 561.59375,
+          "height": 18.1875,
+          "top": 161.96875,
+          "right": 662.296875,
+          "bottom": 180.15625,
+          "left": 100.703125
+        },
+        "font": "13px"
+      },
+      {
+        "text": "Clear scope.\nAn informed next step.",
+        "rect": {
+          "x": 100.703125,
+          "y": 200.15625,
+          "width": 561.59375,
+          "height": 93.1875,
+          "top": 200.15625,
+          "right": 662.296875,
+          "bottom": 293.34375,
+          "left": 100.703125
+        },
+        "font": "45.0936px"
+      },
+      {
+        "text": "Before you commission an inspection, establish what will be covered, what will be documented and who will use the evidence.",
+        "rect": {
+          "x": 100.703125,
+          "y": 311.34375,
+          "width": 489.59375,
+          "height": 43.5,
+          "top": 311.34375,
+          "right": 590.296875,
+          "bottom": 354.84375,
+          "left": 100.703125
+        },
+        "font": "15px"
+      },
+      {
+        "text": "Discuss your inspection",
+        "rect": {
+          "x": 100.703125,
+          "y": 374.84375,
+          "width": 216.125,
+          "height": 48,
+          "top": 374.84375,
+          "right": 316.828125,
+          "bottom": 422.84375,
+          "left": 100.703125
+        },
+        "font": "14px"
+      },
+      {
+        "text": "AERIAL INSPECTION / STRUCTURAL ASSETS / ACTIONABLE EVIDENCE",
+        "rect": {
+          "x": 100.703125,
+          "y": 441.84375,
+          "width": 561.59375,
+          "height": 13.5,
+          "top": 441.84375,
+          "right": 662.296875,
+          "bottom": 455.34375,
+          "left": 100.703125
+        },
+        "font": "9px"
+      },
+      {
+        "text": "What will be inspected?",
+        "rect": {
+          "x": 47.75,
+          "y": 576.96875,
+          "width": 243.78125,
+          "height": 20.6875,
+          "top": 576.96875,
+          "right": 291.53125,
+          "bottom": 597.65625,
+          "left": 47.75
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Agree the asset, surfaces and areas of concern. Access and operating conditions shape the scope; a drone view does not replace every form of investigation.",
+        "rect": {
+          "x": 47.75,
+          "y": 609.65625,
+          "width": 243.78125,
+          "height": 97.96875,
+          "top": 609.65625,
+          "right": 291.53125,
+          "bottom": 707.625,
+          "left": 47.75
+        },
+        "font": "14px"
+      },
+      {
+        "text": "What will you receive?",
+        "rect": {
+          "x": 522.546875,
+          "y": 576.96875,
+          "width": 238.265625,
+          "height": 20.6875,
+          "top": 576.96875,
+          "right": 760.8125,
+          "bottom": 597.65625,
+          "left": 522.546875
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Discuss the photographs, video or other documentation needed for your decision. Coverage, format and any thermal requirement are agreed for the specific brief.",
+        "rect": {
+          "x": 522.546875,
+          "y": 609.65625,
+          "width": 238.265625,
+          "height": 97.96875,
+          "top": 609.65625,
+          "right": 760.8125,
+          "bottom": 707.625,
+          "left": 522.546875
+        },
+        "font": "14px"
+      },
+      {
+        "text": "What happens after the inspection?",
+        "rect": {
+          "x": 1008.875,
+          "y": 576.96875,
+          "width": 200.71875,
+          "height": 41.375,
+          "top": 576.96875,
+          "right": 1209.59375,
+          "bottom": 618.34375,
+          "left": 1008.875
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Use the agreed views to discuss further investigation or maintenance. If the next task needs physical access, Skyriders’ rope-access work is scoped separately.",
+        "rect": {
+          "x": 1008.875,
+          "y": 630.34375,
+          "width": 200.71875,
+          "height": 117.5625,
+          "top": 630.34375,
+          "right": 1209.59375,
+          "bottom": 747.90625,
+          "left": 1008.875
+        },
+        "font": "14px"
+      },
+      {
+        "text": "FROM INSPECTION\nTO INFORMED DECISIONS",
+        "rect": {
+          "x": 48.09375,
+          "y": 795.96875,
+          "width": 159.8125,
+          "height": 30,
+          "top": 795.96875,
+          "right": 207.90625,
+          "bottom": 825.96875,
+          "left": 48.09375
+        },
+        "font": "10px"
+      },
+      {
+        "text": "SAFER ASSETS.\nLONGER LIFE.",
+        "rect": {
+          "x": 1297.828125,
+          "y": 795.96875,
+          "width": 94.078125,
+          "height": 30,
+          "top": 795.96875,
+          "right": 1391.90625,
+          "bottom": 825.96875,
+          "left": 1297.828125
+        },
+        "font": "10px"
+      }
+    ],
+    "bounds": {
+      "x": 0,
+      "y": 119.96875,
+      "width": 1440,
+      "height": 736,
+      "top": 119.96875,
+      "right": 1440,
+      "bottom": 855.96875,
+      "left": 0
+    }
+  },
+  {
+    "width": 1200,
+    "height": 736,
+    "overflow": false,
+    "text": [
+      {
+        "text": "Confidence / Know what you’re commissioning",
+        "rect": {
+          "x": 83.921875,
+          "y": 162.296875,
+          "width": 468,
+          "height": 18.1875,
+          "top": 162.296875,
+          "right": 551.921875,
+          "bottom": 180.484375,
+          "left": 83.921875
+        },
+        "font": "13px"
+      },
+      {
+        "text": "Clear scope.\nAn informed next step.",
+        "rect": {
+          "x": 83.921875,
+          "y": 200.484375,
+          "width": 468,
+          "height": 86.5625,
+          "top": 200.484375,
+          "right": 551.921875,
+          "bottom": 287.046875,
+          "left": 83.921875
+        },
+        "font": "42px"
+      },
+      {
+        "text": "Before you commission an inspection, establish what will be covered, what will be documented and who will use the evidence.",
+        "rect": {
+          "x": 83.921875,
+          "y": 305.046875,
+          "width": 408,
+          "height": 65.25,
+          "top": 305.046875,
+          "right": 491.921875,
+          "bottom": 370.296875,
+          "left": 83.921875
+        },
+        "font": "15px"
+      },
+      {
+        "text": "Discuss your inspection",
+        "rect": {
+          "x": 83.921875,
+          "y": 390.296875,
+          "width": 216.125,
+          "height": 48,
+          "top": 390.296875,
+          "right": 300.046875,
+          "bottom": 438.296875,
+          "left": 83.921875
+        },
+        "font": "14px"
+      },
+      {
+        "text": "AERIAL INSPECTION / STRUCTURAL ASSETS / ACTIONABLE EVIDENCE",
+        "rect": {
+          "x": 83.921875,
+          "y": 457.296875,
+          "width": 468,
+          "height": 13.5,
+          "top": 457.296875,
+          "right": 551.921875,
+          "bottom": 470.796875,
+          "left": 83.921875
+        },
+        "font": "9px"
+      },
+      {
+        "text": "What will be inspected?",
+        "rect": {
+          "x": 39.796875,
+          "y": 577.296875,
+          "width": 203.140625,
+          "height": 20.6875,
+          "top": 577.296875,
+          "right": 242.9375,
+          "bottom": 597.984375,
+          "left": 39.796875
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Agree the asset, surfaces and areas of concern. Access and operating conditions shape the scope; a drone view does not replace every form of investigation.",
+        "rect": {
+          "x": 39.796875,
+          "y": 609.984375,
+          "width": 203.140625,
+          "height": 117.5625,
+          "top": 609.984375,
+          "right": 242.9375,
+          "bottom": 727.546875,
+          "left": 39.796875
+        },
+        "font": "14px"
+      },
+      {
+        "text": "What will you receive?",
+        "rect": {
+          "x": 435.453125,
+          "y": 577.296875,
+          "width": 198.5625,
+          "height": 20.6875,
+          "top": 577.296875,
+          "right": 634.015625,
+          "bottom": 597.984375,
+          "left": 435.453125
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Discuss the photographs, video or other documentation needed for your decision. Coverage, format and any thermal requirement are agreed for the specific brief.",
+        "rect": {
+          "x": 435.453125,
+          "y": 609.984375,
+          "width": 198.5625,
+          "height": 117.5625,
+          "top": 609.984375,
+          "right": 634.015625,
+          "bottom": 727.546875,
+          "left": 435.453125
+        },
+        "font": "14px"
+      },
+      {
+        "text": "What happens after the inspection?",
+        "rect": {
+          "x": 840.734375,
+          "y": 577.296875,
+          "width": 167.265625,
+          "height": 41.375,
+          "top": 577.296875,
+          "right": 1008,
+          "bottom": 618.671875,
+          "left": 840.734375
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Use the agreed views to discuss further investigation or maintenance. If the next task needs physical access, Skyriders’ rope-access work is scoped separately.",
+        "rect": {
+          "x": 840.734375,
+          "y": 630.671875,
+          "width": 167.265625,
+          "height": 117.5625,
+          "top": 630.671875,
+          "right": 1008,
+          "bottom": 748.234375,
+          "left": 840.734375
+        },
+        "font": "14px"
+      },
+      {
+        "text": "FROM INSPECTION\nTO INFORMED DECISIONS",
+        "rect": {
+          "x": 40.078125,
+          "y": 796.296875,
+          "width": 159.8125,
+          "height": 30,
+          "top": 796.296875,
+          "right": 199.890625,
+          "bottom": 826.296875,
+          "left": 40.078125
+        },
+        "font": "10px"
+      },
+      {
+        "text": "SAFER ASSETS.\nLONGER LIFE.",
+        "rect": {
+          "x": 1065.84375,
+          "y": 796.296875,
+          "width": 94.078125,
+          "height": 30,
+          "top": 796.296875,
+          "right": 1159.921875,
+          "bottom": 826.296875,
+          "left": 1065.84375
+        },
+        "font": "10px"
+      }
+    ],
+    "bounds": {
+      "x": 0,
+      "y": 120.296875,
+      "width": 1200,
+      "height": 736,
+      "top": 120.296875,
+      "right": 1200,
+      "bottom": 856.296875,
+      "left": 0
+    }
+  },
+  {
+    "width": 768,
+    "height": 1728,
+    "overflow": false,
+    "text": [
+      {
+        "text": "Confidence / Know what you’re commissioning",
+        "rect": {
+          "x": 38.390625,
+          "y": 163.84375,
+          "width": 587.53125,
+          "height": 19.59375,
+          "top": 163.84375,
+          "right": 625.921875,
+          "bottom": 183.4375,
+          "left": 38.390625
+        },
+        "font": "14px"
+      },
+      {
+        "text": "Clear scope.\nAn informed next step.",
+        "rect": {
+          "x": 38.390625,
+          "y": 207.4375,
+          "width": 691.21875,
+          "height": 96.8125,
+          "top": 207.4375,
+          "right": 729.609375,
+          "bottom": 304.25,
+          "left": 38.390625
+        },
+        "font": "44px"
+      },
+      {
+        "text": "Before you commission an inspection, establish what will be covered, what will be documented and who will use the evidence.",
+        "rect": {
+          "x": 38.390625,
+          "y": 326.25,
+          "width": 630,
+          "height": 52.1875,
+          "top": 326.25,
+          "right": 668.390625,
+          "bottom": 378.4375,
+          "left": 38.390625
+        },
+        "font": "18px"
+      },
+      {
+        "text": "Discuss your inspection",
+        "rect": {
+          "x": 38.390625,
+          "y": 402.4375,
+          "width": 236.71875,
+          "height": 48,
+          "top": 402.4375,
+          "right": 275.109375,
+          "bottom": 450.4375,
+          "left": 38.390625
+        },
+        "font": "16px"
+      },
+      {
+        "text": "AERIAL INSPECTION / STRUCTURAL ASSETS / ACTIONABLE EVIDENCE",
+        "rect": {
+          "x": 38.390625,
+          "y": 478.4375,
+          "width": 691.21875,
+          "height": 15,
+          "top": 478.4375,
+          "right": 729.609375,
+          "bottom": 493.4375,
+          "left": 38.390625
+        },
+        "font": "10px"
+      },
+      {
+        "text": "What will be inspected?",
+        "rect": {
+          "x": 38.390625,
+          "y": 939.0625,
+          "width": 333.609375,
+          "height": 29.890625,
+          "top": 939.0625,
+          "right": 372,
+          "bottom": 968.953125,
+          "left": 38.390625
+        },
+        "font": "26px"
+      },
+      {
+        "text": "Agree the asset, surfaces and areas of concern. Access and operating conditions shape the scope; a drone view does not replace every form of investigation.",
+        "rect": {
+          "x": 38.390625,
+          "y": 984.953125,
+          "width": 333.609375,
+          "height": 96,
+          "top": 984.953125,
+          "right": 372,
+          "bottom": 1080.953125,
+          "left": 38.390625
+        },
+        "font": "16px"
+      },
+      {
+        "text": "What will you receive?",
+        "rect": {
+          "x": 38.390625,
+          "y": 1244.703125,
+          "width": 333.609375,
+          "height": 29.890625,
+          "top": 1244.703125,
+          "right": 372,
+          "bottom": 1274.59375,
+          "left": 38.390625
+        },
+        "font": "26px"
+      },
+      {
+        "text": "Discuss the photographs, video or other documentation needed for your decision. Coverage, format and any thermal requirement are agreed for the specific brief.",
+        "rect": {
+          "x": 38.390625,
+          "y": 1290.59375,
+          "width": 333.609375,
+          "height": 96,
+          "top": 1290.59375,
+          "right": 372,
+          "bottom": 1386.59375,
+          "left": 38.390625
+        },
+        "font": "16px"
+      },
+      {
+        "text": "What happens after the inspection?",
+        "rect": {
+          "x": 38.390625,
+          "y": 1535.390625,
+          "width": 333.609375,
+          "height": 59.78125,
+          "top": 1535.390625,
+          "right": 372,
+          "bottom": 1595.171875,
+          "left": 38.390625
+        },
+        "font": "26px"
+      },
+      {
+        "text": "Use the agreed views to discuss further investigation or maintenance. If the next task needs physical access, Skyriders’ rope-access work is scoped separately.",
+        "rect": {
+          "x": 38.390625,
+          "y": 1611.171875,
+          "width": 333.609375,
+          "height": 96,
+          "top": 1611.171875,
+          "right": 372,
+          "bottom": 1707.171875,
+          "left": 38.390625
+        },
+        "font": "16px"
+      },
+      {
+        "text": "FROM INSPECTION\nTO INFORMED DECISIONS",
+        "rect": {
+          "x": 38.390625,
+          "y": 1786.109375,
+          "width": 159.8125,
+          "height": 30,
+          "top": 1786.109375,
+          "right": 198.203125,
+          "bottom": 1816.109375,
+          "left": 38.390625
+        },
+        "font": "10px"
+      },
+      {
+        "text": "SAFER ASSETS.\nLONGER LIFE.",
+        "rect": {
+          "x": 635.53125,
+          "y": 1786.109375,
+          "width": 94.078125,
+          "height": 30,
+          "top": 1786.109375,
+          "right": 729.609375,
+          "bottom": 1816.109375,
+          "left": 635.53125
+        },
+        "font": "10px"
+      }
+    ],
+    "bounds": {
+      "x": 0,
+      "y": 119.84375,
+      "width": 768,
+      "height": 1728.265625,
+      "top": 119.84375,
+      "right": 768,
+      "bottom": 1848.109375,
+      "left": 0
+    }
+  },
+  {
+    "width": 390,
+    "height": 2051,
+    "overflow": false,
+    "text": [
+      {
+        "text": "Confidence / Know what you’re commissioning",
+        "rect": {
+          "x": 20,
+          "y": 136.171875,
+          "width": 350,
+          "height": 18.1875,
+          "top": 136.171875,
+          "right": 370,
+          "bottom": 154.359375,
+          "left": 20
+        },
+        "font": "13px"
+      },
+      {
+        "text": "Clear scope.\nAn informed next step.",
+        "rect": {
+          "x": 20,
+          "y": 178.359375,
+          "width": 350,
+          "height": 88.78125,
+          "top": 178.359375,
+          "right": 370,
+          "bottom": 267.140625,
+          "left": 20
+        },
+        "font": "40px"
+      },
+      {
+        "text": "Before you commission an inspection, establish what will be covered, what will be documented and who will use the evidence.",
+        "rect": {
+          "x": 20,
+          "y": 289.140625,
+          "width": 350,
+          "height": 69.5625,
+          "top": 289.140625,
+          "right": 370,
+          "bottom": 358.703125,
+          "left": 20
+        },
+        "font": "16px"
+      },
+      {
+        "text": "Discuss your inspection",
+        "rect": {
+          "x": 20,
+          "y": 382.703125,
+          "width": 236.71875,
+          "height": 48,
+          "top": 382.703125,
+          "right": 256.71875,
+          "bottom": 430.703125,
+          "left": 20
+        },
+        "font": "16px"
+      },
+      {
+        "text": "AERIAL INSPECTION / STRUCTURAL ASSETS / ACTIONABLE EVIDENCE",
+        "rect": {
+          "x": 20,
+          "y": 458.703125,
+          "width": 350,
+          "height": 30,
+          "top": 458.703125,
+          "right": 370,
+          "bottom": 488.703125,
+          "left": 20
+        },
+        "font": "10px"
+      },
+      {
+        "text": "What will be inspected?",
+        "rect": {
+          "x": 20,
+          "y": 746.53125,
+          "width": 350,
+          "height": 27.59375,
+          "top": 746.53125,
+          "right": 370,
+          "bottom": 774.125,
+          "left": 20
+        },
+        "font": "24px"
+      },
+      {
+        "text": "Agree the asset, surfaces and areas of concern. Access and operating conditions shape the scope; a drone view does not replace every form of investigation.",
+        "rect": {
+          "x": 20,
+          "y": 790.125,
+          "width": 350,
+          "height": 67.5,
+          "top": 790.125,
+          "right": 370,
+          "bottom": 857.625,
+          "left": 20
+        },
+        "font": "15px"
+      },
+      {
+        "text": "What will you receive?",
+        "rect": {
+          "x": 20,
+          "y": 1189.625,
+          "width": 350,
+          "height": 27.59375,
+          "top": 1189.625,
+          "right": 370,
+          "bottom": 1217.21875,
+          "left": 20
+        },
+        "font": "24px"
+      },
+      {
+        "text": "Discuss the photographs, video or other documentation needed for your decision. Coverage, format and any thermal requirement are agreed for the specific brief.",
+        "rect": {
+          "x": 20,
+          "y": 1233.21875,
+          "width": 350,
+          "height": 90,
+          "top": 1233.21875,
+          "right": 370,
+          "bottom": 1323.21875,
+          "left": 20
+        },
+        "font": "15px"
+      },
+      {
+        "text": "What happens after the inspection?",
+        "rect": {
+          "x": 20,
+          "y": 1655.21875,
+          "width": 350,
+          "height": 55.1875,
+          "top": 1655.21875,
+          "right": 370,
+          "bottom": 1710.40625,
+          "left": 20
+        },
+        "font": "24px"
+      },
+      {
+        "text": "Use the agreed views to discuss further investigation or maintenance. If the next task needs physical access, Skyriders’ rope-access work is scoped separately.",
+        "rect": {
+          "x": 20,
+          "y": 1726.40625,
+          "width": 350,
+          "height": 67.5,
+          "top": 1726.40625,
+          "right": 370,
+          "bottom": 1793.90625,
+          "left": 20
+        },
+        "font": "15px"
+      },
+      {
+        "text": "FROM INSPECTION\nTO INFORMED DECISIONS",
+        "rect": {
+          "x": 20,
+          "y": 2088.90625,
+          "width": 159.8125,
+          "height": 30,
+          "top": 2088.90625,
+          "right": 179.8125,
+          "bottom": 2118.90625,
+          "left": 20
+        },
+        "font": "10px"
+      },
+      {
+        "text": "SAFER ASSETS.\nLONGER LIFE.",
+        "rect": {
+          "x": 275.921875,
+          "y": 2088.90625,
+          "width": 94.078125,
+          "height": 30,
+          "top": 2088.90625,
+          "right": 370,
+          "bottom": 2118.90625,
+          "left": 275.921875
+        },
+        "font": "10px"
+      }
+    ],
+    "bounds": {
+      "x": 0,
+      "y": 100.171875,
+      "width": 390,
+      "height": 2050.734375,
+      "top": 100.171875,
+      "right": 390,
+      "bottom": 2150.90625,
+      "left": 0
+    }
+  },
+  {
+    "width": 320,
+    "height": 2127,
+    "overflow": false,
+    "text": [
+      {
+        "text": "Confidence / Know what you’re commissioning",
+        "rect": {
+          "x": 20,
+          "y": 136.328125,
+          "width": 280,
+          "height": 36.375,
+          "top": 136.328125,
+          "right": 300,
+          "bottom": 172.703125,
+          "left": 20
+        },
+        "font": "13px"
+      },
+      {
+        "text": "Clear scope.\nAn informed next step.",
+        "rect": {
+          "x": 20,
+          "y": 196.703125,
+          "width": 280,
+          "height": 128.375,
+          "top": 196.703125,
+          "right": 300,
+          "bottom": 325.078125,
+          "left": 20
+        },
+        "font": "40px"
+      },
+      {
+        "text": "Before you commission an inspection, establish what will be covered, what will be documented and who will use the evidence.",
+        "rect": {
+          "x": 20,
+          "y": 347.078125,
+          "width": 280,
+          "height": 92.75,
+          "top": 347.078125,
+          "right": 300,
+          "bottom": 439.828125,
+          "left": 20
+        },
+        "font": "16px"
+      },
+      {
+        "text": "Discuss your inspection",
+        "rect": {
+          "x": 20,
+          "y": 463.828125,
+          "width": 236.71875,
+          "height": 48,
+          "top": 463.828125,
+          "right": 256.71875,
+          "bottom": 511.828125,
+          "left": 20
+        },
+        "font": "16px"
+      },
+      {
+        "text": "AERIAL INSPECTION / STRUCTURAL ASSETS / ACTIONABLE EVIDENCE",
+        "rect": {
+          "x": 20,
+          "y": 539.828125,
+          "width": 280,
+          "height": 30,
+          "top": 539.828125,
+          "right": 300,
+          "bottom": 569.828125,
+          "left": 20
+        },
+        "font": "10px"
+      },
+      {
+        "text": "What will be inspected?",
+        "rect": {
+          "x": 20,
+          "y": 798.96875,
+          "width": 280,
+          "height": 27.59375,
+          "top": 798.96875,
+          "right": 300,
+          "bottom": 826.5625,
+          "left": 20
+        },
+        "font": "24px"
+      },
+      {
+        "text": "Agree the asset, surfaces and areas of concern. Access and operating conditions shape the scope; a drone view does not replace every form of investigation.",
+        "rect": {
+          "x": 20,
+          "y": 842.5625,
+          "width": 280,
+          "height": 90,
+          "top": 842.5625,
+          "right": 300,
+          "bottom": 932.5625,
+          "left": 20
+        },
+        "font": "15px"
+      },
+      {
+        "text": "What will you receive?",
+        "rect": {
+          "x": 20,
+          "y": 1249.890625,
+          "width": 280,
+          "height": 27.59375,
+          "top": 1249.890625,
+          "right": 300,
+          "bottom": 1277.484375,
+          "left": 20
+        },
+        "font": "24px"
+      },
+      {
+        "text": "Discuss the photographs, video or other documentation needed for your decision. Coverage, format and any thermal requirement are agreed for the specific brief.",
+        "rect": {
+          "x": 20,
+          "y": 1293.484375,
+          "width": 280,
+          "height": 112.5,
+          "top": 1293.484375,
+          "right": 300,
+          "bottom": 1405.984375,
+          "left": 20
+        },
+        "font": "15px"
+      },
+      {
+        "text": "What happens after the inspection?",
+        "rect": {
+          "x": 20,
+          "y": 1723.3125,
+          "width": 280,
+          "height": 55.1875,
+          "top": 1723.3125,
+          "right": 300,
+          "bottom": 1778.5,
+          "left": 20
+        },
+        "font": "24px"
+      },
+      {
+        "text": "Use the agreed views to discuss further investigation or maintenance. If the next task needs physical access, Skyriders’ rope-access work is scoped separately.",
+        "rect": {
+          "x": 20,
+          "y": 1794.5,
+          "width": 280,
+          "height": 90,
+          "top": 1794.5,
+          "right": 300,
+          "bottom": 1884.5,
+          "left": 20
+        },
+        "font": "15px"
+      },
+      {
+        "text": "FROM INSPECTION\nTO INFORMED DECISIONS",
+        "rect": {
+          "x": 20,
+          "y": 2157.328125,
+          "width": 134.390625,
+          "height": 45,
+          "top": 2157.328125,
+          "right": 154.390625,
+          "bottom": 2202.328125,
+          "left": 20
+        },
+        "font": "10px"
+      },
+      {
+        "text": "SAFER ASSETS.\nLONGER LIFE.",
+        "rect": {
+          "x": 205.921875,
+          "y": 2164.828125,
+          "width": 94.078125,
+          "height": 30,
+          "top": 2164.828125,
+          "right": 300,
+          "bottom": 2194.828125,
+          "left": 205.921875
+        },
+        "font": "10px"
+      }
+    ],
+    "bounds": {
+      "x": 0,
+      "y": 100.328125,
+      "width": 320,
+      "height": 2126.5,
+      "top": 100.328125,
+      "right": 320,
+      "bottom": 2226.828125,
+      "left": 0
+    }
+  }
+]

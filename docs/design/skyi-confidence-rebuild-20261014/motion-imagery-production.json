@@ -1,0 +1,919 @@
+{
+  "origin": "http://localhost:3106",
+  "results": [
+    {
+      "width": 1916,
+      "frames": [
+        {
+          "kind": "confidence-scene",
+          "delay": "80",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(76.8px) rotate(1.5deg) scale(1.03)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1400
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "520",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "200",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "0.5",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "delay": "40",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-64px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "140",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "delay": "240",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-64px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "320",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "420",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "delay": "0",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-64px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-roll",
+          "delay": "160",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(-64px, 24px) rotate(-6deg)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1250
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "80",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-layer",
+          "delay": "80",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(25.6px, 32px) rotateY(-12deg) matrix(1, 0.344328, 0, 1, 0, 0)"
+            },
+            {
+              "opacity": "1",
+              "transform": "matrix(1, 0.344328, 0, 1, 0, 0)"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-layer",
+          "delay": "200",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(25.6px, 32px) rotateY(-12deg) matrix(1, 0.344328, 0, 1, 0, 0)"
+            },
+            {
+              "opacity": "1",
+              "transform": "matrix(1, 0.344328, 0, 1, 0, 0)"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-layer",
+          "delay": "320",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(25.6px, 32px) rotateY(-12deg) matrix(1, 0.344328, 0, 1, 0, 0)"
+            },
+            {
+              "opacity": "1",
+              "transform": "matrix(1, 0.344328, 0, 1, 0, 0)"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "440",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "right",
+          "delay": "160",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(64px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "200",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-64px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "right",
+          "delay": "180",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(64px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        }
+      ],
+      "settled": [
+        {
+          "kind": "confidence-scene",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "0.5",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-roll",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-layer",
+          "opacity": "1",
+          "transform": "matrix(1, 0.344328, 0, 1, 0, 0)",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-layer",
+          "opacity": "1",
+          "transform": "matrix(1, 0.344328, 0, 1, 0, 0)",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-layer",
+          "opacity": "1",
+          "transform": "matrix(1, 0.344328, 0, 1, 0, 0)",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "right",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-rule",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "right",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        }
+      ],
+      "hiddenState": "simulated",
+      "hidden": true,
+      "menuPaused": "desktop menu not shown",
+      "offscreenResume": true,
+      "liveReduced": true
+    },
+    {
+      "width": 390,
+      "frames": [
+        {
+          "kind": "confidence-scene",
+          "delay": "80",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(36px) rotate(1.5deg) scale(1.03)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1400
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "200",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "0.3",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "delay": "40",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-30px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "140",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "delay": "240",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-30px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "320",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "420",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "delay": "0",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-30px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-roll",
+          "delay": "160",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(-30px, 24px) rotate(-6deg)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1250
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "80",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-layer",
+          "delay": "80",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(12px, 32px) rotateY(-12deg) matrix(1, 0.344328, 0, 1, 0, 0)"
+            },
+            {
+              "opacity": "1",
+              "transform": "matrix(1, 0.344328, 0, 1, 0, 0)"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-layer",
+          "delay": "200",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(12px, 32px) rotateY(-12deg) matrix(1, 0.344328, 0, 1, 0, 0)"
+            },
+            {
+              "opacity": "1",
+              "transform": "matrix(1, 0.344328, 0, 1, 0, 0)"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-layer",
+          "delay": "320",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translate(12px, 32px) rotateY(-12deg) matrix(1, 0.344328, 0, 1, 0, 0)"
+            },
+            {
+              "opacity": "1",
+              "transform": "matrix(1, 0.344328, 0, 1, 0, 0)"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-fade",
+          "delay": "440",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "right",
+          "delay": "160",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(30px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "confidence-center",
+          "delay": "200",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateY(40px) scale(0.96)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "left",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(-30px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        },
+        {
+          "kind": "right",
+          "delay": "180",
+          "frames": [
+            {
+              "opacity": "0",
+              "transform": "translateX(30px)"
+            },
+            {
+              "opacity": "1",
+              "transform": "none"
+            }
+          ],
+          "duration": 1100
+        }
+      ],
+      "settled": [
+        {
+          "kind": "confidence-scene",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "0.3",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-roll",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-layer",
+          "opacity": "1",
+          "transform": "matrix(1, 0.344328, 0, 1, 0, 0)",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-layer",
+          "opacity": "1",
+          "transform": "matrix(1, 0.344328, 0, 1, 0, 0)",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-layer",
+          "opacity": "1",
+          "transform": "matrix(1, 0.344328, 0, 1, 0, 0)",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-fade",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "right",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "confidence-center",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "left",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        },
+        {
+          "kind": "right",
+          "opacity": "1",
+          "transform": "none",
+          "animations": 0
+        }
+      ],
+      "hiddenState": "simulated",
+      "hidden": true,
+      "menuPaused": true,
+      "offscreenResume": true,
+      "liveReduced": true
+    },
+    {
+      "retinaWidth": 1916,
+      "deviceScaleFactor": 2,
+      "sources": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=3840&q=90",
+          "naturalWidth": 584,
+          "renderWidth": 1256.90625,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=750&q=90",
+          "naturalWidth": 325,
+          "renderWidth": 297.421875,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=640&q=90",
+          "naturalWidth": 229,
+          "renderWidth": 128.8125,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=640&q=90",
+          "naturalWidth": 229,
+          "renderWidth": 128.8125,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=640&q=90",
+          "naturalWidth": 229,
+          "renderWidth": 128.8125,
+          "mask": "none"
+        }
+      ],
+      "assets": [
+        {
+          "url": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=640&q=90",
+          "bytes": 157440,
+          "type": "image/webp"
+        },
+        {
+          "url": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=750&q=90",
+          "bytes": 204166,
+          "type": "image/webp"
+        },
+        {
+          "url": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=3840&q=90",
+          "bytes": 320592,
+          "type": "image/webp"
+        }
+      ],
+      "encodedBodies": 682198
+    },
+    {
+      "retinaWidth": 390,
+      "deviceScaleFactor": 2,
+      "sources": [
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=828&q=90",
+          "naturalWidth": 390,
+          "renderWidth": 390,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=640&q=90",
+          "naturalWidth": 299,
+          "renderWidth": 300,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "naturalWidth": 140,
+          "renderWidth": 133,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "naturalWidth": 140,
+          "renderWidth": 133,
+          "mask": "none"
+        },
+        {
+          "src": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "naturalWidth": 140,
+          "renderWidth": 133,
+          "mask": "none"
+        }
+      ],
+      "assets": [
+        {
+          "url": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-evidence-generated-20261014.png&w=384&q=90",
+          "bytes": 55930,
+          "type": "image/webp"
+        },
+        {
+          "url": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-access-generated-20261014.png&w=640&q=90",
+          "bytes": 158306,
+          "type": "image/webp"
+        },
+        {
+          "url": "http://localhost:3106/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-scene-generated-v2-20261014.png&w=828&q=90",
+          "bytes": 103572,
+          "type": "image/webp"
+        }
+      ],
+      "encodedBodies": 317808
+    }
+  ],
+  "errors": []
+}

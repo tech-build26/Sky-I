@@ -1,0 +1,99 @@
+[
+  {
+    "floatingCount": 0,
+    "hash": "#contact",
+    "height": 740,
+    "order": [
+      "opening",
+      "about",
+      "services",
+      "industries",
+      "impact",
+      "testimonials",
+      "safety",
+      "contact"
+    ],
+    "overflow": false,
+    "scenario": "320px Contact after tooltip blur",
+    "tooltipOpen": "false",
+    "width": 320
+  },
+  {
+    "active": "contact",
+    "brief": "Inspection area: Outside a structure\nSite conditions: Planned downtime\nEvidence to discuss: Video\n\nSite / asset:\nArea of concern:\nPreferred timing:",
+    "floatingCount": 0,
+    "hash": "#contact",
+    "height": 740,
+    "overflow": false,
+    "scenario": "320px selected brief handoff",
+    "width": 320
+  },
+  {
+    "floatingCount": 0,
+    "hash": "#contact",
+    "height": 844,
+    "overflow": false,
+    "scenario": "390px help",
+    "tooltipOpen": "true",
+    "width": 390
+  },
+  {
+    "checked": "Outside a structure",
+    "confidenceNext": "safety",
+    "height": 390,
+    "overflow": false,
+    "safetyNext": "contact",
+    "scenario": "844px landscape builder",
+    "width": 844
+  },
+  {
+    "active": "contact",
+    "brief": "Inspection area: Inside an asset\nSite conditions: Planned downtime\nEvidence to discuss: Video\n\nSite / asset:\nArea of concern:\nPreferred timing:\n\nInspection area: Outside a structure\nSite conditions: Planned downtime\nEvidence to discuss: Video\n\nSite / asset:\nArea of concern:\nPreferred timing:",
+    "floatingCount": 0,
+    "hash": "#contact",
+    "height": 900,
+    "order": [
+      "opening",
+      "about",
+      "services",
+      "industries",
+      "impact",
+      "testimonials",
+      "safety",
+      "contact"
+    ],
+    "overflow": false,
+    "scenario": "1440px production keyboard brief handoff",
+    "width": 1440
+  },
+  {
+    "activeName": "About sending your enquiry",
+    "floatingCount": 0,
+    "hash": "#contact",
+    "height": 740,
+    "overflow": false,
+    "scenario": "320px production native help tap",
+    "tooltipOpen": "true",
+    "width": 320
+  },
+  {
+    "active": "opening",
+    "hash": "#opening",
+    "scenario": "320px production floating keyboard return from Services"
+  },
+  {
+    "active": "opening",
+    "hash": "#opening",
+    "scenario": "320px production footer keyboard return"
+  },
+  {
+    "active": "contact",
+    "brief": "Inspection area: Outside a structure\nSite conditions: Planned downtime\nEvidence to discuss: Video\n\nSite / asset:\nArea of concern:\nPreferred timing:",
+    "floatingCount": 0,
+    "hash": "#contact",
+    "height": 900,
+    "overflow": false,
+    "scenario": "1440px production clean keyboard brief handoff",
+    "width": 1440
+  }
+]

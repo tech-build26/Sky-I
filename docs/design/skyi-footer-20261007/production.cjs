@@ -1,0 +1,12 @@
+const fs=require('fs');
+const assert=(v,m)=>{if(!v) throw Error(m)};
+const home=fs.readFileSync('web/.next-footer-review/server/app/home.html','utf8');
+const root=fs.readFileSync('web/.next-footer-review/server/app/index.html','utf8');
+assert(!/localhost|127\.0\.0\.1/.test(home+root),'production includes local origins');
+assert(home.includes('https://skyi.co.za/home/'),'canonical');
+const footer=home.slice(home.indexOf('<footer'),home.indexOf('</footer>'));
+assert(footer.includes('href="https://ropeaccess.co.za/"'),'sister root');
+assert(footer.includes('tel:+27113120450')&&footer.includes('tel:+27136925219')&&footer.includes('mailto:info@ropeaccess.co.za'),'contact links');
+assert(!footer.includes('A clearer view.')&&!footer.includes('Let’s look ahead.'),'repeated CTA');
+fs.writeFileSync('docs/design/skyi-footer-20261007/production.json',JSON.stringify({baseline:'Next.js 16.3.8',build:true,canonical:'https://skyi.co.za/home/',sisterRoot:'https://ropeaccess.co.za/',noLocalOrigins:true,contactLinks:true},null,2));
+console.log('Production canonical, public sister root, contact links and no localhost: pass');

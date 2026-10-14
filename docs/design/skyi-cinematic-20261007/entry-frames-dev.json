@@ -1,0 +1,245 @@
+[
+  {
+    "at": 1791347714473,
+    "city": "0.15",
+    "cover": "0.905642",
+    "ink": "0",
+    "logo": null,
+    "phase": "departing",
+    "title": null
+  },
+  {
+    "at": 1791347714567,
+    "city": "0.15",
+    "cover": "0.999928",
+    "ink": "0",
+    "logo": null,
+    "phase": "departing",
+    "title": null
+  },
+  {
+    "at": 1791347714653,
+    "city": "0.15",
+    "cover": "1",
+    "ink": "0",
+    "logo": null,
+    "phase": "departing",
+    "title": null
+  },
+  {
+    "at": 1791347714768,
+    "city": "0.15",
+    "cover": "1",
+    "ink": "0",
+    "logo": null,
+    "phase": "departing",
+    "title": null
+  },
+  {
+    "at": 1791347714947,
+    "city": "0.15",
+    "cover": "1",
+    "ink": "0",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715116,
+    "city": "0.323043",
+    "cover": "1",
+    "ink": "0.315655",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715237,
+    "city": "0.442808",
+    "cover": "1",
+    "ink": "0.521188",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715335,
+    "city": "0.529704",
+    "cover": "1",
+    "ink": "0.644391",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715455,
+    "city": "0.61486",
+    "cover": "1",
+    "ink": "0.745628",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715589,
+    "city": "0.705184",
+    "cover": "1",
+    "ink": "0.836443",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715725,
+    "city": "0.764204",
+    "cover": "1",
+    "ink": "0.888202",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715875,
+    "city": "0.819199",
+    "cover": "1",
+    "ink": "0.931153",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347715991,
+    "city": "0.853538",
+    "cover": "1",
+    "ink": "0.954956",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716104,
+    "city": "0.874757",
+    "cover": "1",
+    "ink": "0.968194",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716190,
+    "city": "0.900239",
+    "cover": "1",
+    "ink": "0.982153",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716310,
+    "city": "0.921116",
+    "cover": "1",
+    "ink": "0.991464",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716426,
+    "city": "0.936732",
+    "cover": "1",
+    "ink": "0.996663",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716536,
+    "city": "0.94644",
+    "cover": "1",
+    "ink": "0.998844",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716673,
+    "city": "0.963395",
+    "cover": "1",
+    "ink": "1",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716802,
+    "city": "0.973721",
+    "cover": "1",
+    "ink": "1",
+    "logo": "1",
+    "phase": "arriving",
+    "title": "none"
+  },
+  {
+    "at": 1791347716979,
+    "city": "1",
+    "cover": "1",
+    "ink": "1",
+    "logo": "0",
+    "phase": "revealing",
+    "title": "matrix(1, 0, 0, 1, -75, 0)"
+  },
+  {
+    "at": 1791347717146,
+    "city": "1",
+    "cover": "1",
+    "ink": "1",
+    "logo": "0.393725",
+    "phase": "revealing",
+    "title": "matrix(1, 0, 0, 1, -75, 0)"
+  },
+  {
+    "at": 1791347717286,
+    "city": "1",
+    "cover": "0.565212",
+    "ink": "1",
+    "logo": "0.645226",
+    "phase": "revealing",
+    "title": "matrix(1, 0, 0, 1, -58.8973, 0)"
+  },
+  {
+    "at": 1791347717399,
+    "city": "1",
+    "cover": "0.254382",
+    "ink": "1",
+    "logo": "0.777318",
+    "phase": "revealing",
+    "title": "matrix(1, 0, 0, 1, -38.7252, 0)"
+  },
+  {
+    "at": 1791347717522,
+    "city": "1",
+    "cover": "0.0984882",
+    "ink": "1",
+    "logo": "0.866289",
+    "phase": "revealing",
+    "title": "matrix(1, 0, 0, 1, -23.5711, 0)"
+  },
+  {
+    "at": 1791347717638,
+    "city": "1",
+    "cover": "0.0289506",
+    "ink": "1",
+    "logo": "0.920857",
+    "phase": "revealing",
+    "title": "matrix(1, 0, 0, 1, -14.4359, 0)"
+  },
+  {
+    "at": 1791347717841,
+    "city": "0.15",
+    "cover": "1",
+    "ink": "0",
+    "logo": "0.974127",
+    "phase": "idle",
+    "title": "matrix(1, 0, 0, 1, -5.72188, 0)"
+  }
+]

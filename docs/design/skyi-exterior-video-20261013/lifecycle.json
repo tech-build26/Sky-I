@@ -1,0 +1,58 @@
+{
+  "before": {
+    "paused": false,
+    "time": 0.415039,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "reduced": {
+    "paused": true,
+    "time": 0.45117,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "resumed": {
+    "paused": false,
+    "time": 0.92422,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "offscreen": {
+    "paused": true,
+    "time": 0.973582,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "hidden": {
+    "hidden": false,
+    "paused": false,
+    "time": 1.728116,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "simulatedHidden": {
+    "paused": true,
+    "time": 1.729039,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "foreground": {
+    "paused": false,
+    "time": 2.14574,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "contact": {
+    "hash": "#contact",
+    "paused": true,
+    "time": 2.18645,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "menu": {
+    "paused": true,
+    "time": 2.63493,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "menuResumed": {
+    "paused": false,
+    "time": 3.025268,
+    "src": "/videos/exterior-inspection.mp4"
+  },
+  "saveData": {
+    "src": null,
+    "paused": true
+  }
+}

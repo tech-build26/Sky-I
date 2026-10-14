@@ -1,0 +1,11 @@
+{
+  "aboutOpen": true,
+  "windowWashing": true,
+  "mining": true,
+  "nineQuotes": {
+    "duplicatesHidden": true,
+    "static": "true",
+    "unique": 9
+  },
+  "consoleErrors": []
+}

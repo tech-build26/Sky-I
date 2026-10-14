@@ -1,12 +1,22 @@
 "use client";
 
-import { useEffect, useRef, useState, type CSSProperties } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore, type CSSProperties } from "react";
 import Image from "next/image";
 import { useInView } from "motion/react";
 import { skyIScenes } from "@/content/skyi-scenes";
 import { useSkyIMotion } from "./SkyIProvider";
 import styles from "./SkyI.module.css";
 import { ScrambleText } from "../ui/scramble-text";
+
+function subscribeEntry(callback: () => void) {
+  window.addEventListener("brand-entry-reveal", callback);
+  window.addEventListener("brand-entry-ready", callback);
+  return () => { window.removeEventListener("brand-entry-reveal", callback); window.removeEventListener("brand-entry-ready", callback); };
+}
+function entryActive() {
+  const phase = document.querySelector<HTMLElement>(".brand-entry-overlay")?.dataset.phase;
+  return phase !== "revealing" && (document.documentElement.hasAttribute("data-brand-entry") || (!!phase && phase !== "idle"));
+}
 
 export function SkyIPhotography() {
   const { paused, menuOpen } = useSkyIMotion();
@@ -16,11 +26,12 @@ export function SkyIPhotography() {
   const [previous, setPrevious] = useState(-1);
   const [hidden, setHidden] = useState(false);
   const [focused, setFocused] = useState(false);
+  const entering = useSyncExternalStore(subscribeEntry, entryActive, () => true);
   const [failed, setFailed] = useState<number[]>([]);
   const revealed = useRef(0);
   const current = failed.includes(active) ? skyIScenes.findIndex((_, index) => !failed.includes(index)) : active;
   const scene = skyIScenes[Math.max(0, current)];
-  const stopped = paused || menuOpen || hidden || !visible || focused;
+  const stopped = paused || menuOpen || hidden || !visible || focused || entering;
 
   useEffect(() => {
     const change = () => setHidden(document.hidden);

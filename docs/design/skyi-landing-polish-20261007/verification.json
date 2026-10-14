@@ -1,0 +1,58 @@
+{
+  "nativeMissingNameBlocked": true,
+  "invalidEmailBlocked": true,
+  "keyboardOrder": [
+    {
+      "name": "Email",
+      "outline": "solid"
+    },
+    {
+      "name": "Service",
+      "outline": "solid"
+    },
+    {
+      "name": "Message",
+      "outline": "solid"
+    },
+    {
+      "name": "Prepare email",
+      "outline": "solid"
+    }
+  ],
+  "windowWashingSelectorOpensMatchingService": true,
+  "sectorChecks": [
+    {
+      "inline": false,
+      "openCount": 0
+    },
+    {
+      "inline": true,
+      "openCount": 1,
+      "selected": "Mining↗"
+    },
+    {
+      "inline": true,
+      "openCount": 1,
+      "selected": "Petroleum & petrochemical↗"
+    },
+    {
+      "inline": true,
+      "openCount": 1,
+      "selected": "Construction↗"
+    },
+    {
+      "inline": true,
+      "openCount": 1,
+      "selected": "Facilities maintenance↗"
+    },
+    {
+      "inline": true,
+      "openCount": 1,
+      "selected": "Municipal infrastructure↗"
+    }
+  ],
+  "headerRestoredAtOpening": true,
+  "capturedConsoleErrors": [],
+  "noJsAndReducedMotion": "Source paths inspected; not live-emulated in this pass",
+  "mailDelivery": "Email-draft handoff retained; no server delivery or external mail-app opening tested"
+}

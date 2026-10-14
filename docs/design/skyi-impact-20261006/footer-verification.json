@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "footerUnobstructed": true,
+      "headerRestored": true
+    },
+    {
+      "width": 390,
+      "footerUnobstructed": true,
+      "headerRestored": true
+    },
+    {
+      "width": 320,
+      "footerUnobstructed": true,
+      "headerRestored": true
+    }
+  ],
+  "noJsAbsoluteHeader": true
+}

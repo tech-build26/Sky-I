@@ -1,0 +1,10 @@
+Sky I — inspection brief
+
+Name: Local review
+Company: Review
+Email: review@example.com
+Phone: —
+Industry: Mining
+Asset: Tank
+Location: Midrand
+Inspection question: Review the interior condition.

@@ -24,7 +24,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       suppressHydrationWarning
       className={`${jost.variable} ${cormorant.variable}`}
     >
-      <head><script dangerouslySetInnerHTML={{ __html: "try{const e=new URLSearchParams(location.search).get('_entry');if(location.pathname.replace(/\\/$/,'')==='/home'&&(e==='skyriders'||e==='skyi')&&!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.dataset.brandEntry=e}catch{}" }} /></head>
+      <head><script dangerouslySetInnerHTML={{ __html: "try{if(location.pathname.replace(/\\/$/,'')==='/home'&&!matchMedia('(prefers-reduced-motion: reduce)').matches){document.documentElement.dataset.heroPending='true';const e=new URLSearchParams(location.search).get('_entry');if(e==='skyriders'||e==='skyi')document.documentElement.dataset.brandEntry=e}}catch{}" }} /></head>
       <body suppressHydrationWarning>{children}<BrandEntry /></body>
     </html>
   );

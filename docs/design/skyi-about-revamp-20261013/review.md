@@ -1,0 +1,17 @@
+# Sky I About reference revision — 13 October 2026
+
+Authority: Ishe's supplied A Remote View, Closer Understanding.png and instruction to match its left explanation, three right drone tiles and lower rope-access panel, while using discretion for the background. He separately requests blue Solution in the first hero message, consistent with need. The requested layout and generation are implementation-authorised; final owner visual review remains separate.
+
+The section uses a cool mineral-blue gradient rather than repeating the charcoal texture or adding another background photograph. The hero photograph fades into #181e20 at its lower edge; About begins at that exact colour and moves into #284b5b, then returns to the existing Services' #111b20. The supplied layout, original paragraphs, tracked serif/body rhythm, More about Sky I action, partner copy and sister root remain. Solution / need / closer / your all use the shared #01b0fc accent; source words are stored separately from presentation.
+
+The three generated portrait images and wide rope image follow the owner's composition reference and original equipment. Built-in imagegen was used, with the facade marking corrected from the initial SC95 misreading to the source SC35. These are illustrative settings, not real sites, clients, personnel or case studies. Alt text says illustration; the decorative rope scene has empty alt. All generator masters, original product cutouts, pre-landing photography and the former About image are preserved. Exact workspace outputs and prompt set: assets.md.
+
+Desktop keeps text left and three separate photo strips right. Tablet places the photograph row below the text; narrow mobile stacks the photos with readable captions. The lower partner panel stays visible, with its image at right on desktop and below the copy on mobile. More about Sky I is a real native fragment link to that panel with keyboard focus and 120px anchor clearance. No unbuilt About route or new service scope is introduced.
+
+The existing SkyIReveals controller owns finite text/photo entries, including masked heading spans. Native scroll adds at most 10px of photographic depth in either direction; fine-pointer hover increases photo scale from 1.055 to 1.095. Reduced motion/no-JS retain static content. No new motion library, idle loop, scroll trapping, subject glow or hero layout change. The hero's opening-copy transition remains intact.
+
+Desktop review caught aspect-ratio sizing that pushed the photo strips beyond their allocated columns without producing document overflow. Explicit tile width now keeps separate frames inside the gallery; verification includes internal bounds/gaps. The rope image's crop was adjusted so the helmet remains visible in the short desktop panel.
+
+Validation evidence is recorded in verification.json and paired desktop/mobile PNGs. Production build (Next.js 16.3.8 / TypeScript) and lint pass. Seven layouts, native story focus/offset, sister-root routing, hover, boundary pixels, reduced/no-JS/failed-art and public/development routing receive focused browser checks. Physical devices/other engines, actual field performance and release gates are not covered by this local review.
+
+Next: Ishe reviews the blue opening emphasis, hero/About blend and reference-based About section at http://localhost:3006/home/#about. Then agree Safety/Projects full content/compositions and resume S03-L. No deployment or packaging.

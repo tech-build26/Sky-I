@@ -1,0 +1,40 @@
+const {chromium}=require('C:/Users/ISHE-GAMING/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const fs=require('fs');
+const folder='docs/design/skyi-landing-finish-20261013/';
+const origin=process.argv[2]||'http://localhost:3006';
+const assert=(value,label)=>{if(!value)throw Error(label)};
+(async()=>{
+ const browser=await chromium.launch({channel:'chrome',headless:true});const errors=[],checks=[];
+ const context=await browser.newContext({viewport:{width:1440,height:1000}});const page=await context.newPage();page.on('pageerror',e=>errors.push(e.message));
+ await page.goto(origin+'/home/#industries');await page.waitForTimeout(2000);
+ for(const text of ['Safety','Projects']){
+  const nav=page.locator('#skyi-desktop-nav').getByText(text,{exact:true});await nav.hover();await page.waitForTimeout(400);
+  const style=await nav.evaluate(n=>({colour:getComputedStyle(n).color,line:getComputedStyle(n,'::after').transform}));assert(style.colour==='rgb(1, 176, 252)'&&style.line==='matrix(1, 0, 0, 1, 0, 0)','nav hover '+text);checks.push({nav:text,...style});
+ }
+ assert(await page.locator('#skyi-desktop-nav a[href="#safety"]').count()===1,'safety real target');assert(await page.locator('#skyi-desktop-nav [aria-disabled=true]').innerText()==='Projects','projects pending');
+ for(let i=0;i<6;i++){const detail=page.locator('#industries details').nth(i);if(await detail.getAttribute('open')===null){await detail.locator('summary').focus();await page.keyboard.press('Enter');}await page.waitForTimeout(1500);assert(await page.locator('#industries details[open]').count()===1,'sector exclusive');assert(await detail.locator('a').isVisible(),'sector action');}
+ await page.locator('#safety').evaluate(n=>n.scrollIntoView({block:'start'}));await page.waitForTimeout(1600);
+ await page.locator('input[name=skyi-plan-view]').nth(1).focus();await page.keyboard.press('Space');await page.locator('input[name=skyi-plan-conditions]').nth(1).focus();await page.keyboard.press('Space');await page.locator('input[name=skyi-plan-evidence]').nth(2).focus();await page.keyboard.press('Space');
+ assert((await page.locator('#safety [aria-live]').innerText()).includes('Outside a structure'),'planning live statement');assert((await page.locator('#safety').innerText()).includes('Thermal suitability'),'thermal qualification');
+ await page.locator('textarea[name=Message]').fill('Existing site note.');await page.locator('#safety a[href="#contact"]').click();await page.waitForTimeout(1500);
+ const message=await page.locator('textarea[name=Message]').inputValue();assert(message.startsWith('Existing site note.')&&message.includes('Outside a structure')&&message.includes('Planned downtime')&&message.includes('Discuss thermal'),'planning handoff preserves draft');assert(await page.locator('#contact').evaluate(n=>Math.abs(n.getBoundingClientRect().top-120)<10),'contact anchor clearance');
+ await page.locator('input[name=Name]').fill('Review');await page.locator('input[name=Email]').fill('bad-address');assert(!await page.locator('form[aria-label="Sky I enquiry"]').evaluate(n=>n.checkValidity()),'invalid email');await page.locator('input[name=Email]').fill('review@example.com');assert(await page.locator('form[aria-label="Sky I enquiry"]').evaluate(n=>n.checkValidity()),'valid enquiry');
+ const info=page.getByRole('button',{name:'About preparing email'});await info.focus();assert(await page.locator('#skyi-email-info').getAttribute('data-open')==='true','info focus');await page.keyboard.press('Escape');assert(await page.locator('#skyi-email-info').getAttribute('data-open')==='false','info Escape');
+ await page.locator('#testimonials').evaluate(n=>n.scrollIntoView({block:'start'}));await page.waitForTimeout(1800);await page.mouse.move(700,200);
+ const columns=page.locator('#testimonials [aria-label^="Sample quotes"]');await columns.nth(0).hover();await page.waitForTimeout(100);
+ const play=await page.locator('[data-testimonial-track]').evaluateAll(ns=>ns.map(n=>getComputedStyle(n).animationPlayState));assert(play[0]==='paused'&&play[1]==='running'&&play[2]==='running','hover pauses only one');await columns.nth(1).focus();assert(await columns.nth(1).locator('[data-testimonial-track]').evaluate(n=>getComputedStyle(n).animationPlayState)==='paused','keyboard pause');
+ await page.getByRole('button',{name:'Read all',exact:true}).click();assert(await page.locator('#testimonials').getAttribute('data-static')==='true','read all');assert(await page.locator('#testimonials [data-copy="0"] blockquote').count()===9,'all nine quotes');
+ await page.getByRole('button',{name:'Return to the moving view'}).click();await page.emulateMedia({reducedMotion:'reduce'});await page.waitForTimeout(200);assert(await page.locator('#testimonials').getAttribute('data-static')==='true','live reduced motion');
+ await page.locator('#skyi-footer').evaluate(n=>n.scrollIntoView({block:'end'}));await page.waitForTimeout(300);assert(await page.locator('a[aria-label="Back to top"]').count()===0,'footer no duplicate return');assert(await page.locator('#skyi-footer a[href="#opening"]').isVisible(),'footer return');
+ await page.screenshot({path:folder+'footer-viewport.png'});checks.push({keyboard:true,handoff:message,quotes:play,formValidation:true,liveReduced:true,footer:true});
+ if(origin.includes('3016')){assert(await page.locator('link[rel=canonical]').getAttribute('href')==='https://skyi.co.za/home/','canonical');assert(await page.locator('#skyi-sister-logo').getAttribute('href')==='https://ropeaccess.co.za/','public sister root');assert(!/href="http:\/\/localhost/.test(await page.content()),'production localhost');}
+ await context.close();
+ for(const options of [{viewport:{width:390,height:844},isMobile:true,hasTouch:true},{viewport:{width:320,height:700},javaScriptEnabled:false,reducedMotion:'reduce'},{viewport:{width:390,height:844},failure:true}]){
+  const {failure,...settings}=options;const ctx=await browser.newContext(settings);const p=await ctx.newPage();p.on('pageerror',e=>errors.push(e.message));if(failure)await p.route('**/_next/image?**',r=>r.abort());await p.goto(origin+'/home/#industries');await p.waitForTimeout(1800);
+  for(let i=0;i<6;i++){const detail=p.locator('#industries details').nth(i);if(await detail.getAttribute('open')===null){if(options.hasTouch)await detail.locator('summary').tap();else{await detail.locator('summary').focus();await p.keyboard.press('Enter');}}await p.waitForTimeout(1400);assert(await detail.locator('a').isVisible(),'fallback sector');if(options.hasTouch)assert(await detail.locator('summary').evaluate(n=>n.getBoundingClientRect().top>=100),'tap clearance '+i);}
+  if(options.hasTouch){await p.getByRole('button',{name:'Menu',exact:false}).click();await p.waitForTimeout(800);await p.locator('#skyi-menu a[href="#safety"]').click();await p.waitForTimeout(1600);assert(await p.locator('#safety').evaluate(n=>n===document.activeElement),'mobile safety focus');await p.locator('input[name=skyi-plan-view]').nth(1).locator('..').tap();await p.locator('#safety a[href="#contact"]').tap();await p.waitForTimeout(1600);assert((await p.locator('textarea[name=Message]').inputValue()).includes('Outside a structure'),'touch handoff');}
+  if(options.javaScriptEnabled===false){assert(await p.locator('form[aria-label="Sky I enquiry"]').isHidden(),'no-JS form');assert(await p.locator('#contact a[href^="mailto:"]').isVisible(),'no-JS email');assert(await p.locator('#testimonials [data-copy="0"] blockquote').count()===9,'no-JS quotes');}
+  assert(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'fallback overflow');await p.screenshot({path:folder+(failure?'failed-art':options.hasTouch?'touch':'no-js')+'.png'});checks.push(options);await ctx.close();
+ }
+ assert(errors.length===0,'page errors');fs.writeFileSync(folder+(origin.includes('3016')?'verification':'development-verification')+'.json',JSON.stringify({checks,errors},null,2));await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

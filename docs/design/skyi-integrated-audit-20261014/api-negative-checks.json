@@ -1,0 +1,31 @@
+[
+  {
+    "name": "missing fields",
+    "status": 400,
+    "expected": 400,
+    "body": {
+      "message": "Please check the highlighted fields.",
+      "errors": {
+        "name": "Enter your name (up to 120 characters).",
+        "email": "Enter a valid email address.",
+        "message": "Describe your enquiry in up to 2000 characters."
+      }
+    }
+  },
+  {
+    "name": "foreign origin",
+    "status": 403,
+    "expected": 403,
+    "body": {
+      "message": "Please submit the form from the Sky I website."
+    }
+  },
+  {
+    "name": "wrong content type",
+    "status": 415,
+    "expected": 415,
+    "body": {
+      "message": "Please use the enquiry form."
+    }
+  }
+]

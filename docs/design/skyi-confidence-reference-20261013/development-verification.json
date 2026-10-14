@@ -1,0 +1,169 @@
+{
+  "origin": "http://localhost:3006",
+  "results": [
+    {
+      "layoutWidth": 1672,
+      "passed": true,
+      "sectionHeight": 794.375,
+      "closingClearance": 45.8125
+    },
+    {
+      "layoutWidth": 1440,
+      "passed": true,
+      "sectionHeight": 808.984375,
+      "closingClearance": 45.8125
+    },
+    {
+      "layoutWidth": 1280,
+      "passed": true,
+      "sectionHeight": 772.625,
+      "closingClearance": 45.8125
+    },
+    {
+      "layoutWidth": 1200,
+      "passed": true,
+      "sectionHeight": 760.21875,
+      "closingClearance": 45.8125
+    },
+    {
+      "layoutWidth": 1199,
+      "passed": true,
+      "sectionHeight": 1245.734375,
+      "closingClearance": 464
+    },
+    {
+      "layoutWidth": 1024,
+      "passed": true,
+      "sectionHeight": 1227.296875,
+      "closingClearance": 464
+    },
+    {
+      "layoutWidth": 768,
+      "passed": true,
+      "sectionHeight": 1190.421875,
+      "closingClearance": 464
+    },
+    {
+      "layoutWidth": 390,
+      "passed": true,
+      "sectionHeight": 1219.875,
+      "closingClearance": 336
+    },
+    {
+      "layoutWidth": 320,
+      "passed": true,
+      "sectionHeight": 1229.90625,
+      "closingClearance": 294
+    },
+    {
+      "layoutWidth": 844,
+      "passed": true,
+      "sectionHeight": 1201.359375,
+      "closingClearance": 464
+    },
+    {
+      "wide": 1920,
+      "width": 1920,
+      "compositionWidth": 1920,
+      "height": 827.171875,
+      "clearance": 45.8125,
+      "overflow": false
+    },
+    {
+      "wide": 2560,
+      "width": 2560,
+      "compositionWidth": 2560,
+      "height": 827.171875,
+      "clearance": 45.8125,
+      "overflow": false
+    },
+    {
+      "mode": "normal-desktop",
+      "slideIn": {
+        "frames": [
+          {
+            "transform": "translateX(-64px)",
+            "opacity": "0"
+          },
+          {
+            "transform": "none",
+            "opacity": "1"
+          }
+        ],
+        "duration": 1100
+      },
+      "settledGroups": 7
+    },
+    {
+      "mode": "normal-mobile",
+      "slideIn": {
+        "completed": true
+      },
+      "settledGroups": 7
+    },
+    {
+      "mode": "reduced",
+      "passed": true
+    },
+    {
+      "mode": "no-js",
+      "passed": true
+    },
+    {
+      "mode": "image-failure",
+      "passed": true
+    },
+    {
+      "lifecycle": "hidden pause/resume and live reduced motion",
+      "hiddenState": "simulated",
+      "passed": true
+    },
+    {
+      "zoom": "200% CSS zoom in Chrome",
+      "passed": true
+    },
+    {
+      "imageDeliveryWidth": 1440,
+      "assets": [
+        {
+          "url": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=1920&q=75",
+          "type": "image/webp",
+          "bytes": 176176
+        },
+        {
+          "url": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=384&q=75",
+          "type": "image/webp",
+          "bytes": 18508
+        },
+        {
+          "url": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=384&q=75",
+          "type": "image/webp",
+          "bytes": 13876
+        }
+      ],
+      "encodedImageBytes": 208560
+    },
+    {
+      "imageDeliveryWidth": 390,
+      "assets": [
+        {
+          "url": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-documentation-illustration-20261013.png&w=256&q=75",
+          "type": "image/webp",
+          "bytes": 9944
+        },
+        {
+          "url": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=256&q=75",
+          "type": "image/webp",
+          "bytes": 6458
+        },
+        {
+          "url": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fconfidence-industrial-illustration-20261013.png&w=828&q=75",
+          "type": "image/webp",
+          "bytes": 57108
+        }
+      ],
+      "encodedImageBytes": 73510
+    }
+  ],
+  "errors": []
+}

@@ -1,17 +1,19 @@
-// ===== Sky I photography-led hero =====
+// ===== Sky I service-first hero =====
 import { getSkyridersUrl, skyISite } from "@/config/site";
-import Link from "next/link";
-import { HardHat, ChartNoAxesColumnIncreasing, Leaf, UsersRound } from "lucide-react";
+import Image from "next/image";
 import { SkyIProvider } from "./SkyIProvider";
 import { SkyINavigation } from "./SkyINavigation";
-import { SkyIPhotography } from "./SkyIPhotography";
-import { SkyIControls } from "./SkyIControls";
+import { SkyIFooter } from "./SkyIFooter";
 import { SkyIDrone } from "./SkyIDrone";
 import { SkyISections } from "./SkyISections";
 import { SkyIReveals } from "./SkyIReveals";
 import { SkyIHeroMotion } from "./SkyIHeroMotion";
-import { ScrambleText } from "../ui/scramble-text";
+import { SkyIHeroBenefits } from "./SkyIHeroBenefits";
+import { SkyIParallaxTransition } from "./SkyIParallaxTransition";
+import { SkyIAbout } from "./SkyIAbout";
+import { skyIHero } from "@/content/skyi-hero";
 import styles from "./SkyI.module.css";
+import hero from "./SkyIHero.module.css";
 import "@/styles/skyi-tokens.css";
 
 export function SkyIHome({ skyridersHref }: { skyridersHref: string }) {
@@ -24,25 +26,33 @@ export function SkyIHome({ skyridersHref }: { skyridersHref: string }) {
     <SkyINavigation sisterUrl={sisterUrl} />
     {/* ===== Hero Section ===== */}
     <main id="skyi-main">
-      <section id="opening" className={styles.opening} aria-labelledby="skyi-title" tabIndex={-1}>
-        <SkyIPhotography />
-        <div className={styles.shade} aria-hidden="true" />
-        <span className={styles.vertical} data-hero-motion="left" data-hero-delay="400" data-scramble-enter><ScrambleText text="PERSPECTIVE / INSPECTION / UNDERSTANDING" /></span>
-        <SkyIDrone />
-        <div className={`${styles.container} ${styles.heroPrinciples}`} aria-label="Our priorities">
-          <span data-hero-motion="bottom" data-hero-delay="950" data-scramble-enter><HardHat aria-hidden="true" data-hero-motion="icon" data-hero-delay="1150" /><ScrambleText text="Reduced risk" /></span>
-          <span data-hero-motion="top" data-hero-delay="1030" data-scramble-enter><ChartNoAxesColumnIncreasing aria-hidden="true" data-hero-motion="icon" data-hero-delay="1230" /><ScrambleText text="Data driven" /></span>
-          <span data-hero-motion="bottom" data-hero-delay="1110" data-scramble-enter><Leaf aria-hidden="true" data-hero-motion="icon" data-hero-delay="1310" /><ScrambleText text="Sustainable solutions" /></span>
-          <span data-hero-motion="top" data-hero-delay="1190" data-scramble-enter><UsersRound aria-hidden="true" data-hero-motion="icon" data-hero-delay="1390" /><ScrambleText text="Expert support" /></span>
-          <p data-hero-motion="right" data-hero-delay="1250" data-scramble-enter><ScrambleText text="Real data." /><br /><em><ScrambleText text="Real outcomes." /></em></p>
+      <SkyIParallaxTransition>
+      <section id="opening" className={`${styles.opening} ${hero.hero}`} aria-labelledby="skyi-title" tabIndex={-1} data-parallax-layers>
+        <div className={hero.backdrop} aria-hidden="true" data-parallax-layer="1"><Image src="/images/skyi/charcoal-studio-floor-20261012.png" alt="" fill sizes="100vw" priority /></div>
+        <span className={hero.vertical} data-hero-enter="left">SKY I / DRONE SERVICES</span>
+        <div className={hero.introduction} data-intro-phase="initial" data-parallax-layer="2">
+          <div className={`${hero.introPanel} ${hero.initialPanel}`} data-intro-initial aria-hidden="true">
+            <p className={hero.eyebrow} data-hero-enter="down" data-hero-delay="80">{skyIHero.opening.eyebrow}</p>
+            <p className={`${hero.initialHeading} ${hero.revealMask}`}><span data-hero-enter="up" data-hero-delay="140">{skyIHero.opening.heading} <em>{skyIHero.opening.emphasis}</em></span></p>
+            <p className={hero.initialDescription} data-hero-enter="up" data-hero-delay="220">{skyIHero.opening.description}</p>
+          </div>
+          <div className={`${hero.introPanel} ${hero.finalPanel}`} data-intro-final>
+            <p className={hero.eyebrow} data-intro-enter="left">{skyIHero.eyebrow}</p>
+            <h1 id="skyi-title" className={`${hero.heading} ${hero.revealMask}`} tabIndex={-1}><span data-intro-enter="up">What do you <em>need</em> us to do?</span></h1>
+            <p className={hero.description} data-intro-enter="right">{skyIHero.description}</p>
+          </div>
         </div>
+        <SkyIDrone />
+        <SkyIHeroBenefits />
       </section>
-      <SkyISections sisterUrl={sisterUrl} />
+      <SkyIAbout sisterUrl={sisterUrl} />
+      </SkyIParallaxTransition>
+      <SkyISections />
     </main>
     <SkyIReveals />
     <SkyIHeroMotion />
     {/* ===== Footer Section ===== */}
-    <footer id="skyi-footer" className={styles.fullFooter}><div className={styles.container}><span className={styles.footerMark}>Sky I</span><div><a href="#contact">Contact the inspection team ↗</a><a href={sisterUrl}>Skyriders — access specialists ↗</a><Link href="/">Company selection ↗</Link><SkyIControls /></div><p>Industrial drone inspection · South Africa</p></div></footer>
+    <SkyIFooter sisterUrl={sisterUrl} />
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }} />
   </SkyIProvider>;
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tanks-and-silos",
+    "top": 100.21875
+  },
+  {
+    "id": "external-inspections",
+    "top": 154.078125
+  },
+  {
+    "id": "buildings-and-roofs",
+    "top": 99.9375
+  },
+  {
+    "id": "thermal-inspections",
+    "top": 153.796875
+  },
+  {
+    "id": "internal-inspections",
+    "top": 371.359375
+  }
+]

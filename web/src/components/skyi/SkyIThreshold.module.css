@@ -1,0 +1,8 @@
+.threshold { position:relative; isolation:isolate; height:clamp(115px,15vw,216px); margin-bottom:-1px; overflow:hidden; background:#111b20; pointer-events:none; }
+.threshold svg { display:block; width:100%; height:100%; }
+.surface { fill:#f0ece3; }
+.rim { fill:none; stroke:#d8af7b; stroke-width:1.2; opacity:.55; }
+.invitation { position:absolute; top:18%; left:var(--gutter); color:#f0ece3; font:400 clamp(4rem,10.5vw,10rem)/.95 var(--sky-display); letter-spacing:-.05em; mix-blend-mode:difference; translate:calc((var(--aperture-progress,.5) - .5) * 44px) 0; }
+.invitation em { font-weight:400; }
+@media(max-width:767px) { .threshold { height:110px; } .invitation { top:24%; font-size:clamp(2.9rem,14vw,5rem); } }
+@media(prefers-reduced-motion:reduce) { .invitation { translate:none; } }

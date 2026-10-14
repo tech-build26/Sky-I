@@ -1,0 +1,14 @@
+{
+  "origin": "http://localhost:3006",
+  "checks": [
+    "normal hero/CTA and direct contact",
+    "real API validation/configuration, zero real mail",
+    "dual fallback and tooltip",
+    "mobile planning handoff, server failure/preservation, field error, mocked dual acceptance",
+    "native process disclosure",
+    "no-JS native services/direct contact",
+    "failed-image contact/bounds"
+  ],
+  "errors": [],
+  "smtp": "mocked; no production credentials or real messages"
+}

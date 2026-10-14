@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-06",
+  "checks": [
+    {
+      "active": "opening",
+      "overflow": false,
+      "progress": "--aperture-progress: 0.534;",
+      "scroll": 497,
+      "stage": "threshold-mid"
+    },
+    {
+      "active": "about",
+      "overflow": false,
+      "progress": "--aperture-progress: 1.000;",
+      "scroll": 1217,
+      "stage": "about-pass-one"
+    },
+    {
+      "active": "opening",
+      "progress": "--aperture-progress: 0.000;",
+      "scroll": 0,
+      "stage": "hero-return-one"
+    },
+    {
+      "active": "about",
+      "progress": "--aperture-progress: 1.000;",
+      "scroll": 1215,
+      "stage": "about-pass-two"
+    },
+    {
+      "active": "opening",
+      "currentLinks": 0,
+      "progress": "--aperture-progress: 0.000;",
+      "scroll": 0,
+      "stage": "hero-return-two"
+    },
+    {
+      "active": "about",
+      "overflow": false,
+      "progress": "--aperture-progress: 1.000;",
+      "scroll": 1013,
+      "stage": "mobile-390",
+      "threshold": {
+        "bottom": 73.125,
+        "height": 110,
+        "left": 0,
+        "right": 375,
+        "top": -36.875,
+        "width": 375,
+        "x": 0,
+        "y": -36.875
+      }
+    },
+    {
+      "active": "opening",
+      "overflow": false,
+      "progress": "--aperture-progress: 0.537;",
+      "scroll": 635,
+      "stage": "mobile-320-reverse"
+    },
+    {
+      "active": "opening",
+      "currentLinks": 0,
+      "overflow": false,
+      "progress": "--aperture-progress: 0.000;",
+      "scroll": 0,
+      "stage": "mobile-hero-return"
+    },
+    {
+      "overflow": false,
+      "stage": "landscape",
+      "viewport": [
+        740,
+        390
+      ]
+    }
+  ],
+  "browserErrors": []
+}

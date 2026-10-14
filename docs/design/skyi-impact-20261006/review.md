@@ -1,0 +1,24 @@
+# Sky I Impact / footer / responsive finish — 6 October 2026
+
+Owner request: remove the Approach, Safety and Projects sections; add one left-aligned impact CTA on a dark-to-light gradient, with a right-slanting photographic boundary and drone crossing onto the gradient. Preserve Contact, strengthen the footer and polish the whole landing. This explicitly overrides the old diagonal prohibition for this CTA only.
+
+## Composition and content
+
+SkyIImpact separates business copy (`content/skyi-impact.ts`), presentation (CSS Module) and motion. Reuses the already authorised illustrative infrastructure scene decoratively and the supplied `/images/elios_3.png`; no new generated image, client/project claim, invented equipment or source alteration. The photograph is clipped; the drone is a separate transparent layer over both surfaces. Mobile copy takes the full width above a separate image/drone stage. Custom underline/circular-arrow CTA reaches the existing Contact section. Reduced motion and absent JavaScript retain all content/actions.
+
+SkyIFooter uses the actual supplied transparent artwork, both offices, phone links and shared email from the owner's 1 October confirmation in `docs/research/findings.md`. No extra office, invented hours/legal identity/accreditation or unbuilt privacy route. Sister links always use the validated destination root. Social accounts remain clearly labelled as Skyriders' pages. Contact JSX/form is unchanged; it drafts email/downloads a brief and does not submit to a server.
+
+Navigation retires deleted destinations and adds Impact. Existing hero, About, threshold, service assets and pre-landing edits are preserved. Old section/footer CSS and process reveal recipe are removed. Services retains its shutter presentation while automatic rotation respects visibility, focus/hover, hidden tab, menu and reduced motion; both timeouts clear on unmount, state updates no longer nest, native disclosure close state follows the actual element, and anchors clear navigation. Mobile Menu has a 44px target. Both logos and Elios have alpha channels/non-opaque pixels; their original bytes are retained.
+
+## Validation
+
+- `npm run lint`, `npm run typecheck`, isolated `NEXT_BUILD_DIR=.next-impact-review npm run build`: pass on pinned Next.js 16.3.8. Build-only tsconfig additions removed; existing wildcard type inclusion retained.
+- Initial complete section inspection: 1440×1000, 1366×768, 1024×768, 768×1024, 390×844, 320×700, 740×390. Seven sections each; no horizontal overflow, escaped text or broken loaded image. `layout-*.json`, `errors.json`.
+- Final affected-layout pass: 1440×1000, 390×844, 320×700, 740×390, 720×450. All sections still fit. Photo clearance from mobile CTA note: 100px at 320/390, greater in landscape. 720×450 is a viewport equivalent for a 1440×900 display at 200%, not an actual browser zoom test. `finish.json`.
+- Ten focused groups: section removal/anchor validity/single h1; distinct impact image/drone/copy entrances and keyboard CTA/focus; three service selectors and offscreen suspension; validated downloaded brief and honest message; footer office details/public root/return; mobile menu isolation/Impact focus/Escape return; reduced motion; no JavaScript; failed decorative images; development header/pre-landing roots. All pass with zero page exceptions: `verification.json`.
+- Additional Services visible playback test: Internal changes to External while visible, outside hover/focus; offscreen stability was independently checked for longer than its interval. `finish.json`.
+- Production root/home HTML: correct `https://skyi.co.za/home/` canonical; public `https://ropeaccess.co.za/` handoffs; no localhost; removed copy absent; impact and both footer phone links present. `finish.json`.
+- Final footer correction: geometry tracking includes the footer, so fixed identities/navigation/socials yield to its own links/contact details. Back to top restores the header. 1440/390/320 checks verify both states; 320 no-JS verifies absolute header placement and accessible footer phones. `footer-verification.json`.
+- Final images: `impact-final-1440.jpg`, `impact-final-390.jpg`, `impact-final-320.jpg`, plus landscape/zoom-equivalent captures; refreshed `footer-final-1440.jpg`, `footer-final-390.jpg`, `footer-final-320.jpg` show the footer without the fixed header. Earlier viewport captures are retained as the evidence which prompted the correction. Browser review is Chrome on Windows.
+
+No field performance claim, physical-device/other-engine certification, actual mail delivery, hosting approval or deployment. Afrihost/runtime, service/legal inventory and final visual acceptance gates remain open. Exact next task: Ishe reviews the complete local page at `http://localhost:3006/home/` under S03-L; then agree S04-A standalone-page scope. Deeper About/service routes remain deferred.

@@ -1,0 +1,154 @@
+{
+  "views": [
+    {
+      "width": 1440,
+      "height": 1044,
+      "accents": {
+        "solution": "rgb(1, 176, 252)",
+        "need": "rgb(1, 176, 252)",
+        "closer": "rgb(1, 176, 252)",
+        "your": "rgb(1, 176, 252)"
+      },
+      "overflow": false,
+      "tiles": [
+        {
+          "rect": {
+            "x": 647.984375,
+            "y": 249.09375,
+            "width": 249.890625,
+            "height": 494.796875,
+            "top": 249.09375,
+            "right": 897.875,
+            "bottom": 743.890625,
+            "left": 647.984375
+          },
+          "caption": {
+            "x": 648.984375,
+            "y": 598.28125,
+            "width": 247.890625,
+            "height": 144.609375,
+            "top": 598.28125,
+            "right": 896.875,
+            "bottom": 742.890625,
+            "left": 648.984375
+          },
+          "title": "TANK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 895.90625,
+            "y": 249.09375,
+            "width": 249.890625,
+            "height": 494.796875,
+            "top": 249.09375,
+            "right": 1145.796875,
+            "bottom": 743.890625,
+            "left": 895.90625
+          },
+          "caption": {
+            "x": 896.90625,
+            "y": 598.28125,
+            "width": 247.890625,
+            "height": 144.609375,
+            "top": 598.28125,
+            "right": 1144.796875,
+            "bottom": 742.890625,
+            "left": 896.90625
+          },
+          "title": "STACK INSPECTIONS"
+        },
+        {
+          "rect": {
+            "x": 1143.828125,
+            "y": 249.09375,
+            "width": 249.890625,
+            "height": 494.796875,
+            "top": 249.09375,
+            "right": 1393.71875,
+            "bottom": 743.890625,
+            "left": 1143.828125
+          },
+          "caption": {
+            "x": 1144.828125,
+            "y": 598.28125,
+            "width": 247.890625,
+            "height": 144.609375,
+            "top": 598.28125,
+            "right": 1392.71875,
+            "bottom": 742.890625,
+            "left": 1144.828125
+          },
+          "title": "BUILDING SURVEYS"
+        }
+      ],
+      "copy": {
+        "x": 72,
+        "y": 249.09375,
+        "width": 525.59375,
+        "height": 494.796875,
+        "top": 249.09375,
+        "right": 597.59375,
+        "bottom": 743.890625,
+        "left": 72
+      },
+      "photos": [
+        {
+          "loaded": true,
+          "alt": "Illustration of a caged inspection drone inside an industrial tank",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-tank-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of a white inspection drone beside an industrial stack",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-stack-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "Illustration of an industrial drone beside a glass building facade",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-facade-20261013.png&w=384&q=75"
+        },
+        {
+          "loaded": true,
+          "alt": "",
+          "src": "http://localhost:3020/_next/image/?url=%2Fimages%2Fskyi%2Fabout-rope-20261013.png&w=1920&q=75"
+        }
+      ],
+      "partner": {
+        "x": 72,
+        "y": 775.890625,
+        "width": 1296,
+        "height": 258.40625,
+        "top": 775.890625,
+        "right": 1368,
+        "bottom": 1034.296875,
+        "left": 72
+      },
+      "headingHeight": 141.34375,
+      "headingLineHeight": 58.212,
+      "background": "linear-gradient(rgb(24, 30, 32) 0px, rgb(33, 57, 67) 140px, rgb(40, 75, 91) 48%, rgb(32, 59, 73) 78%, rgb(17, 27, 32) 100%)",
+      "incomplete": []
+    }
+  ],
+  "errors": [],
+  "storyLink": {
+    "top": 119.890625,
+    "hash": "#skyi-about-story",
+    "focus": true
+  },
+  "hover": {
+    "before": "matrix(1.055, 0, 0, 1.055, 0, -5.03137)",
+    "after": "matrix(1.095, 0, 0, 1.095, 0, 1.38619)"
+  },
+  "seam": {
+    "upper": [
+      24,
+      30,
+      32
+    ],
+    "lower": [
+      24,
+      30,
+      32
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1140.421875,
+          "sectionBottom": 1501.90625,
+          "closingTop": 1215.546875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1140.421875,
+          "sectionBottom": 1501.90625,
+          "closingTop": 1215.546875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1140.421875,
+          "sectionBottom": 1501.90625,
+          "closingTop": 1215.546875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1081.421875,
+          "sectionBottom": 1442.90625,
+          "closingTop": 1156.546875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 522.421875,
+          "sectionBottom": 883.90625,
+          "closingTop": 597.546875,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1262.375,
+          "sectionBottom": 1657.53125,
+          "closingTop": 1337.328125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1220.0625,
+          "sectionBottom": 1657.53125,
+          "closingTop": 1337.328125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1220.0625,
+          "sectionBottom": 1657.53125,
+          "closingTop": 1337.328125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1129.0625,
+          "sectionBottom": 1566.53125,
+          "closingTop": 1246.328125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 567.375,
+          "sectionBottom": 962.53125,
+          "closingTop": 642.328125,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1065.84375,
+          "sectionBottom": 1301.140625,
+          "closingTop": 1077.1875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1036.84375,
+          "sectionBottom": 1301.140625,
+          "closingTop": 1077.1875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 990.84375,
+          "sectionBottom": 1255.140625,
+          "closingTop": 1031.1875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 856,
+          "sectionBottom": 1146.140625,
+          "closingTop": 922.1875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 802.84375,
+          "sectionBottom": 1038.140625,
+          "closingTop": 814.1875,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1007.375,
+          "sectionBottom": 1703.140625,
+          "closingTop": 1463.5,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1010.296875,
+          "sectionBottom": 1600.03125,
+          "closingTop": 1360.390625,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1024.328125,
+          "sectionBottom": 1508.03125,
+          "closingTop": 1268.390625,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 565.359375,
+          "sectionBottom": 943.03125,
+          "closingTop": 703.390625,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 685.5,
+          "sectionBottom": 957.140625,
+          "closingTop": 717.5,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1270.75,
+          "sectionBottom": 2046.203125,
+          "closingTop": 1710.1875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 438.578125,
+          "sectionBottom": 1112.171875,
+          "closingTop": 776.15625,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 540.4375,
+          "sectionBottom": 1112.171875,
+          "closingTop": 776.15625,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 642.296875,
+          "sectionBottom": 1112.171875,
+          "closingTop": 776.15625,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 803.46875,
+          "sectionBottom": 1171.484375,
+          "closingTop": 835.46875,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 1321.5,
+          "sectionBottom": 2092.828125,
+          "closingTop": 1756.8125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 372.328125,
+          "sectionBottom": 1042.828125,
+          "closingTop": 706.8125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 473.15625,
+          "sectionBottom": 1042.828125,
+          "closingTop": 706.8125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 548.703125,
+          "sectionBottom": 1017.546875,
+          "closingTop": 681.53125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 708.84375,
+          "sectionBottom": 1076.859375,
+          "closingTop": 740.84375,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "bounds": [
+        {
+          "id": "internal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 987.234375,
+          "sectionBottom": 1681.1875,
+          "closingTop": 1441.546875,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "tanks-and-silos",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 225.84375,
+          "sectionBottom": 814.21875,
+          "closingTop": 574.578125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "external-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 331.421875,
+          "sectionBottom": 814.21875,
+          "closingTop": 574.578125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "buildings-and-roofs",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 390,
+          "sectionBottom": 767.21875,
+          "closingTop": 527.578125,
+          "colour": "rgb(1, 176, 252)"
+        },
+        {
+          "id": "thermal-inspections",
+          "overflow": false,
+          "open": 1,
+          "panelBottom": 269.546875,
+          "sectionBottom": 541.1875,
+          "closingTop": 301.546875,
+          "colour": "rgb(1, 176, 252)"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,4022 @@
+{
+  "environment": "development: layout/content only, no production performance or conversion measurement",
+  "results": [
+    {
+      "width": 1440,
+      "height": 8775,
+      "overflow": false,
+      "sections": [
+        {
+          "id": "opening",
+          "height": 1019,
+          "text": "SKY I / DRONE SERVICES\n\nSPECIALIST DRONE SERVICES\n\nWhat do you need us to do?\n\nChoose a service to explore how we can help.\n\nInternal\ninspections\nTanks, boilers & enclosed spaces\nExternal\ninspections\nRoofs, facades & structures\nWindow\nwashing\nGlazing & building exteriors\nREDUCED RISK\nDATA DRIVEN\nSUSTAINABLE SOLUTIONS\nEXPERT SUPPORT\n\nREAL DATA.\nREAL OUTCOMES.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(225, 223, 216)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "48.96px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "58.752px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.84px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.344px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "SPECIALIST DRONE SERVICES",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(225, 223, 216)"
+            },
+            {
+              "tag": "H1",
+              "text": "What do you need us to do?",
+              "size": "83.52px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "87.696px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Choose a service to explore how we can help.",
+              "size": "19.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "31.104px",
+              "color": "rgb(221, 220, 214)"
+            },
+            {
+              "tag": "P",
+              "text": "REAL DATA.\nREAL OUTCOMES.",
+              "size": "13.12px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.304px",
+              "color": "rgb(240, 236, 227)"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "height": 1044,
+          "text": "THE INSPECTION PERSPECTIVE\n\nA remote view.\nA closer understanding.\n\nInside a tank. Along a stack. Across a building’s exterior. Some conditions are difficult to see from the ground.\n\nWe’re Sky I. We use drones to inspect industrial interiors and exteriors, with window washing as a separate service.\n\nTell us the structure, location and area of concern. We’ll start by discussing access, site conditions and the work required.\n\nTHERE’S MORE TO OUR PERSPECTIVE.\n\nMore about Sky I\n01\nTANK INSPECTIONS\n\nInternal spaces, walls, roofs and bases\n\n02\nSTACK INSPECTIONS\n\nChimneys, stacks and tall structures\n\n03\nBUILDING SURVEYS\n\nFacades, cladding and structures\n\nDIFFERENT CHALLENGES.\nA CLEARER WAY FORWARD.\n\nIt starts with your question.\n\nAn interior inspection, an exterior survey and a window washing enquiry begin with different site questions. We discuss the area to cover, the conditions around it and the documentation or cleaning requirement before agreeing the approach.\n\nSky I brings the inspection perspective. When the next step needs physical access, Skyriders brings rope-access inspection, maintenance and repair.\n\nMeet Skyriders, our rope access sister company",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "THE INSPECTION PERSPECTIVE",
+              "size": "10.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "15.6px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "H2",
+              "text": "A remote view.\nA closer understanding.",
+              "size": "55.44px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "58.212px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Inside a tank. Along a stack. Across a building’s exterior. Some ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.08px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "We’re Sky I. We use drones to inspect industrial interiors and ex",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.08px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "Tell us the structure, location and area of concern. We’ll start ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.08px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "THERE’S MORE TO OUR PERSPECTIVE.",
+              "size": "9.6px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "01\nTANK INSPECTIONS\n\nInternal spaces, walls, roofs and bases",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Internal spaces, walls, roofs and bases",
+              "size": "12.48px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "02\nSTACK INSPECTIONS\n\nChimneys, stacks and tall structures",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Chimneys, stacks and tall structures",
+              "size": "12.48px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "03\nBUILDING SURVEYS\n\nFacades, cladding and structures",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Facades, cladding and structures",
+              "size": "12.48px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "DIFFERENT CHALLENGES.\nA CLEARER WAY FORWARD.",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "An interior inspection, an exterior survey and a window washing e",
+              "size": "14.72px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.816px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "Sky I brings the inspection perspective. When the next step needs",
+              "size": "14.72px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.816px",
+              "color": "rgb(237, 241, 237)"
+            }
+          ]
+        },
+        {
+          "id": "services",
+          "height": 1123,
+          "text": "SERVICES / A CLOSER LOOK\n\nBeyond the surface.\nInto the detail.\n\nA furnace wall. A tank interior. A roof you cannot see from the ground. Start with the asset, then explore the views that could inform your next maintenance decision.\n\nCHOOSE AN ASSET\n↘\n\nBoilers & ducting\nInside the process\nAt the access point. Inside the structure.\nOn site with Skyriders\n\nWhat is happening beyond the access point?\n\nLook into boiler internals and enclosed process spaces. Visual inspection can help identify areas that need closer investigation before maintenance is planned.\n\nBurners & wall blowers\nFurnace walls & elements\nBack-pass ducting\nVacuum furnaces\nTalk through this asset\nTanks & silos\nThe spaces within\nTowers & stacks\nA view at height\nBuildings & roofs\nAbove the everyday\nThermal inspection\nAnother layer of information\n\nTHE STARTING POINT\nTell us the asset.\nTell us what you need to understand.\n\nLooking for window washing?",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SERVICES / A CLOSER LOOK",
+              "size": "10.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.408px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "H2",
+              "text": "Beyond the surface.\nInto the detail.",
+              "size": "63.36px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "64.6272px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "A furnace wall. A tank interior. A roof you cannot see from the g",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "CHOOSE AN ASSET\n↘",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Boilers & ducting\nInside the process",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "At the access point. Inside the structure.\nOn site with Skyriders",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "What is happening beyond the access point?",
+              "size": "30.24px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.776px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Look into boiler internals and enclosed process spaces. Visual in",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Tanks & silos\nThe spaces within",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "30.24px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.776px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Towers & stacks\nA view at height",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "30.24px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.776px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Buildings & roofs\nAbove the everyday",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "30.24px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.776px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Thermal inspection\nAnother layer of information",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "30.24px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.776px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "THE STARTING POINT\nTell us the asset.\nTell us what you need to un",
+              "size": "36px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "43.2px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Looking for window washing?",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "24.48px",
+              "color": "rgb(200, 216, 221)"
+            }
+          ]
+        },
+        {
+          "id": "industries",
+          "height": 1156,
+          "text": "SECTORS / THE CONTEXT MATTERS\n\nIndustrial sites.\nSpecific questions.\n\nThe setting changes. The starting point stays practical: the asset, the access and what you need to see.\n\nPower generation\n\nBOILERS · DUCTING · STACKS\n\nPlant.\n\nWhich part of the plant needs a closer view?\n\nIdentify the internal or external area, the condition of concern and the plant’s operating status.\n\nBRING TO THE CONVERSATION\n\nAsset location, inspection area and available access.\n\nDiscuss your site\nMining\nPetroleum & petrochemical\nConstruction\nFacilities maintenance\nMunicipal infrastructure\nA site-specific conversation.\nAn inspection with a purpose.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SECTORS / THE CONTEXT MATTERS",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(190, 213, 223)"
+            },
+            {
+              "tag": "H2",
+              "text": "Industrial sites.\nSpecific questions.",
+              "size": "77.76px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "77.76px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "The setting changes. The starting point stays practical: the asse",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(190, 208, 217)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Power generation",
+              "size": "31.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "36.432px",
+              "color": "rgb(1, 176, 252)"
+            },
+            {
+              "tag": "P",
+              "text": "BOILERS · DUCTING · STACKS",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "Plant.",
+              "size": "103.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "98.496px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "Identify the internal or external area, the condition of concern ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "Asset location, inspection area and available access.",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Mining",
+              "size": "31.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "36.432px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "103.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "98.496px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Petroleum & petrochemical",
+              "size": "31.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "36.432px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "103.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "98.496px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Construction",
+              "size": "31.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "36.432px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "103.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "98.496px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Facilities maintenance",
+              "size": "31.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "36.432px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "103.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "98.496px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Municipal infrastructure",
+              "size": "31.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "36.432px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "103.68px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "98.496px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            }
+          ]
+        },
+        {
+          "id": "safety",
+          "height": 1017,
+          "text": "SAFETY & PREPARATION / BEFORE WE FLY\n\nA good inspection\nstarts on the ground.\n\nFrom boiler interiors to building exteriors, the right questions shape a useful inspection. Explore your site, its conditions and the views your team needs.\n\nArriving on site\nYOUR STARTING POINT\n\nInside an asset\nTo be confirmed.\nPhotographs.\n\nShape the inspection brief\nTry the choices below\n\nWhere do you need a view?\nInside an asset\n↗\nOutside a structure\n↗\nLet’s establish it\n↗\n\nTell us the entry points, internal dimensions and area of concern.\n\nWhat are the site conditions?\nIn operation\n↗\nPlanned downtime\n↗\nTo be confirmed\n↗\n\nThe team can discuss the information needed to scope the work.\n\nWhat will help your next decision?\nPhotographs\n↗\nVideo\n↗\nDiscuss thermal\n↗\n\nDefine the details and wider views your team needs to review.\n\nDiscuss your inspection\n\nSite access, permissions and inspection suitability need agreement before work is scheduled.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SAFETY & PREPARATION / BEFORE WE FLY",
+              "size": "11.04px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.664px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "H2",
+              "text": "A good inspection\nstarts on the ground.",
+              "size": "70.56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "71.9712px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "From boiler interiors to building exteriors, the right questions ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "Arriving on site",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "P",
+              "text": "Inside an asset\nTo be confirmed.\nPhotographs.",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Shape the inspection brief\nTry the choices below",
+              "size": "12.8px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "20.48px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Inside an asset\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Outside a structure\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Let’s establish it\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Tell us the entry points, internal dimensions and area of concern",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "In operation\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Planned downtime\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "To be confirmed\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "The team can discuss the information needed to scope the work.",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Photographs\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Video\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Discuss thermal\n↗",
+              "size": "18px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Define the details and wider views your team needs to review.",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "P",
+              "text": "Site access, permissions and inspection suitability need agreemen",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(62, 91, 105)"
+            }
+          ]
+        },
+        {
+          "id": "impact",
+          "height": 739,
+          "text": "A DIFFERENT PERSPECTIVE. A PRACTICAL NEXT STEP.\n\nBring the unseen\ninto focus.\n\nInspect an interior, examine an exterior or discuss window washing. Start with the site and the part of the asset that needs attention.\n\nLet’s talk about your asset\n\nA short enquiry is enough to begin.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "A DIFFERENT PERSPECTIVE. A PRACTICAL NEXT STEP.",
+              "size": "11.04px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.768px",
+              "color": "rgb(225, 193, 152)"
+            },
+            {
+              "tag": "H2",
+              "text": "Bring the unseen\ninto focus.",
+              "size": "80.64px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "78.2208px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Inspect an interior, examine an exterior or discuss window washin",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28px",
+              "color": "rgb(225, 228, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "A short enquiry is enough to begin.",
+              "size": "11.84px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.944px",
+              "color": "rgb(213, 219, 213)"
+            }
+          ]
+        },
+        {
+          "id": "testimonials",
+          "height": 1416,
+          "text": "“\n\nCLIENT CONFIDENCE\nDESIGN PREVIEW\n\nA fresh perspective.\nA few kind words.\n\nNine illustrative voices from South Africa and the region. Sample copy for design review; these are not actual client testimonials or evidence of regional work.\n\nEXTERIOR INSPECTION\n“\n\nA clearer view of the building helped us have a much more practical conversation about the maintenance work ahead.\n\nFacilities team\nGauteng, South Africa\nEXTERIOR INSPECTION\n“\n\nOn a large site, context matters. The wider views helped us relate the inspection area to the surrounding structures.\n\nMining operations team\nNorth West, South Africa\nINDUSTRIAL INSPECTION\n“\n\nFor our team, the useful part was having visual context to take into the planning meeting, rather than relying on descriptions alone.\n\nSite planning team\nGaborone, Botswana\nINTERNAL INSPECTION\n“\n\nThe value was in seeing the area we were discussing. It gave our site team and maintenance team a common starting point.\n\nPlant maintenance team\nMpumalanga, South Africa\nINTERNAL INSPECTION\n“\n\nBeing able to look at the enclosed space together made the next discussion with our engineers far more specific.\n\nIndustrial engineering team\nLimpopo, South Africa\nINDUSTRIAL INSPECTION\n“\n\nThe discussion began with the asset, the operating conditions and the area of concern. That is exactly where we wanted to start.\n\nInfrastructure team\nWindhoek, Namibia\nWINDOW WASHING\n“\n\nOur enquiry started with the condition of the windows and access around the property. The conversation stayed focused on what the site needed.\n\nProperty management team\nKwaZulu-Natal, South Africa\nEXTERIOR INSPECTION\n“\n\nWe needed a useful view of the roof and exterior before deciding where a closer examination would be worthwhile.\n\nBuilding maintenance team\nWestern Cape, South Africa\nEXTERIOR INSPECTION\n“\n\nClear views made it easier for colleagues in different locations to discuss the same part of the structure.\n\nProject coordination team\nMaputo, Mozambique",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "CLIENT CONFIDENCE\nDESIGN PREVIEW",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.92px",
+              "color": "rgb(181, 214, 230)"
+            },
+            {
+              "tag": "H2",
+              "text": "A fresh perspective.\nA few kind words.",
+              "size": "80.64px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "80.64px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Nine illustrative voices from South Africa and the region. Sample",
+              "size": "12.8px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.76px",
+              "color": "rgb(181, 209, 222)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view of the building helped us have a much more practic",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "On a large site, context matters. The wider views helped us relat",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "For our team, the useful part was having visual context to take i",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view of the building helped us have a much more practic",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "On a large site, context matters. The wider views helped us relat",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "For our team, the useful part was having visual context to take i",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The value was in seeing the area we were discussing. It gave our ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Being able to look at the enclosed space together made the next d",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The discussion began with the asset, the operating conditions and",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The value was in seeing the area we were discussing. It gave our ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Being able to look at the enclosed space together made the next d",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The discussion began with the asset, the operating conditions and",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Our enquiry started with the condition of the windows and access ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "We needed a useful view of the roof and exterior before deciding ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Clear views made it easier for colleagues in different locations ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Our enquiry started with the condition of the windows and access ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "We needed a useful view of the roof and exterior before deciding ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Clear views made it easier for colleagues in different locations ",
+              "size": "22.32px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.248px",
+              "color": "rgb(232, 240, 243)"
+            }
+          ]
+        },
+        {
+          "id": "contact",
+          "height": 798,
+          "text": "CONTACT / LET’S MAKE IT PRACTICAL\n\nYour site.\nYour question.\nLet’s talk.\n\nAn asset to inspect. A building to care for. A question that needs a clearer view. Tell us where to start.\n\ninfo@ropeaccess.co.za\nMidrand\n+27 11 312 0450\neMalahleni\n+27 13 692 5219\n\nA few details.\nA useful starting point.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "CONTACT / LET’S MAKE IT PRACTICAL",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.92px",
+              "color": "rgb(180, 212, 228)"
+            },
+            {
+              "tag": "H2",
+              "text": "Your site.\nYour question.\nLet’s talk.",
+              "size": "96.48px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "91.656px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "An asset to inspect. A building to care for. A question that need",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(183, 207, 219)"
+            },
+            {
+              "tag": "P",
+              "text": "A few details.\nA useful starting point.",
+              "size": "38.88px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "42.768px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Your name",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Email address",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Service optionalChoose a serviceInternal inspectionsExternal insp",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "What do you need?",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "12.8px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.76px",
+              "color": "rgb(189, 228, 246)"
+            }
+          ]
+        },
+        {
+          "id": "skyi-footer",
+          "height": 464,
+          "text": "SKY I / INDUSTRIAL DRONE SOLUTIONS\n\nA clearer view. A practical next step.\n\nBack to top\nKeep the conversation going\ninfo@ropeaccess.co.za\nAbout\nServices\nSectors\nBefore we fly\nContact\nMidrand\nGauteng\n44 Monte Carlo Crescent, Kyalami Business Park, Midrand, 1685\n+27 11 312 0450\neMalahleni\nMpumalanga\n24 Langa Crescent, Shop 2 & 6, Corridor Hill, eMalahleni\n+27 13 692 5219\nOur rope access sister company\nMeet Skyriders\nSkyriders social pages\n\n© 2026 Sky I · South Africa\n\nCompany selection",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SKY I / INDUSTRIAL DRONE SOLUTIONS",
+              "size": "10.56px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.896px",
+              "color": "rgb(168, 197, 212)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view. A practical next step.",
+              "size": "36px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "41.4px",
+              "color": "rgb(165, 221, 247)"
+            },
+            {
+              "tag": "H2",
+              "text": "Keep the conversation going",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "H2",
+              "text": "Midrand\nGauteng",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "H2",
+              "text": "eMalahleni\nMpumalanga",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "P",
+              "text": "© 2026 Sky I · South Africa",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.92px",
+              "color": "rgb(154, 185, 202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 14278,
+      "overflow": false,
+      "sections": [
+        {
+          "id": "opening",
+          "height": 968,
+          "text": "SPECIALIST DRONE SERVICES\n\nWhat do you need us to do?\n\nChoose a service to explore how we can help.\n\nInternal\ninspections\nTanks, boilers & enclosed spaces\nExternal\ninspections\nRoofs, facades & structures\nWindow\nwashing\nGlazing & building exteriors\nREDUCED RISK\nDATA DRIVEN\nSUSTAINABLE SOLUTIONS\nEXPERT SUPPORT\n\nREAL DATA.\nREAL OUTCOMES.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "15.104px",
+              "color": "rgb(225, 223, 216)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "26.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "31.68px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "10.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.408px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "SPECIALIST DRONE SERVICES",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "15.104px",
+              "color": "rgb(225, 223, 216)"
+            },
+            {
+              "tag": "H1",
+              "text": "What do you need us to do?",
+              "size": "40.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "39.984px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Choose a service to explore how we can help.",
+              "size": "13.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.504px",
+              "color": "rgb(221, 220, 214)"
+            },
+            {
+              "tag": "P",
+              "text": "REAL DATA.\nREAL OUTCOMES.",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.04px",
+              "color": "rgb(240, 236, 227)"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "height": 2843,
+          "text": "THE INSPECTION PERSPECTIVE\n\nA remote view.\nA closer understanding.\n\nInside a tank. Along a stack. Across a building’s exterior. Some conditions are difficult to see from the ground.\n\nWe’re Sky I. We use drones to inspect industrial interiors and exteriors, with window washing as a separate service.\n\nTell us the structure, location and area of concern. We’ll start by discussing access, site conditions and the work required.\n\nTHERE’S MORE TO OUR PERSPECTIVE.\n\nMore about Sky I\n01\nTANK INSPECTIONS\n\nInternal spaces, walls, roofs and bases\n\n02\nSTACK INSPECTIONS\n\nChimneys, stacks and tall structures\n\n03\nBUILDING SURVEYS\n\nFacades, cladding and structures\n\nDIFFERENT CHALLENGES.\nA CLEARER WAY FORWARD.\n\nIt starts with your question.\n\nAn interior inspection, an exterior survey and a window washing enquiry begin with different site questions. We discuss the area to cover, the conditions around it and the documentation or cleaning requirement before agreeing the approach.\n\nSky I brings the inspection perspective. When the next step needs physical access, Skyriders brings rope-access inspection, maintenance and repair.\n\nMeet Skyriders, our rope access sister company",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "THE INSPECTION PERSPECTIVE",
+              "size": "9.6px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "14.4px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "H2",
+              "text": "A remote view.\nA closer understanding.",
+              "size": "40px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "42px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Inside a tank. Along a stack. Across a building’s exterior. Some ",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.4px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "We’re Sky I. We use drones to inspect industrial interiors and ex",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.4px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "Tell us the structure, location and area of concern. We’ll start ",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.4px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "THERE’S MORE TO OUR PERSPECTIVE.",
+              "size": "9.6px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "01\nTANK INSPECTIONS\n\nInternal spaces, walls, roofs and bases",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Internal spaces, walls, roofs and bases",
+              "size": "14.08px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.12px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "02\nSTACK INSPECTIONS\n\nChimneys, stacks and tall structures",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Chimneys, stacks and tall structures",
+              "size": "14.08px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.12px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "03\nBUILDING SURVEYS\n\nFacades, cladding and structures",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Facades, cladding and structures",
+              "size": "14.08px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.12px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "DIFFERENT CHALLENGES.\nA CLEARER WAY FORWARD.",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "An interior inspection, an exterior survey and a window washing e",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.56px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "Sky I brings the inspection perspective. When the next step needs",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.56px",
+              "color": "rgb(237, 241, 237)"
+            }
+          ]
+        },
+        {
+          "id": "services",
+          "height": 1872,
+          "text": "SERVICES / A CLOSER LOOK\n\nBeyond the surface.\nInto the detail.\n\nA furnace wall. A tank interior. A roof you cannot see from the ground. Start with the asset, then explore the views that could inform your next maintenance decision.\n\nCHOOSE AN ASSET\n↘\n\nBoilers & ducting\nInside the process\nAt the access point. Inside the structure.\nOn site with Skyriders\n\nWhat is happening beyond the access point?\n\nLook into boiler internals and enclosed process spaces. Visual inspection can help identify areas that need closer investigation before maintenance is planned.\n\nBurners & wall blowers\nFurnace walls & elements\nBack-pass ducting\nVacuum furnaces\nTalk through this asset\nTanks & silos\nThe spaces within\nTowers & stacks\nA view at height\nBuildings & roofs\nAbove the everyday\nThermal inspection\nAnother layer of information\n\nTHE STARTING POINT\nTell us the asset.\nTell us what you need to understand.\n\nLooking for window washing?",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SERVICES / A CLOSER LOOK",
+              "size": "10.24px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.384px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "H2",
+              "text": "Beyond the surface.\nInto the detail.",
+              "size": "41.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "42.432px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "A furnace wall. A tank interior. A roof you cannot see from the g",
+              "size": "15.68px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.656px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "CHOOSE AN ASSET\n↘",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Boilers & ducting\nInside the process",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "At the access point. Inside the structure.\nOn site with Skyriders",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "What is happening beyond the access point?",
+              "size": "29.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Look into boiler internals and enclosed process spaces. Visual in",
+              "size": "14.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.296px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Tanks & silos\nThe spaces within",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "29.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.296px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Towers & stacks\nA view at height",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "29.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.296px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Buildings & roofs\nAbove the everyday",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "29.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.296px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Thermal inspection\nAnother layer of information",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "29.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.296px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "THE STARTING POINT\nTell us the asset.\nTell us what you need to un",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "34.56px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Looking for window washing?",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "24.48px",
+              "color": "rgb(200, 216, 221)"
+            }
+          ]
+        },
+        {
+          "id": "industries",
+          "height": 1401,
+          "text": "SECTORS / THE CONTEXT MATTERS\n\nIndustrial sites.\nSpecific questions.\n\nThe setting changes. The starting point stays practical: the asset, the access and what you need to see.\n\nPower generation\n\nBOILERS · DUCTING · STACKS\n\nPlant.\n\nWhich part of the plant needs a closer view?\n\nIdentify the internal or external area, the condition of concern and the plant’s operating status.\n\nBRING TO THE CONVERSATION\n\nAsset location, inspection area and available access.\n\nDiscuss your site\nMining\nPetroleum & petrochemical\nConstruction\nFacilities maintenance\nMunicipal infrastructure\nA site-specific conversation.\nAn inspection with a purpose.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SECTORS / THE CONTEXT MATTERS",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(190, 213, 223)"
+            },
+            {
+              "tag": "H2",
+              "text": "Industrial sites.\nSpecific questions.",
+              "size": "43.2px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "43.2px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "The setting changes. The starting point stays practical: the asse",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.92px",
+              "color": "rgb(190, 208, 217)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Power generation",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "28.52px",
+              "color": "rgb(1, 176, 252)"
+            },
+            {
+              "tag": "P",
+              "text": "BOILERS · DUCTING · STACKS",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "Plant.",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "Identify the internal or external area, the condition of concern ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "Asset location, inspection area and available access.",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Mining",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "28.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Petroleum & petrochemical",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "28.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Construction",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "28.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Facilities maintenance",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "28.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Municipal infrastructure",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "28.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            }
+          ]
+        },
+        {
+          "id": "safety",
+          "height": 1524,
+          "text": "SAFETY & PREPARATION / BEFORE WE FLY\n\nA good inspection starts on the ground.\n\nFrom boiler interiors to building exteriors, the right questions shape a useful inspection. Explore your site, its conditions and the views your team needs.\n\nArriving on site\nYOUR STARTING POINT\n\nInside an asset\nTo be confirmed.\nPhotographs.\n\nShape the inspection brief\nTry the choices below\n\nWhere do you need a view?\nInside an asset\n↗\nOutside a structure\n↗\nLet’s establish it\n↗\n\nTell us the entry points, internal dimensions and area of concern.\n\nWhat are the site conditions?\nIn operation\n↗\nPlanned downtime\n↗\nTo be confirmed\n↗\n\nThe team can discuss the information needed to scope the work.\n\nWhat will help your next decision?\nPhotographs\n↗\nVideo\n↗\nDiscuss thermal\n↗\n\nDefine the details and wider views your team needs to review.\n\nDiscuss your inspection\n\nSite access, permissions and inspection suitability need agreement before work is scheduled.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SAFETY & PREPARATION / BEFORE WE FLY",
+              "size": "11.04px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.664px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "H2",
+              "text": "A good inspection starts on the ground.",
+              "size": "42.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "43.248px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "From boiler interiors to building exteriors, the right questions ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "Arriving on site",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "P",
+              "text": "Inside an asset\nTo be confirmed.\nPhotographs.",
+              "size": "21.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "24.84px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Shape the inspection brief\nTry the choices below",
+              "size": "12.8px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "20.48px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Inside an asset\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Outside a structure\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Let’s establish it\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Tell us the entry points, internal dimensions and area of concern",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "In operation\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Planned downtime\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "To be confirmed\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "The team can discuss the information needed to scope the work.",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Photographs\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Video\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Discuss thermal\n↗",
+              "size": "16.37px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.192px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Define the details and wider views your team needs to review.",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "P",
+              "text": "Site access, permissions and inspection suitability need agreemen",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(62, 91, 105)"
+            }
+          ]
+        },
+        {
+          "id": "impact",
+          "height": 896,
+          "text": "A DIFFERENT PERSPECTIVE. A PRACTICAL NEXT STEP.\n\nBring the unseen\ninto focus.\n\nInspect an interior, examine an exterior or discuss window washing. Start with the site and the part of the asset that needs attention.\n\nLet’s talk about your asset\n\nA short enquiry is enough to begin.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "A DIFFERENT PERSPECTIVE. A PRACTICAL NEXT STEP.",
+              "size": "11.04px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.768px",
+              "color": "rgb(225, 193, 152)"
+            },
+            {
+              "tag": "H2",
+              "text": "Bring the unseen\ninto focus.",
+              "size": "48px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "46.56px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Inspect an interior, examine an exterior or discuss window washin",
+              "size": "15.36px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.88px",
+              "color": "rgb(225, 228, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "A short enquiry is enough to begin.",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(213, 219, 213)"
+            }
+          ]
+        },
+        {
+          "id": "testimonials",
+          "height": 3293,
+          "text": "“\n\nCLIENT CONFIDENCE\nDESIGN PREVIEW\n\nA fresh perspective.\nA few kind words.\n\nNine illustrative voices from South Africa and the region. Sample copy for design review; these are not actual client testimonials or evidence of regional work.\n\nEXTERIOR INSPECTION\n“\n\nA clearer view of the building helped us have a much more practical conversation about the maintenance work ahead.\n\nFacilities team\nGauteng, South Africa\nEXTERIOR INSPECTION\n“\n\nOn a large site, context matters. The wider views helped us relate the inspection area to the surrounding structures.\n\nMining operations team\nNorth West, South Africa\nINDUSTRIAL INSPECTION\n“\n\nFor our team, the useful part was having visual context to take into the planning meeting, rather than relying on descriptions alone.\n\nSite planning team\nGaborone, Botswana\nINTERNAL INSPECTION\n“\n\nThe value was in seeing the area we were discussing. It gave our site team and maintenance team a common starting point.\n\nPlant maintenance team\nMpumalanga, South Africa\nINTERNAL INSPECTION\n“\n\nBeing able to look at the enclosed space together made the next discussion with our engineers far more specific.\n\nIndustrial engineering team\nLimpopo, South Africa\nINDUSTRIAL INSPECTION\n“\n\nThe discussion began with the asset, the operating conditions and the area of concern. That is exactly where we wanted to start.\n\nInfrastructure team\nWindhoek, Namibia\nWINDOW WASHING\n“\n\nOur enquiry started with the condition of the windows and access around the property. The conversation stayed focused on what the site needed.\n\nProperty management team\nKwaZulu-Natal, South Africa\nEXTERIOR INSPECTION\n“\n\nWe needed a useful view of the roof and exterior before deciding where a closer examination would be worthwhile.\n\nBuilding maintenance team\nWestern Cape, South Africa\nEXTERIOR INSPECTION\n“\n\nClear views made it easier for colleagues in different locations to discuss the same part of the structure.\n\nProject coordination team\nMaputo, Mozambique",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "CLIENT CONFIDENCE\nDESIGN PREVIEW",
+              "size": "10.24px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.384px",
+              "color": "rgb(181, 214, 230)"
+            },
+            {
+              "tag": "H2",
+              "text": "A fresh perspective.\nA few kind words.",
+              "size": "44.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "44.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Nine illustrative voices from South Africa and the region. Sample",
+              "size": "12.8px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.76px",
+              "color": "rgb(181, 209, 222)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view of the building helped us have a much more practic",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "On a large site, context matters. The wider views helped us relat",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "For our team, the useful part was having visual context to take i",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view of the building helped us have a much more practic",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "On a large site, context matters. The wider views helped us relat",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "For our team, the useful part was having visual context to take i",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The value was in seeing the area we were discussing. It gave our ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Being able to look at the enclosed space together made the next d",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The discussion began with the asset, the operating conditions and",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The value was in seeing the area we were discussing. It gave our ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Being able to look at the enclosed space together made the next d",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The discussion began with the asset, the operating conditions and",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Our enquiry started with the condition of the windows and access ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "We needed a useful view of the roof and exterior before deciding ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Clear views made it easier for colleagues in different locations ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Our enquiry started with the condition of the windows and access ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "We needed a useful view of the roof and exterior before deciding ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Clear views made it easier for colleagues in different locations ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            }
+          ]
+        },
+        {
+          "id": "contact",
+          "height": 714,
+          "text": "CONTACT / LET’S MAKE IT PRACTICAL\n\nYour site.\nYour question.\nLet’s talk.\n\nAn asset to inspect. A building to care for. A question that needs a clearer view. Tell us where to start.\n\ninfo@ropeaccess.co.za\nMidrand\n+27 11 312 0450\neMalahleni\n+27 13 692 5219\n\nA few details.\nA useful starting point.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "CONTACT / LET’S MAKE IT PRACTICAL",
+              "size": "10.24px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.384px",
+              "color": "rgb(180, 212, 228)"
+            },
+            {
+              "tag": "H2",
+              "text": "Your site.\nYour question.\nLet’s talk.",
+              "size": "56px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "53.2px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "An asset to inspect. A building to care for. A question that need",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(183, 207, 219)"
+            },
+            {
+              "tag": "P",
+              "text": "A few details.\nA useful starting point.",
+              "size": "35.2px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "38.72px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Your name",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Email address",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Service optionalChoose a serviceInternal inspectionsExternal insp",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "What do you need?",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "12.8px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.76px",
+              "color": "rgb(189, 228, 246)"
+            }
+          ]
+        },
+        {
+          "id": "skyi-footer",
+          "height": 768,
+          "text": "SKY I / INDUSTRIAL DRONE SOLUTIONS\n\nA clearer view. A practical next step.\n\nBack to top\nKeep the conversation going\ninfo@ropeaccess.co.za\nAbout\nServices\nSectors\nBefore we fly\nContact\nMidrand\nGauteng\n44 Monte Carlo Crescent, Kyalami Business Park, Midrand, 1685\n+27 11 312 0450\neMalahleni\nMpumalanga\n24 Langa Crescent, Shop 2 & 6, Corridor Hill, eMalahleni\n+27 13 692 5219\nOur rope access sister company\nMeet Skyriders\nSkyriders social pages\n\n© 2026 Sky I · South Africa\n\nCompany selection",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SKY I / INDUSTRIAL DRONE SOLUTIONS",
+              "size": "9.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "14.848px",
+              "color": "rgb(168, 197, 212)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view. A practical next step.",
+              "size": "26.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "30.36px",
+              "color": "rgb(165, 221, 247)"
+            },
+            {
+              "tag": "H2",
+              "text": "Keep the conversation going",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "H2",
+              "text": "Midrand\nGauteng",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "H2",
+              "text": "eMalahleni\nMpumalanga",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "P",
+              "text": "© 2026 Sky I · South Africa",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.92px",
+              "color": "rgb(154, 185, 202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "width": 740,
+      "height": 12143,
+      "overflow": false,
+      "sections": [
+        {
+          "id": "opening",
+          "height": 928,
+          "text": "SPECIALIST DRONE SERVICES\n\nWhat do you need us to do?\n\nChoose a service to explore how we can help.\n\nInternal\ninspections\nTanks, boilers & enclosed spaces\nExternal\ninspections\nRoofs, facades & structures\nWindow\nwashing\nGlazing & building exteriors\nREDUCED RISK\nDATA DRIVEN\nSUSTAINABLE SOLUTIONS\nEXPERT SUPPORT\n\nREAL DATA.\nREAL OUTCOMES.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "15.104px",
+              "color": "rgb(225, 223, 216)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "48px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "57.6px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "10.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.408px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "SPECIALIST DRONE SERVICES",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "15.104px",
+              "color": "rgb(225, 223, 216)"
+            },
+            {
+              "tag": "H1",
+              "text": "What do you need us to do?",
+              "size": "46.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "45.472px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Choose a service to explore how we can help.",
+              "size": "13.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.504px",
+              "color": "rgb(221, 220, 214)"
+            },
+            {
+              "tag": "P",
+              "text": "REAL DATA.\nREAL OUTCOMES.",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.04px",
+              "color": "rgb(240, 236, 227)"
+            }
+          ]
+        },
+        {
+          "id": "about",
+          "height": 1737,
+          "text": "THE INSPECTION PERSPECTIVE\n\nA remote view.\nA closer understanding.\n\nInside a tank. Along a stack. Across a building’s exterior. Some conditions are difficult to see from the ground.\n\nWe’re Sky I. We use drones to inspect industrial interiors and exteriors, with window washing as a separate service.\n\nTell us the structure, location and area of concern. We’ll start by discussing access, site conditions and the work required.\n\nTHERE’S MORE TO OUR PERSPECTIVE.\n\nMore about Sky I\n01\nTANK INSPECTIONS\n\nInternal spaces, walls, roofs and bases\n\n02\nSTACK INSPECTIONS\n\nChimneys, stacks and tall structures\n\n03\nBUILDING SURVEYS\n\nFacades, cladding and structures\n\nDIFFERENT CHALLENGES.\nA CLEARER WAY FORWARD.\n\nIt starts with your question.\n\nAn interior inspection, an exterior survey and a window washing enquiry begin with different site questions. We discuss the area to cover, the conditions around it and the documentation or cleaning requirement before agreeing the approach.\n\nSky I brings the inspection perspective. When the next step needs physical access, Skyriders brings rope-access inspection, maintenance and repair.\n\nMeet Skyriders, our rope access sister company",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "THE INSPECTION PERSPECTIVE",
+              "size": "9.6px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "14.4px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "H2",
+              "text": "A remote view.\nA closer understanding.",
+              "size": "56.98px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "59.829px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Inside a tank. Along a stack. Across a building’s exterior. Some ",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.4px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "We’re Sky I. We use drones to inspect industrial interiors and ex",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.4px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "Tell us the structure, location and area of concern. We’ll start ",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.4px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "THERE’S MORE TO OUR PERSPECTIVE.",
+              "size": "9.6px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "01\nTANK INSPECTIONS\n\nInternal spaces, walls, roofs and bases",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Internal spaces, walls, roofs and bases",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "02\nSTACK INSPECTIONS\n\nChimneys, stacks and tall structures",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Chimneys, stacks and tall structures",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "03\nBUILDING SURVEYS\n\nFacades, cladding and structures",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Facades, cladding and structures",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(226, 232, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "DIFFERENT CHALLENGES.\nA CLEARER WAY FORWARD.",
+              "size": "9.44px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.52px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "An interior inspection, an exterior survey and a window washing e",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.56px",
+              "color": "rgb(237, 241, 237)"
+            },
+            {
+              "tag": "P",
+              "text": "Sky I brings the inspection perspective. When the next step needs",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.56px",
+              "color": "rgb(237, 241, 237)"
+            }
+          ]
+        },
+        {
+          "id": "services",
+          "height": 1457,
+          "text": "SERVICES / A CLOSER LOOK\n\nBeyond the surface.\nInto the detail.\n\nA furnace wall. A tank interior. A roof you cannot see from the ground. Start with the asset, then explore the views that could inform your next maintenance decision.\n\nCHOOSE AN ASSET\n↘\n\nBoilers & ducting\nInside the process\nAt the access point. Inside the structure.\nOn site with Skyriders\n\nWhat is happening beyond the access point?\n\nLook into boiler internals and enclosed process spaces. Visual inspection can help identify areas that need closer investigation before maintenance is planned.\n\nBurners & wall blowers\nFurnace walls & elements\nBack-pass ducting\nVacuum furnaces\nTalk through this asset\nTanks & silos\nThe spaces within\nTowers & stacks\nA view at height\nBuildings & roofs\nAbove the everyday\nThermal inspection\nAnother layer of information\n\nTHE STARTING POINT\nTell us the asset.\nTell us what you need to understand.\n\nLooking for window washing?",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SERVICES / A CLOSER LOOK",
+              "size": "10.88px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.408px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "H2",
+              "text": "Beyond the surface.\nInto the detail.",
+              "size": "44.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "45.696px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "A furnace wall. A tank interior. A roof you cannot see from the g",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "CHOOSE AN ASSET\n↘",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Boilers & ducting\nInside the process",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "At the access point. Inside the structure.\nOn site with Skyriders",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "What is happening beyond the access point?",
+              "size": "25.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.44px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Look into boiler internals and enclosed process spaces. Visual in",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Tanks & silos\nThe spaces within",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "25.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.44px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Towers & stacks\nA view at height",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "25.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.44px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Buildings & roofs\nAbove the everyday",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "25.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.44px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Thermal inspection\nAnother layer of information",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "",
+              "size": "12.16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.456px",
+              "color": "rgb(211, 225, 229)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "25.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.44px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "25.84px",
+              "color": "rgb(200, 216, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "THE STARTING POINT\nTell us the asset.\nTell us what you need to un",
+              "size": "24.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.76px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Looking for window washing?",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.04px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "14.4px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "24.48px",
+              "color": "rgb(200, 216, 221)"
+            }
+          ]
+        },
+        {
+          "id": "industries",
+          "height": 1428,
+          "text": "SECTORS / THE CONTEXT MATTERS\n\nIndustrial sites.\nSpecific questions.\n\nThe setting changes. The starting point stays practical: the asset, the access and what you need to see.\n\nPower generation\n\nBOILERS · DUCTING · STACKS\n\nPlant.\n\nWhich part of the plant needs a closer view?\n\nIdentify the internal or external area, the condition of concern and the plant’s operating status.\n\nBRING TO THE CONVERSATION\n\nAsset location, inspection area and available access.\n\nDiscuss your site\nMining\nPetroleum & petrochemical\nConstruction\nFacilities maintenance\nMunicipal infrastructure\nA site-specific conversation.\nAn inspection with a purpose.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SECTORS / THE CONTEXT MATTERS",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(190, 213, 223)"
+            },
+            {
+              "tag": "H2",
+              "text": "Industrial sites.\nSpecific questions.",
+              "size": "54.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "54.4px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "The setting changes. The starting point stays practical: the asse",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(190, 208, 217)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Power generation",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(1, 176, 252)"
+            },
+            {
+              "tag": "P",
+              "text": "BOILERS · DUCTING · STACKS",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "Plant.",
+              "size": "76.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72.96px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "Identify the internal or external area, the condition of concern ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "Asset location, inspection area and available access.",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Mining",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "76.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72.96px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Petroleum & petrochemical",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "76.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72.96px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Construction",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "76.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72.96px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Facilities maintenance",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "76.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72.96px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "SUMMARY",
+              "text": "Municipal infrastructure",
+              "size": "28.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "33.12px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(157, 220, 250)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "76.8px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72.96px",
+              "color": "rgb(231, 244, 251)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(197, 214, 223)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "13.92px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "23.664px",
+              "color": "rgb(197, 214, 223)"
+            }
+          ]
+        },
+        {
+          "id": "safety",
+          "height": 1558,
+          "text": "SAFETY & PREPARATION / BEFORE WE FLY\n\nA good inspection\nstarts on the ground.\n\nFrom boiler interiors to building exteriors, the right questions shape a useful inspection. Explore your site, its conditions and the views your team needs.\n\nArriving on site\nYOUR STARTING POINT\n\nInside an asset\nTo be confirmed.\nPhotographs.\n\nShape the inspection brief\nTry the choices below\n\nWhere do you need a view?\nInside an asset\n↗\nOutside a structure\n↗\nLet’s establish it\n↗\n\nTell us the entry points, internal dimensions and area of concern.\n\nWhat are the site conditions?\nIn operation\n↗\nPlanned downtime\n↗\nTo be confirmed\n↗\n\nThe team can discuss the information needed to scope the work.\n\nWhat will help your next decision?\nPhotographs\n↗\nVideo\n↗\nDiscuss thermal\n↗\n\nDefine the details and wider views your team needs to review.\n\nDiscuss your inspection\n\nSite access, permissions and inspection suitability need agreement before work is scheduled.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SAFETY & PREPARATION / BEFORE WE FLY",
+              "size": "11.04px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.664px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "H2",
+              "text": "A good inspection\nstarts on the ground.",
+              "size": "51.2px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "52.224px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "From boiler interiors to building exteriors, the right questions ",
+              "size": "15.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.36px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "FIGCAPTION",
+              "text": "Arriving on site",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.28px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "P",
+              "text": "Inside an asset\nTo be confirmed.\nPhotographs.",
+              "size": "24px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "27.6px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Shape the inspection brief\nTry the choices below",
+              "size": "12.8px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "20.48px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Inside an asset\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Outside a structure\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Let’s establish it\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Tell us the entry points, internal dimensions and area of concern",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "In operation\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Planned downtime\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "To be confirmed\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "The team can discuss the information needed to scope the work.",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Photographs\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Video\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Discuss thermal\n↗",
+              "size": "17.42px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "27.872px",
+              "color": "rgb(17, 27, 32)"
+            },
+            {
+              "tag": "P",
+              "text": "Define the details and wider views your team needs to review.",
+              "size": "13.28px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "22.576px",
+              "color": "rgb(62, 91, 105)"
+            },
+            {
+              "tag": "P",
+              "text": "Site access, permissions and inspection suitability need agreemen",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.584px",
+              "color": "rgb(62, 91, 105)"
+            }
+          ]
+        },
+        {
+          "id": "impact",
+          "height": 935,
+          "text": "A DIFFERENT PERSPECTIVE. A PRACTICAL NEXT STEP.\n\nBring the unseen\ninto focus.\n\nInspect an interior, examine an exterior or discuss window washing. Start with the site and the part of the asset that needs attention.\n\nLet’s talk about your asset\n\nA short enquiry is enough to begin.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "A DIFFERENT PERSPECTIVE. A PRACTICAL NEXT STEP.",
+              "size": "11.04px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.768px",
+              "color": "rgb(225, 193, 152)"
+            },
+            {
+              "tag": "H2",
+              "text": "Bring the unseen\ninto focus.",
+              "size": "80px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "77.6px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Inspect an interior, examine an exterior or discuss window washin",
+              "size": "15.36px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "26.88px",
+              "color": "rgb(225, 228, 221)"
+            },
+            {
+              "tag": "P",
+              "text": "A short enquiry is enough to begin.",
+              "size": "11.52px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.432px",
+              "color": "rgb(213, 219, 213)"
+            }
+          ]
+        },
+        {
+          "id": "testimonials",
+          "height": 2761,
+          "text": "“\n\nCLIENT CONFIDENCE\nDESIGN PREVIEW\n\nA fresh perspective.\nA few kind words.\n\nNine illustrative voices from South Africa and the region. Sample copy for design review; these are not actual client testimonials or evidence of regional work.\n\nEXTERIOR INSPECTION\n“\n\nA clearer view of the building helped us have a much more practical conversation about the maintenance work ahead.\n\nFacilities team\nGauteng, South Africa\nEXTERIOR INSPECTION\n“\n\nOn a large site, context matters. The wider views helped us relate the inspection area to the surrounding structures.\n\nMining operations team\nNorth West, South Africa\nINDUSTRIAL INSPECTION\n“\n\nFor our team, the useful part was having visual context to take into the planning meeting, rather than relying on descriptions alone.\n\nSite planning team\nGaborone, Botswana\nINTERNAL INSPECTION\n“\n\nThe value was in seeing the area we were discussing. It gave our site team and maintenance team a common starting point.\n\nPlant maintenance team\nMpumalanga, South Africa\nINTERNAL INSPECTION\n“\n\nBeing able to look at the enclosed space together made the next discussion with our engineers far more specific.\n\nIndustrial engineering team\nLimpopo, South Africa\nINDUSTRIAL INSPECTION\n“\n\nThe discussion began with the asset, the operating conditions and the area of concern. That is exactly where we wanted to start.\n\nInfrastructure team\nWindhoek, Namibia\nWINDOW WASHING\n“\n\nOur enquiry started with the condition of the windows and access around the property. The conversation stayed focused on what the site needed.\n\nProperty management team\nKwaZulu-Natal, South Africa\nEXTERIOR INSPECTION\n“\n\nWe needed a useful view of the roof and exterior before deciding where a closer examination would be worthwhile.\n\nBuilding maintenance team\nWestern Cape, South Africa\nEXTERIOR INSPECTION\n“\n\nClear views made it easier for colleagues in different locations to discuss the same part of the structure.\n\nProject coordination team\nMaputo, Mozambique",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "CLIENT CONFIDENCE\nDESIGN PREVIEW",
+              "size": "10.24px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.384px",
+              "color": "rgb(181, 214, 230)"
+            },
+            {
+              "tag": "H2",
+              "text": "A fresh perspective.\nA few kind words.",
+              "size": "72px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "72px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "Nine illustrative voices from South Africa and the region. Sample",
+              "size": "12.8px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.76px",
+              "color": "rgb(181, 209, 222)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view of the building helped us have a much more practic",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "On a large site, context matters. The wider views helped us relat",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "For our team, the useful part was having visual context to take i",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view of the building helped us have a much more practic",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "On a large site, context matters. The wider views helped us relat",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "For our team, the useful part was having visual context to take i",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The value was in seeing the area we were discussing. It gave our ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Being able to look at the enclosed space together made the next d",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The discussion began with the asset, the operating conditions and",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The value was in seeing the area we were discussing. It gave our ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Being able to look at the enclosed space together made the next d",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "The discussion began with the asset, the operating conditions and",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Our enquiry started with the condition of the windows and access ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "We needed a useful view of the roof and exterior before deciding ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Clear views made it easier for colleagues in different locations ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Our enquiry started with the condition of the windows and access ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "We needed a useful view of the roof and exterior before deciding ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            },
+            {
+              "tag": "P",
+              "text": "Clear views made it easier for colleagues in different locations ",
+              "size": "22.4px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "31.36px",
+              "color": "rgb(232, 240, 243)"
+            }
+          ]
+        },
+        {
+          "id": "contact",
+          "height": 779,
+          "text": "CONTACT / LET’S MAKE IT PRACTICAL\n\nYour site.\nYour question.\nLet’s talk.\n\nAn asset to inspect. A building to care for. A question that needs a clearer view. Tell us where to start.\n\ninfo@ropeaccess.co.za\nMidrand\n+27 11 312 0450\neMalahleni\n+27 13 692 5219\n\nA few details.\nA useful starting point.",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "CONTACT / LET’S MAKE IT PRACTICAL",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.92px",
+              "color": "rgb(180, 212, 228)"
+            },
+            {
+              "tag": "H2",
+              "text": "Your site.\nYour question.\nLet’s talk.",
+              "size": "64px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "60.8px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "P",
+              "text": "An asset to inspect. A building to care for. A question that need",
+              "size": "16px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "28.8px",
+              "color": "rgb(183, 207, 219)"
+            },
+            {
+              "tag": "P",
+              "text": "A few details.\nA useful starting point.",
+              "size": "35.2px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "38.72px",
+              "color": "rgb(240, 236, 227)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Your name",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Email address",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "Service optionalChoose a serviceInternal inspectionsExternal insp",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "LABEL",
+              "text": "What do you need?",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "19.968px",
+              "color": "rgb(219, 234, 241)"
+            },
+            {
+              "tag": "P",
+              "text": "",
+              "size": "12.8px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "21.76px",
+              "color": "rgb(189, 228, 246)"
+            }
+          ]
+        },
+        {
+          "id": "skyi-footer",
+          "height": 559,
+          "text": "SKY I / INDUSTRIAL DRONE SOLUTIONS\n\nA clearer view. A practical next step.\n\nBack to top\nKeep the conversation going\ninfo@ropeaccess.co.za\nAbout\nServices\nSectors\nBefore we fly\nContact\nMidrand\nGauteng\n44 Monte Carlo Crescent, Kyalami Business Park, Midrand, 1685\n+27 11 312 0450\neMalahleni\nMpumalanga\n24 Langa Crescent, Shop 2 & 6, Corridor Hill, eMalahleni\n+27 13 692 5219\nOur rope access sister company\nMeet Skyriders\nSkyriders social pages\n\n© 2026 Sky I · South Africa\n\nCompany selection",
+          "fonts": [
+            {
+              "tag": "P",
+              "text": "SKY I / INDUSTRIAL DRONE SOLUTIONS",
+              "size": "10.56px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "16.896px",
+              "color": "rgb(168, 197, 212)"
+            },
+            {
+              "tag": "P",
+              "text": "A clearer view. A practical next step.",
+              "size": "25.6px",
+              "weight": "400",
+              "family": "cormorant, \"cormorant Fallback\", Georgia, serif",
+              "lineHeight": "29.44px",
+              "color": "rgb(165, 221, 247)"
+            },
+            {
+              "tag": "H2",
+              "text": "Keep the conversation going",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "H2",
+              "text": "Midrand\nGauteng",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "H2",
+              "text": "eMalahleni\nMpumalanga",
+              "size": "12.48px",
+              "weight": "500",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "18.72px",
+              "color": "rgb(220, 236, 245)"
+            },
+            {
+              "tag": "P",
+              "text": "© 2026 Sky I · South Africa",
+              "size": "11.2px",
+              "weight": "400",
+              "family": "jost, \"jost Fallback\", Arial, sans-serif",
+              "lineHeight": "17.92px",
+              "color": "rgb(154, 185, 202)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "test": "sections-and-anchors",
+      "passed": true
+    },
+    {
+      "test": "impact-entrance-keyboard-cta",
+      "passed": true
+    },
+    {
+      "test": "service-selectors-and-offscreen-pause",
+      "passed": true
+    },
+    {
+      "test": "contact-brief-download",
+      "passed": true
+    },
+    {
+      "test": "footer-details-routing-and-return",
+      "passed": true
+    },
+    {
+      "test": "mobile-menu-impact-escape",
+      "passed": true
+    },
+    {
+      "test": "reduce",
+      "passed": true
+    },
+    {
+      "test": "no-js",
+      "passed": true
+    },
+    {
+      "test": "failed-art",
+      "passed": true
+    },
+    {
+      "test": "development-prelanding-and-header-roots",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

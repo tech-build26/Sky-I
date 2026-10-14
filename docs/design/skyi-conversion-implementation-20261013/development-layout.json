@@ -1,0 +1,496 @@
+{
+  "origin": "http://localhost:3006",
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "pageHeight": 7366,
+      "sections": {
+        "opening": {
+          "height": 1093,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "135px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 830,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "72px",
+          "paddingBottom": "36px"
+        },
+        "services": {
+          "height": 1262,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "64px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 971,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "64.8px",
+          "paddingBottom": "36px"
+        },
+        "safety": {
+          "height": 857,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "64.8px",
+          "paddingBottom": "36px"
+        },
+        "impact": {
+          "height": 598,
+          "width": 1440,
+          "overflow": true,
+          "paddingTop": "64.8px",
+          "paddingBottom": "36px"
+        },
+        "testimonials": {
+          "height": 472,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "64px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 782,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 502,
+          "width": 1440,
+          "overflow": false,
+          "paddingTop": "32px",
+          "paddingBottom": "10px"
+        }
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "pageHeight": 7915,
+      "sections": {
+        "opening": {
+          "height": 1277,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "162px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 914,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "72px",
+          "paddingBottom": "36px"
+        },
+        "services": {
+          "height": 1344,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "64px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 1087,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "68px",
+          "paddingBottom": "36px"
+        },
+        "safety": {
+          "height": 899,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "68px",
+          "paddingBottom": "36px"
+        },
+        "impact": {
+          "height": 633,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "68px",
+          "paddingBottom": "36px"
+        },
+        "testimonials": {
+          "height": 533,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "64px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 762,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 507,
+          "width": 1920,
+          "overflow": false,
+          "paddingTop": "32px",
+          "paddingBottom": "10px"
+        }
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "pageHeight": 7550,
+      "sections": {
+        "opening": {
+          "height": 968,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "132px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 1365,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "51.2px",
+          "paddingBottom": "25.6px"
+        },
+        "services": {
+          "height": 1220,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "46.08px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 873,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "46.08px",
+          "paddingBottom": "25.6px"
+        },
+        "safety": {
+          "height": 788,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "46.08px",
+          "paddingBottom": "25.6px"
+        },
+        "impact": {
+          "height": 552,
+          "width": 1024,
+          "overflow": true,
+          "paddingTop": "46.08px",
+          "paddingBottom": "25.6px"
+        },
+        "testimonials": {
+          "height": 536,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "46.08px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 763,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 501,
+          "width": 1024,
+          "overflow": false,
+          "paddingTop": "32px",
+          "paddingBottom": "10px"
+        }
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "pageHeight": 10065,
+      "sections": {
+        "opening": {
+          "height": 1024,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "153.6px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 1243,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "48px",
+          "paddingBottom": "24px"
+        },
+        "services": {
+          "height": 1686,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 1346,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "safety": {
+          "height": 1432,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "impact": {
+          "height": 548,
+          "width": 768,
+          "overflow": true,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "testimonials": {
+          "height": 784,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 1355,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 651,
+          "width": 768,
+          "overflow": false,
+          "paddingTop": "32px",
+          "paddingBottom": "10px"
+        }
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pageHeight": 11930,
+      "sections": {
+        "opening": {
+          "height": 1073,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "108px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 1766,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "48px",
+          "paddingBottom": "24px"
+        },
+        "services": {
+          "height": 2100,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 1402,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "safety": {
+          "height": 1570,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "impact": {
+          "height": 762,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "testimonials": {
+          "height": 1052,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 1333,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 876,
+          "width": 390,
+          "overflow": false,
+          "paddingTop": "28px",
+          "paddingBottom": "10px"
+        }
+      }
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "pageHeight": 12889,
+      "sections": {
+        "opening": {
+          "height": 1009,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "98px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 1933,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "48px",
+          "paddingBottom": "24px"
+        },
+        "services": {
+          "height": 2203,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 1535,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "safety": {
+          "height": 1706,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "impact": {
+          "height": 859,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "testimonials": {
+          "height": 1155,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 1407,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 1087,
+          "width": 320,
+          "overflow": false,
+          "paddingTop": "28px",
+          "paddingBottom": "10px"
+        }
+      }
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "pageHeight": 10803,
+      "sections": {
+        "opening": {
+          "height": 1015,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "112px",
+          "paddingBottom": "0px"
+        },
+        "about": {
+          "height": 1536,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "48px",
+          "paddingBottom": "24px"
+        },
+        "services": {
+          "height": 1684,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "industries": {
+          "height": 1346,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "safety": {
+          "height": 1432,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "impact": {
+          "height": 986,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "24px"
+        },
+        "testimonials": {
+          "height": 784,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "44px",
+          "paddingBottom": "28px"
+        },
+        "contact": {
+          "height": 1374,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "0px",
+          "paddingBottom": "0px"
+        },
+        "skyi-footer": {
+          "height": 651,
+          "width": 740,
+          "overflow": false,
+          "paddingTop": "32px",
+          "paddingBottom": "10px"
+        }
+      }
+    }
+  ],
+  "errors": []
+}

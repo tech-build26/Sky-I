@@ -33,9 +33,6 @@ export function SkyIProvider({ children, className }: { children: React.ReactNod
         gsap.ticker.add(tick);
         return () => { gsap.ticker.remove(tick); lenis?.destroy(); lenis = undefined; };
       });
-      media.add("(prefers-reduced-motion: no-preference)", () => {
-        gsap.to(root.current!.querySelector("[data-skyi-logo]"), { scale: 0.7, transformOrigin: "left top", scrollTrigger: { trigger: root.current, start: "top top", end: "+=240", scrub: true } });
-      }, root);
       const refresh = () => { lenis?.resize(); ScrollTrigger.refresh(); };
       const visibility = () => document.hidden ? lenis?.stop() : lenis?.start();
       window.addEventListener("resize", refresh);
@@ -81,7 +78,7 @@ export function SkyIProvider({ children, className }: { children: React.ReactNod
   }, [reduced, menuOpen]);
 
   return <MotionContext.Provider value={{ paused: reduced, menuOpen, setMenuOpen }}>
-    <div ref={root} className={`${styles.page} ${className}`} data-enhanced={ready ? "true" : "false"} data-motion={reduced ? "paused" : "running"}>
+    <div ref={root} className={`${styles.page} ${className}`} data-enhanced={ready ? "true" : "false"} data-motion={reduced ? "paused" : "running"} data-menu-open={menuOpen}>
       {children}
       <span ref={cursor} className={styles.cursor} aria-hidden="true" />
     </div>

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "opening",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 889.5625,
+      "top": 0,
+      "right": 1024,
+      "bottom": 889.5625,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "about",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -41.84375,
+      "width": 1024,
+      "height": 970.75,
+      "top": -41.84375,
+      "right": 1024,
+      "bottom": 928.90625,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "services",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -73.09375,
+      "width": 1024,
+      "height": 1033.265625,
+      "top": -73.09375,
+      "right": 1024,
+      "bottom": 960.171875,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "industries",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": 11.171875,
+      "width": 1024,
+      "height": 864.859375,
+      "top": 11.171875,
+      "right": 1024,
+      "bottom": 876.03125,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "impact",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": 112.03125,
+      "width": 1024,
+      "height": 664.3125,
+      "top": 112.03125,
+      "right": 1024,
+      "bottom": 776.34375,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "contact",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -158.65625,
+      "width": 1024,
+      "height": 1206.234375,
+      "top": -158.65625,
+      "right": 1024,
+      "bottom": 1047.578125,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  },
+  {
+    "id": "skyi-footer",
+    "overflow": false,
+    "rect": {
+      "x": 0,
+      "y": -44.421875,
+      "width": 1024,
+      "height": 857.390625,
+      "top": -44.421875,
+      "right": 1024,
+      "bottom": 812.96875,
+      "left": 0
+    },
+    "brokenImages": [],
+    "escapedText": []
+  }
+]

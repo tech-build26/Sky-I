@@ -1,0 +1,344 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": 149.875,
+        "width": 1440,
+        "height": 720,
+        "right": 1440,
+        "bottom": 869.875
+      },
+      "video": {
+        "x": 0,
+        "y": 149.875,
+        "width": 1440,
+        "height": 720,
+        "right": 1440,
+        "bottom": 869.875
+      },
+      "copy": {
+        "x": 72,
+        "y": 293.125,
+        "width": 388.796875,
+        "height": 433.484375,
+        "right": 460.796875,
+        "bottom": 726.609375
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.584878,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": 140.40625,
+        "width": 1280,
+        "height": 640,
+        "right": 1280,
+        "bottom": 780.40625
+      },
+      "video": {
+        "x": 0,
+        "y": 140.40625,
+        "width": 1280,
+        "height": 640,
+        "right": 1280,
+        "bottom": 780.40625
+      },
+      "copy": {
+        "x": 64,
+        "y": 237.28125,
+        "width": 345.59375,
+        "height": 446.25,
+        "right": 409.59375,
+        "bottom": 683.53125
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.584089,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 1101,
+      "height": 800,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": 140.3125,
+        "width": 1101,
+        "height": 640,
+        "right": 1101,
+        "bottom": 780.3125
+      },
+      "video": {
+        "x": 0,
+        "y": 140.3125,
+        "width": 1101,
+        "height": 640,
+        "right": 1101,
+        "bottom": 780.3125
+      },
+      "copy": {
+        "x": 55.046875,
+        "y": 209.984375,
+        "width": 297.265625,
+        "height": 500.65625,
+        "right": 352.3125,
+        "bottom": 710.640625
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.582292,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": -72.421875,
+        "width": 1024,
+        "height": 1033.53125,
+        "right": 1024,
+        "bottom": 961.109375
+      },
+      "video": {
+        "x": 0,
+        "y": -72.421875,
+        "width": 1024,
+        "height": 576,
+        "right": 1024,
+        "bottom": 503.578125
+      },
+      "copy": {
+        "x": 51.203125,
+        "y": 533.578125,
+        "width": 640,
+        "height": 379.53125,
+        "right": 691.203125,
+        "bottom": 913.109375
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.584797,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": 172.109375,
+        "width": 768,
+        "height": 799.921875,
+        "right": 768,
+        "bottom": 972.03125
+      },
+      "video": {
+        "x": 0,
+        "y": 172.109375,
+        "width": 768,
+        "height": 432,
+        "right": 768,
+        "bottom": 604.109375
+      },
+      "copy": {
+        "x": 38.40625,
+        "y": 634.109375,
+        "width": 640,
+        "height": 289.921875,
+        "right": 678.40625,
+        "bottom": 924.03125
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.585385,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": 128.640625,
+        "width": 390,
+        "height": 685.890625,
+        "right": 390,
+        "bottom": 814.53125
+      },
+      "video": {
+        "x": 0,
+        "y": 128.640625,
+        "width": 390,
+        "height": 219.375,
+        "right": 390,
+        "bottom": 348.015625
+      },
+      "copy": {
+        "x": 20,
+        "y": 372.015625,
+        "width": 350,
+        "height": 402.515625,
+        "right": 370,
+        "bottom": 774.53125
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.564346,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": 82.6875,
+        "width": 320,
+        "height": 673.703125,
+        "right": 320,
+        "bottom": 756.390625
+      },
+      "video": {
+        "x": 0,
+        "y": 82.6875,
+        "width": 320,
+        "height": 180,
+        "right": 320,
+        "bottom": 262.6875
+      },
+      "copy": {
+        "x": 20,
+        "y": 286.6875,
+        "width": 280,
+        "height": 429.703125,
+        "right": 300,
+        "bottom": 716.390625
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.570662,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "initialRequests": 0,
+      "requests": 3,
+      "offscreenPaused": true,
+      "section": {
+        "x": 0,
+        "y": -169.453125,
+        "width": 844,
+        "height": 847.984375,
+        "right": 844,
+        "bottom": 678.53125
+      },
+      "video": {
+        "x": 0,
+        "y": -169.453125,
+        "width": 844,
+        "height": 474.75,
+        "right": 844,
+        "bottom": 305.296875
+      },
+      "copy": {
+        "x": 42.203125,
+        "y": 335.296875,
+        "width": 640,
+        "height": 295.234375,
+        "right": 682.203125,
+        "bottom": 630.53125
+      },
+      "overflow": false,
+      "paused": false,
+      "time": 1.584061,
+      "muted": true,
+      "loop": true,
+      "inline": true,
+      "filter": "none",
+      "cta": "#contact"
+    },
+    {
+      "mode": "reduced",
+      "requests": 0,
+      "paused": true,
+      "src": null,
+      "poster": "http://localhost:3018/images/skyi/exterior-inspection-poster.jpg",
+      "error": null,
+      "ctaReached": true
+    },
+    {
+      "mode": "no-js",
+      "requests": 0,
+      "paused": true,
+      "src": null,
+      "poster": "http://localhost:3018/images/skyi/exterior-inspection-poster.jpg",
+      "error": null,
+      "ctaReached": true
+    },
+    {
+      "mode": "failure",
+      "requests": 1,
+      "paused": true,
+      "src": null,
+      "poster": "http://localhost:3018/images/skyi/exterior-inspection-poster.jpg",
+      "error": null,
+      "ctaReached": true
+    }
+  ],
+  "errors": []
+}

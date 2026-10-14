@@ -1,0 +1,767 @@
+[
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0.386742",
+    "section": "about",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -1261,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -180.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 0,
+        "top": 896.0625,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 0,
+        "top": 1967.015625,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 0,
+        "top": 2879.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 3775.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 4639.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0.0229653",
+    "section": "about",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -1724,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -643.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 4,
+        "top": 433.0625,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 0,
+        "top": 1504.015625,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 0,
+        "top": 2416.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 3312.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 4176.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "services",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -2180,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -1099.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 11,
+        "top": -22.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 0,
+        "top": 1048.015625,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 0,
+        "top": 1960.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 2856.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 3720.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "services",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -2646,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -1565.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -488.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 2,
+        "top": 582.015625,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 0,
+        "top": 1494.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 2390.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 3254.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "industries",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -3111,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -2030.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -953.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 8,
+        "top": 117.015625,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 0,
+        "top": 1029.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 1925.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 2789.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "industries",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -3585,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -2504.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -1427.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -356.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 3,
+        "top": 555.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 1451.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 2315.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "impact",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -4045,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -2964.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -1887.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -816.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": 95.40625,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 0,
+        "top": 991.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 1855.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "impact",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -4511,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -3430.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -2353.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -1282.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -370.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 3,
+        "top": 525.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 1389.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "testimonials",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -4973,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -3892.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -2815.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -1744.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -832.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": 63.828125,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 0,
+        "top": 927.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "testimonials",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -5437,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -4356.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -3279.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -2208.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -1296.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": -400.171875,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 6,
+        "top": 463.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "contact",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -5899,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -4818.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -3741.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -2670.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -1758.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": -862.171875,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 13,
+        "top": 1.453125,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "contact",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -6365,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -5284.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -4207.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -3136.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -2224.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": -1328.171875,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 13,
+        "top": -464.546875,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "skyi-footer",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -6504,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -5423.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -4346.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -3275.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -2363.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": -1467.171875,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 13,
+        "top": -603.546875,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "skyi-footer",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -6515,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -5434.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -4357.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -3286.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -2374.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": -1478.171875,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 13,
+        "top": -614.546875,
+        "total": 13
+      }
+    ],
+    "width": 375
+  },
+  {
+    "client": 375,
+    "heroVisible": "false",
+    "logo": "0",
+    "section": "skyi-footer",
+    "sections": [
+      {
+        "id": "opening",
+        "started": 0,
+        "top": -6516,
+        "total": 0
+      },
+      {
+        "id": "about",
+        "started": 7,
+        "top": -5435.28125,
+        "total": 11
+      },
+      {
+        "id": "services",
+        "started": 12,
+        "top": -4358.9375,
+        "total": 16
+      },
+      {
+        "id": "industries",
+        "started": 10,
+        "top": -3287.984375,
+        "total": 26
+      },
+      {
+        "id": "impact",
+        "started": 8,
+        "top": -2375.59375,
+        "total": 8
+      },
+      {
+        "id": "testimonials",
+        "started": 4,
+        "top": -1479.171875,
+        "total": 5
+      },
+      {
+        "id": "contact",
+        "started": 13,
+        "top": -615.546875,
+        "total": 13
+      }
+    ],
+    "width": 375
+  }
+]

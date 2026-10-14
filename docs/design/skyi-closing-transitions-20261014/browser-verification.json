@@ -1,0 +1,235 @@
+[
+  {
+    "scenario": "desktop-footer",
+    "groups": [
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-left",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-right",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "scenario": "phone-keyboard",
+    "activeName": "Email",
+    "formOpacity": "1",
+    "formTransform": "none",
+    "overflow": false
+  },
+  {
+    "scenario": "production-320",
+    "definitions": 3,
+    "fields": 4,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "24px",
+        "id": "testimonials",
+        "top": "28px"
+      },
+      {
+        "bottom": "0px",
+        "id": "contact",
+        "top": "24px"
+      }
+    ],
+    "width": 320
+  },
+  {
+    "scenario": "production-menu-waiting-focus",
+    "active": "Email",
+    "menuOpen": "false",
+    "opacity": "1",
+    "state": "complete",
+    "transform": "none"
+  },
+  {
+    "scenario": "production-landscape",
+    "height": 390,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "24px",
+        "id": "testimonials",
+        "top": "28px"
+      },
+      {
+        "bottom": "0px",
+        "id": "contact",
+        "top": "24px"
+      }
+    ],
+    "width": 844
+  },
+  {
+    "scenario": "production-desktop",
+    "contactPhotoParent": "contact",
+    "nestedClosingOwners": 0,
+    "overflow": false,
+    "padding": [
+      {
+        "bottom": "36px",
+        "id": "testimonials",
+        "top": "43.2px"
+      },
+      {
+        "bottom": "0px",
+        "id": "contact",
+        "top": "36px"
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "scenario": "production-boundary-settled",
+    "overflow": false,
+    "visibleTargets": [
+      {
+        "kind": "confidence-scene",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-fade",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-fade",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "left",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-roll",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-center",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-layer",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-layer",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-layer",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-fade",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "right",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "confidence-center",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "closing-left",
+        "opacity": "1",
+        "state": "complete"
+      },
+      {
+        "kind": "closing-right",
+        "opacity": "1",
+        "state": "complete"
+      }
+    ]
+  },
+  {
+    "scenario": "production-footer-settled",
+    "groups": [
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-left",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-right",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      },
+      {
+        "kind": "closing-up",
+        "opacity": "1",
+        "state": "complete",
+        "transform": "none"
+      }
+    ],
+    "overflow": false,
+    "width": 1280
+  }
+]

@@ -1,0 +1,1090 @@
+{
+  "origin": "http://localhost:3006",
+  "checks": [
+    {
+      "drone": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=3840&q=75",
+      "open": 1,
+      "overflow": false,
+      "question": "Which structure or enclosed area needs investigation?",
+      "sector": "mining",
+      "src": "/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=3840&q=90",
+      "type": "selection"
+    },
+    {
+      "drone": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=3840&q=75",
+      "open": 1,
+      "overflow": false,
+      "question": "What do the tank’s visible surfaces reveal?",
+      "sector": "petroleum",
+      "src": "/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=3840&q=90",
+      "type": "selection"
+    },
+    {
+      "drone": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=3840&q=75",
+      "open": 1,
+      "overflow": false,
+      "question": "Which building details need a closer examination?",
+      "sector": "construction",
+      "src": "/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=3840&q=90",
+      "type": "selection"
+    },
+    {
+      "drone": "/_next/image/?url=%2Fimages%2Fwindow-washing.png&w=3840&q=75",
+      "open": 1,
+      "overflow": false,
+      "question": "Is the next task inspection or cleaning?",
+      "sector": "facilities",
+      "src": "/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=3840&q=90",
+      "type": "selection"
+    },
+    {
+      "drone": "/_next/image/?url=%2Fimages%2Fexternal-drone.png&w=3840&q=75",
+      "open": 1,
+      "overflow": false,
+      "question": "Which asset views will support your maintenance review?",
+      "sector": "municipal",
+      "src": "/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=3840&q=90",
+      "type": "selection"
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 217
+      },
+      "actionWithinWidth": true,
+      "clearance": 413,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 389.84375,
+      "type": "layout",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 217
+      },
+      "actionWithinWidth": true,
+      "clearance": 342,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 109.84375,
+      "type": "layout",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 217
+      },
+      "actionWithinWidth": true,
+      "clearance": 255,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 109.84375,
+      "type": "layout",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 217
+      },
+      "actionWithinWidth": true,
+      "clearance": 185,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 109.875,
+      "type": "layout",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "actionSize": {
+        "height": 45.99993896484375,
+        "width": 217
+      },
+      "actionWithinWidth": true,
+      "clearance": 99,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 109.875,
+      "type": "layout",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 217
+      },
+      "actionWithinWidth": true,
+      "clearance": 13,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 109.90625,
+      "type": "layout",
+      "viewport": {
+        "height": 740,
+        "width": 320
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 287
+      },
+      "actionWithinWidth": true,
+      "clearance": 368,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 441.765625,
+      "type": "layout",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 287
+      },
+      "actionWithinWidth": true,
+      "clearance": 296,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 109.765625,
+      "type": "layout",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 287
+      },
+      "actionWithinWidth": true,
+      "clearance": 226,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 109.765625,
+      "type": "layout",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 287
+      },
+      "actionWithinWidth": true,
+      "clearance": 155,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 109.765625,
+      "type": "layout",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 287
+      },
+      "actionWithinWidth": true,
+      "clearance": 84,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 109.765625,
+      "type": "layout",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 287
+      },
+      "actionWithinWidth": true,
+      "clearance": 13,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 109.765625,
+      "type": "layout",
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 496
+      },
+      "actionWithinWidth": true,
+      "clearance": 368,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 470.28125,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 599
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 496
+      },
+      "actionWithinWidth": true,
+      "clearance": 297,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 110.28125,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 599
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 496
+      },
+      "actionWithinWidth": true,
+      "clearance": 226,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 110.28125,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 599
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 496
+      },
+      "actionWithinWidth": true,
+      "clearance": 155,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 110.28125,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 599
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 496
+      },
+      "actionWithinWidth": true,
+      "clearance": 84,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 110.28125,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 599
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 496.0000305175781
+      },
+      "actionWithinWidth": true,
+      "clearance": 13,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 110.28125,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 599
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70314025878903
+      },
+      "actionWithinWidth": true,
+      "clearance": 378,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 531.09375,
+      "type": "layout",
+      "viewport": {
+        "height": 1024,
+        "width": 768
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70315551757812
+      },
+      "actionWithinWidth": true,
+      "clearance": 305,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 110.09375,
+      "type": "layout",
+      "viewport": {
+        "height": 1024,
+        "width": 768
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 232,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 110.09375,
+      "type": "layout",
+      "viewport": {
+        "height": 1024,
+        "width": 768
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 159,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 110.09375,
+      "type": "layout",
+      "viewport": {
+        "height": 1024,
+        "width": 768
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 86,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 110.09375,
+      "type": "layout",
+      "viewport": {
+        "height": 1024,
+        "width": 768
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 13,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 110.09375,
+      "type": "layout",
+      "viewport": {
+        "height": 1024,
+        "width": 768
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70310974121097
+      },
+      "actionWithinWidth": true,
+      "clearance": 378,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 214.46875,
+      "type": "layout",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70310974121097
+      },
+      "actionWithinWidth": true,
+      "clearance": 305,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 110.46875,
+      "type": "layout",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70310974121097
+      },
+      "actionWithinWidth": true,
+      "clearance": 232,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 110.46875,
+      "type": "layout",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70310974121097
+      },
+      "actionWithinWidth": true,
+      "clearance": 159,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 110.46875,
+      "type": "layout",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70310974121097
+      },
+      "actionWithinWidth": true,
+      "clearance": 86,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 110.46875,
+      "type": "layout",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70310974121097
+      },
+      "actionWithinWidth": true,
+      "clearance": 13,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "static",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 110.46875,
+      "type": "layout",
+      "viewport": {
+        "height": 390,
+        "width": 844
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70309448242188
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 468.6875,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 1024
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 468.6875,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 1024
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.70309448242188
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 468.6875,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 1024
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 468.6875,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 1024
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 468.6875,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 1024
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 468.6875,
+      "type": "layout",
+      "viewport": {
+        "height": 900,
+        "width": 1024
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 519.453125,
+      "type": "layout",
+      "viewport": {
+        "height": 1000,
+        "width": 1199
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 519.453125,
+      "type": "layout",
+      "viewport": {
+        "height": 1000,
+        "width": 1199
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 519.453125,
+      "type": "layout",
+      "viewport": {
+        "height": 1000,
+        "width": 1199
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 519.453125,
+      "type": "layout",
+      "viewport": {
+        "height": 1000,
+        "width": 1199
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 519.453125,
+      "type": "layout",
+      "viewport": {
+        "height": 1000,
+        "width": 1199
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 519.453125,
+      "type": "layout",
+      "viewport": {
+        "height": 1000,
+        "width": 1199
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 568.734375,
+      "type": "layout",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 568.734375,
+      "type": "layout",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 568.734375,
+      "type": "layout",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 568.734375,
+      "type": "layout",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 568.734375,
+      "type": "layout",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 36,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 568.734375,
+      "type": "layout",
+      "viewport": {
+        "height": 1100,
+        "width": 1440
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 62,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpower-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "power",
+      "summaryTop": 738.65625,
+      "type": "layout",
+      "viewport": {
+        "height": 1440,
+        "width": 2560
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 89,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmining-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "mining",
+      "summaryTop": 738.65625,
+      "type": "layout",
+      "viewport": {
+        "height": 1440,
+        "width": 2560
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 62,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fpetroleum-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "petroleum",
+      "summaryTop": 738.65625,
+      "type": "layout",
+      "viewport": {
+        "height": 1440,
+        "width": 2560
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 62,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fconstruction-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "construction",
+      "summaryTop": 738.65625,
+      "type": "layout",
+      "viewport": {
+        "height": 1440,
+        "width": 2560
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 62,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Ffacilities-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "facilities",
+      "summaryTop": 738.65625,
+      "type": "layout",
+      "viewport": {
+        "height": 1440,
+        "width": 2560
+      }
+    },
+    {
+      "actionSize": {
+        "height": 46,
+        "width": 221.7032470703125
+      },
+      "actionWithinWidth": true,
+      "clearance": 62,
+      "image": "http://localhost:3006/_next/image/?url=%2Fimages%2Fskyi%2Fsectors%2Fmunicipal-20261014.png&w=750&q=90",
+      "overflow": false,
+      "panelPosition": "absolute",
+      "panelWithinWidth": true,
+      "sector": "municipal",
+      "summaryTop": 738.65625,
+      "type": "layout",
+      "viewport": {
+        "height": 1440,
+        "width": 2560
+      }
+    }
+  ],
+  "failures": [],
+  "keyboard": {
+    "enterCloses": true,
+    "spaceOpens": true,
+    "contact": true
+  },
+  "initialImages": {
+    "selectedLoaded": true,
+    "unselectedLoaded": 0
+  },
+  "limitations": [
+    "Reduced-motion, no-JavaScript, hidden-document lifecycle and image failure reviewed in source/SSR; unavailable in browser provider for live emulation.",
+    "No physical-device, other-engine or field-performance measurements."
+  ]
+}

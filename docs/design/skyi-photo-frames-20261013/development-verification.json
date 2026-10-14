@@ -1,0 +1,518 @@
+{
+  "origin": "http://localhost:3006",
+  "results": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "sections": {
+        "services": {
+          "height": 1123,
+          "width": 1440,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 186,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 170,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 790.7177124023438,
+              "right": 949.4072875976562,
+              "bottom": 580.0333862304688,
+              "captionTop": 599.03125,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 1099.614990234375,
+              "right": 1258.510009765625,
+              "bottom": 590.4653930664062,
+              "captionTop": 599.03125,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 1017,
+          "width": 1440,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 180,
+              "height": 320,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 57.63691711425781,
+              "right": 266.36309814453125,
+              "bottom": 836.1575927734375,
+              "captionTop": 842.75,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "sections": {
+        "services": {
+          "height": 1248,
+          "width": 1920,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 186,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 170,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 1064.5614013671875,
+              "right": 1223.2509765625,
+              "bottom": 611.0646362304688,
+              "captionTop": 630.0625,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 1373.458740234375,
+              "right": 1532.353759765625,
+              "bottom": 621.4966430664062,
+              "captionTop": 630.0625,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 1058,
+          "width": 1920,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 180,
+              "height": 320,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 225.6369171142578,
+              "right": 434.36309814453125,
+              "bottom": 914.5482177734375,
+              "captionTop": 921.140625,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "sections": {
+        "services": {
+          "height": 1031,
+          "width": 1024,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 186,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 170,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 494.73333740234375,
+              "right": 653.4229125976562,
+              "bottom": 435.23651123046875,
+              "captionTop": 454.234375,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 803.630615234375,
+              "right": 962.525634765625,
+              "bottom": 445.66851806640625,
+              "captionTop": 454.234375,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 961,
+          "width": 1024,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 180,
+              "height": 320,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 36.84297561645508,
+              "right": 245.32890701293945,
+              "bottom": 670.2965698242188,
+              "captionTop": 676.890625,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "sections": {
+        "services": {
+          "height": 1460,
+          "width": 768,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 186,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 129,
+              "height": 170,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 39.56145477294922,
+              "right": 198.25102996826172,
+              "bottom": 556.1583862304688,
+              "captionTop": 575.15625,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 210.05250549316406,
+              "right": 368.947509765625,
+              "bottom": 566.5903930664062,
+              "captionTop": 575.15625,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 1558,
+          "width": 768,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 180,
+              "height": 320,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 24.043167114257812,
+              "right": 232.7693328857422,
+              "bottom": 461.5637969970703,
+              "captionTop": 468.15625,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "sections": {
+        "services": {
+          "height": 1872,
+          "width": 390,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 145,
+              "height": 209,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 145,
+              "height": 191,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 16.836572647094727,
+              "right": 192.16341590881348,
+              "bottom": 291.486629486084,
+              "captionTop": 304.21875,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 197.72515869140625,
+              "right": 373.27484130859375,
+              "bottom": 297.99273681640625,
+              "captionTop": 304.21875,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 1524,
+          "width": 390,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 148,
+              "height": 262,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 6.038057327270508,
+              "right": 181.50882148742676,
+              "bottom": 329.65259552001953,
+              "captionTop": 336.46875,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "sections": {
+        "services": {
+          "height": 1920,
+          "width": 320,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 114,
+              "height": 164,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 114,
+              "height": 150,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 17.454185485839844,
+              "right": 160.54582977294922,
+              "bottom": 191.60942268371582,
+              "captionTop": 207.4375,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 159.35946655273438,
+              "right": 302.6405334472656,
+              "bottom": 201.8596897125244,
+              "captionTop": 207.4375,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 1685,
+          "width": 320,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 116,
+              "height": 207,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 6.422573089599609,
+              "right": 150.01491928100586,
+              "bottom": 192.43809509277344,
+              "captionTop": 199.46875,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "sections": {
+        "services": {
+          "height": 1457,
+          "width": 740,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team holding a caged inspection drone beside an industrial access opening",
+              "loaded": true,
+              "lazy": true,
+              "width": 125,
+              "height": 180,
+              "fit": "contain"
+            },
+            {
+              "alt": "A helmeted team member looking into an industrial interior with rows of circular openings",
+              "loaded": true,
+              "lazy": true,
+              "width": 125,
+              "height": 165,
+              "fit": "contain"
+            }
+          ],
+          "frames": [
+            {
+              "left": 38.234920501708984,
+              "right": 192.76507186889648,
+              "bottom": 223.1974105834961,
+              "captionTop": 248.015625,
+              "decorative": true,
+              "interactive": "none"
+            },
+            {
+              "left": 200.13421630859375,
+              "right": 354.86578369140625,
+              "bottom": 234.12264251708984,
+              "captionTop": 248.015625,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        },
+        "safety": {
+          "height": 1558,
+          "width": 740,
+          "overflow": false,
+          "photos": [
+            {
+              "alt": "Skyriders team carrying inspection equipment through an industrial site",
+              "loaded": true,
+              "lazy": true,
+              "width": 180,
+              "height": 320,
+              "fit": "fill"
+            }
+          ],
+          "frames": [
+            {
+              "left": 22.636917114257812,
+              "right": 231.3630828857422,
+              "bottom": 134.6106719970703,
+              "captionTop": 141.203125,
+              "decorative": true,
+              "interactive": "none"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "checks": [
+    "native exclusive services and closing clearance",
+    "preserved full photos/lazy load",
+    "finite photo entry",
+    "live brief and contact handoff",
+    "no JavaScript",
+    "failed photographs"
+  ],
+  "errors": []
+}

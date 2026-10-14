@@ -1,0 +1,76 @@
+{
+  "origin": "http://localhost:3014",
+  "results": [
+    {
+      "width": 1900,
+      "height": 906,
+      "closing": {
+        "height": 217,
+        "columns": "590.391px 763.188px"
+      },
+      "serviceHeight": 1271
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "closing": {
+        "height": 217,
+        "columns": "531.359px 686.875px"
+      },
+      "serviceHeight": 1204
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "closing": {
+        "height": 217,
+        "columns": "377.844px 488.438px"
+      },
+      "serviceHeight": 1186
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "closing": {
+        "height": 237,
+        "columns": "329.594px 329.594px"
+      },
+      "serviceHeight": 1645
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "closing": {
+        "height": 437,
+        "columns": "350px"
+      },
+      "serviceHeight": 2130
+    },
+    {
+      "width": 320,
+      "height": 700,
+      "closing": {
+        "height": 457,
+        "columns": "280px"
+      },
+      "serviceHeight": 2229
+    },
+    {
+      "width": 740,
+      "height": 390,
+      "closing": {
+        "height": 237,
+        "columns": "317px 317px"
+      },
+      "serviceHeight": 1642
+    }
+  ],
+  "checks": [
+    "five asset panel clearances",
+    "three keyboard disclosures",
+    "control/document bounds",
+    "window-washing fragment/action",
+    "no-JS washing access"
+  ],
+  "errors": []
+}

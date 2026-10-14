@@ -1,0 +1,13 @@
+# Held hero / rising Inspection Perspective — 13 October
+
+Owner correction supersedes H17's shared moving camera: the hero must hold still and fade into perspective while the next section comes up.
+
+The hero now holds vertically with CSS sticky, retains its normal layout space and fades from opacity 1 to 0 with a smooth native-scroll curve. Its visible centre is the scale/tilt origin: maximum desktop scale .935 / tilt −2.5°, mobile .97 / −1°. There is no vertical transform on the hero or shared track. About moves upward in ordinary document flow on a higher layer. Tall heroes can scroll through their complete content before holding their final viewport. The hold releases only once the hero's natural boundary is offscreen; its final faded pose is retained until then to prevent a flash. Upward scroll reverses the fade. No extra scroll range or new dependency.
+
+The shared set background is charcoal; existing About gradient/artwork/copy remain. Navigation/logo/Back-to-top use the hero's natural boundary rather than the held backdrop. Existing nested entrances and drone hover remain separate. Native fragment geometry, focus settlement, menu, live reduced motion, no-JS, image failure and hidden/offscreen suspension retain H17's access behaviour.
+
+Development verification on port 3006 passes seven Chrome sizes and all targeted access/fallback checks. At 1440×1000, the hero's layout top stays −81px across all transition samples while About rises from 999.5px through 779.5/559.5/339.5 to 119.5px. Hero opacity follows 1/.84375/.5/.15625/0; midpoint scale .9675 with −1.25° tilt. Reverse poses match; stopped scroll leaves the hero unchanged; no reappearance before About covers it. Set/document heights stay 2125/6884px. No horizontal overflow or captured exceptions.
+
+Production evidence and final check result are recorded in `verification.json`; development evidence remains `development-verification.json`. The script covers seven sizes (1440×1000, 1920×1080, 1024×768, 768×1024, 390×844, 320×700, 740×390), held hero/rising About/monotonic fade/reversal/stationary state, no final flash/release, About/story fragments, direct hash, hero service focus, focus settlement/resumption, mobile menu/Escape/resumption, live reduced preference, no-JS and failed-art paths. Lint without warnings, TypeScript/Next.js 16.3.8 production build and whitespace checks pass. No new environment setup, asset generation or package.
+
+Next: Ishe reviews by scrolling down/up from http://localhost:3006/home/. Owner visual acceptance, physical devices/other engines and integrated release gates remain open. H17 evidence remains historical. No deployment or packaging.
